@@ -1,0 +1,6414 @@
+{
+  "version": "V1",
+  "generatedFrom": "JF & VJ · 755条品类词正式监测词库.xlsx",
+  "generatedFromSheet": "V1固定监测词",
+  "totalCount": 755,
+  "byBrand": {
+    "JF": 433,
+    "VJ": 322
+  },
+  "groups": [
+    {
+      "brand": "JF",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "brand": "JF",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "brand": "JF",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "brand": "JF",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "brand": "VJ",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "brand": "VJ",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "brand": "VJ",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "brand": "VJ",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    }
+  ],
+  "byGroup": {
+    "JF|JF-01": 106,
+    "JF|JF-03": 133,
+    "JF|JF-02": 148,
+    "JF|JF-04": 46,
+    "VJ|VJ-02": 104,
+    "VJ|VJ-04": 117,
+    "VJ|VJ-03": 86,
+    "VJ|VJ-01": 15
+  },
+  "accentEquivalents": {
+    "uniformes quirurgicos": {
+      "variants": [
+        "uniformes quirurgicos",
+        "uniformes quirúrgicos"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme quirurgico": {
+      "variants": [
+        "uniforme quirurgico",
+        "uniforme quirúrgico"
+      ],
+      "group": "JF-01"
+    },
+    "quirurgico": {
+      "variants": [
+        "quirurgico",
+        "quirúrgico"
+      ],
+      "group": "JF-01"
+    },
+    "quirurgicos": {
+      "variants": [
+        "quirurgicos",
+        "quirúrgicos"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme quirurgico mujer": {
+      "variants": [
+        "uniforme quirurgico mujer",
+        "uniforme quirúrgico mujer"
+      ],
+      "group": "JF-03"
+    },
+    "pijama quirurgica": {
+      "variants": [
+        "pijama quirurgica",
+        "pijama quirúrgica"
+      ],
+      "group": "JF-01"
+    },
+    "scrubs medicos": {
+      "variants": [
+        "scrubs medicos",
+        "scrubs médicos"
+      ],
+      "group": "JF-01"
+    },
+    "quirurgicos mujer": {
+      "variants": [
+        "quirurgicos mujer",
+        "quirúrgicos mujer"
+      ],
+      "group": "JF-03"
+    },
+    "pijamas quirurgicas": {
+      "variants": [
+        "pijamas quirurgicas",
+        "pijamas quirúrgicas"
+      ],
+      "group": "JF-01"
+    },
+    "traje quirurgico": {
+      "variants": [
+        "traje quirurgico",
+        "traje quirúrgico"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme de psicologia": {
+      "variants": [
+        "uniforme de psicologia",
+        "uniforme de psicología"
+      ],
+      "group": "JF-02"
+    },
+    "uniformes quirurgicos mujer": {
+      "variants": [
+        "uniformes quirurgicos mujer",
+        "uniformes quirúrgicos mujer"
+      ],
+      "group": "JF-03"
+    },
+    "uniformes medicos": {
+      "variants": [
+        "uniformes medicos",
+        "uniformes médicos"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme quirurgico hombre": {
+      "variants": [
+        "uniforme quirurgico hombre",
+        "uniforme quirúrgico hombre"
+      ],
+      "group": "JF-03"
+    },
+    "traje quirurgico mujer": {
+      "variants": [
+        "traje quirurgico mujer",
+        "traje quirúrgico mujer"
+      ],
+      "group": "JF-03"
+    },
+    "quirurgicos hombre": {
+      "variants": [
+        "quirurgicos hombre",
+        "quirúrgicos hombre"
+      ],
+      "group": "JF-03"
+    },
+    "quirurgico mujer": {
+      "variants": [
+        "quirúrgico mujer",
+        "quirurgico mujer"
+      ],
+      "group": "JF-03"
+    },
+    "uniformes quirurgicos hombre": {
+      "variants": [
+        "uniformes quirúrgicos hombre",
+        "uniformes quirurgicos hombre"
+      ],
+      "group": "JF-03"
+    },
+    "traje quirurgico hombre": {
+      "variants": [
+        "traje quirurgico hombre",
+        "traje quirúrgico hombre"
+      ],
+      "group": "JF-03"
+    },
+    "marcas de uniformes medicos": {
+      "variants": [
+        "marcas de uniformes medicos",
+        "marcas de uniformes médicos"
+      ],
+      "group": "JF-04"
+    },
+    "uniformes clinicos": {
+      "variants": [
+        "uniformes clinicos",
+        "uniformes clínicos"
+      ],
+      "group": "JF-01"
+    },
+    "trajes quirurgicos mujer": {
+      "variants": [
+        "trajes quirurgicos mujer",
+        "trajes quirúrgicos mujer"
+      ],
+      "group": "JF-03"
+    },
+    "uniforme medico": {
+      "variants": [
+        "uniforme medico",
+        "uniforme médico"
+      ],
+      "group": "JF-01"
+    },
+    "ropa quirurgica": {
+      "variants": [
+        "ropa quirurgica",
+        "ropa quirúrgica"
+      ],
+      "group": "JF-01"
+    },
+    "quirurgico hombre": {
+      "variants": [
+        "quirurgico hombre",
+        "quirúrgico hombre"
+      ],
+      "group": "JF-03"
+    },
+    "pijama quirurgica mujer": {
+      "variants": [
+        "pijama quirurgica mujer",
+        "pijama quirúrgica mujer"
+      ],
+      "group": "JF-03"
+    },
+    "uniformes de psicologia": {
+      "variants": [
+        "uniformes de psicologia",
+        "uniformes de psicología"
+      ],
+      "group": "JF-02"
+    },
+    "uniformes quirurgicos mujer modernos": {
+      "variants": [
+        "uniformes quirúrgicos mujer modernos",
+        "uniformes quirurgicos mujer modernos"
+      ],
+      "group": "JF-03"
+    },
+    "uniformes quirurgico": {
+      "variants": [
+        "uniformes quirúrgico",
+        "uniformes quirurgico"
+      ],
+      "group": "JF-01"
+    },
+    "ropa de medico": {
+      "variants": [
+        "ropa de medico",
+        "ropa de médico"
+      ],
+      "group": "JF-02"
+    },
+    "quirurgico uniforme": {
+      "variants": [
+        "quirúrgico uniforme",
+        "quirurgico uniforme"
+      ],
+      "group": "JF-01"
+    },
+    "uniformes medicos usa": {
+      "variants": [
+        "uniformes medicos usa",
+        "uniformes médicos usa"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme para psicologos": {
+      "variants": [
+        "uniforme para psicologos",
+        "uniforme para psicólogos"
+      ],
+      "group": "JF-02"
+    },
+    "ropa de quirofano": {
+      "variants": [
+        "ropa de quirofano",
+        "ropa de quirófano"
+      ],
+      "group": "JF-01"
+    },
+    "uniforme de medico": {
+      "variants": [
+        "uniforme de medico",
+        "uniforme de médico"
+      ],
+      "group": "JF-02"
+    },
+    "uniforme de psicologo": {
+      "variants": [
+        "uniforme de psicólogo",
+        "uniforme de psicologo"
+      ],
+      "group": "JF-02"
+    },
+    "uniformes para psicologos": {
+      "variants": [
+        "uniformes para psicólogos",
+        "uniformes para psicologos"
+      ],
+      "group": "JF-02"
+    },
+    "uniformes enfermeria": {
+      "variants": [
+        "uniformes enfermeria",
+        "uniformes enfermería"
+      ],
+      "group": "JF-02"
+    },
+    "filipinas quirurgicas": {
+      "variants": [
+        "filipinas quirurgicas",
+        "filipinas quirúrgicas"
+      ],
+      "group": "JF-03"
+    },
+    "uniformes quirurgicos mujer baratos": {
+      "variants": [
+        "uniformes quirúrgicos mujer baratos",
+        "uniformes quirurgicos mujer baratos"
+      ],
+      "group": "JF-04"
+    },
+    "termos para agua fria": {
+      "variants": [
+        "termos para agua fria",
+        "termos para agua fría"
+      ],
+      "group": "VJ-02"
+    },
+    "vasos termicos": {
+      "variants": [
+        "vasos termicos",
+        "vasos térmicos"
+      ],
+      "group": "VJ-01"
+    },
+    "cuales son los mejores termos": {
+      "variants": [
+        "cuales son los mejores termos",
+        "cuáles son los mejores termos"
+      ],
+      "group": "VJ-04"
+    },
+    "cual es el mejor termo": {
+      "variants": [
+        "cual es el mejor termo",
+        "cuál es el mejor termo"
+      ],
+      "group": "VJ-04"
+    }
+  },
+  "keywords": [
+    {
+      "id": "JF-0001",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos",
+      "keywordOriginal": "uniformes quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0002",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico",
+      "keywordOriginal": "uniforme quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0003",
+      "brand": "JF",
+      "keyword": "quirurgico",
+      "keywordOriginal": "quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0004",
+      "brand": "JF",
+      "keyword": "scrubs",
+      "keywordOriginal": "scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0005",
+      "brand": "JF",
+      "keyword": "scrub",
+      "keywordOriginal": "scrub",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0006",
+      "brand": "JF",
+      "keyword": "quirurgicos",
+      "keywordOriginal": "quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0007",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico mujer",
+      "keywordOriginal": "uniforme quirurgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0008",
+      "brand": "JF",
+      "keyword": "pijama quirurgica",
+      "keywordOriginal": "pijama quirurgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0009",
+      "brand": "JF",
+      "keyword": "scrubs medicos",
+      "keywordOriginal": "scrubs medicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0010",
+      "brand": "JF",
+      "keyword": "quirurgicos mujer",
+      "keywordOriginal": "quirurgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0011",
+      "brand": "JF",
+      "keyword": "pijamas quirurgicas",
+      "keywordOriginal": "pijamas quirurgicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0012",
+      "brand": "JF",
+      "keyword": "traje quirurgico",
+      "keywordOriginal": "traje quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0013",
+      "brand": "JF",
+      "keyword": "uniforme de psicologia",
+      "keywordOriginal": "uniforme de psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0014",
+      "brand": "JF",
+      "keyword": "uniformes",
+      "keywordOriginal": "uniformes",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0015",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos mujer",
+      "keywordOriginal": "uniformes quirurgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0016",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico mujer",
+      "keywordOriginal": "uniforme quirúrgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0017",
+      "brand": "JF",
+      "keyword": "doctor uniform",
+      "keywordOriginal": "doctor uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0018",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico",
+      "keywordOriginal": "uniforme quirúrgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0019",
+      "brand": "JF",
+      "keyword": "uniformes medicos",
+      "keywordOriginal": "uniformes medicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0020",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico hombre",
+      "keywordOriginal": "uniforme quirurgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0021",
+      "brand": "JF",
+      "keyword": "scrub medico",
+      "keywordOriginal": "scrub medico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0022",
+      "brand": "JF",
+      "keyword": "traje quirurgico mujer",
+      "keywordOriginal": "traje quirurgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0023",
+      "brand": "JF",
+      "keyword": "trajes quirurgicos",
+      "keywordOriginal": "trajes quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0024",
+      "brand": "JF",
+      "keyword": "quirurgicos hombre",
+      "keywordOriginal": "quirurgicos hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0025",
+      "brand": "JF",
+      "keyword": "uniforme psicologia",
+      "keywordOriginal": "uniforme psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0026",
+      "brand": "JF",
+      "keyword": "surgeon uniform",
+      "keywordOriginal": "surgeon uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0027",
+      "brand": "JF",
+      "keyword": "quirúrgico mujer",
+      "keywordOriginal": "quirúrgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0028",
+      "brand": "JF",
+      "keyword": "quirúrgicos",
+      "keywordOriginal": "quirúrgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0029",
+      "brand": "JF",
+      "keyword": "uniforme de fisioterapia",
+      "keywordOriginal": "uniforme de fisioterapia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0030",
+      "brand": "JF",
+      "keyword": "uniforme negro",
+      "keywordOriginal": "uniforme negro",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0031",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos",
+      "keywordOriginal": "uniformes quirúrgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0032",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos hombre",
+      "keywordOriginal": "uniformes quirúrgicos hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0033",
+      "brand": "JF",
+      "keyword": "uniforme",
+      "keywordOriginal": "uniforme",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0034",
+      "brand": "JF",
+      "keyword": "psychologist uniform",
+      "keywordOriginal": "psychologist uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0035",
+      "brand": "JF",
+      "keyword": "uniforme de psicología",
+      "keywordOriginal": "uniforme de psicología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0036",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos mujer",
+      "keywordOriginal": "uniformes quirúrgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0037",
+      "brand": "JF",
+      "keyword": "traje quirurgico hombre",
+      "keywordOriginal": "traje quirurgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0038",
+      "brand": "JF",
+      "keyword": "marcas de uniformes medicos",
+      "keywordOriginal": "marcas de uniformes medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0039",
+      "brand": "JF",
+      "keyword": "mejores uniformes quirurgicos",
+      "keywordOriginal": "mejores uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0040",
+      "brand": "JF",
+      "keyword": "scrap uniforme",
+      "keywordOriginal": "scrap uniforme",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0041",
+      "brand": "JF",
+      "keyword": "uniformes clinicos",
+      "keywordOriginal": "uniformes clinicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0042",
+      "brand": "JF",
+      "keyword": "trajes quirurgicos mujer",
+      "keywordOriginal": "trajes quirurgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0043",
+      "brand": "JF",
+      "keyword": "conjuntos quirurgicos dama",
+      "keywordOriginal": "conjuntos quirurgicos dama",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0044",
+      "brand": "JF",
+      "keyword": "quirúrgicos mujer",
+      "keywordOriginal": "quirúrgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0045",
+      "brand": "JF",
+      "keyword": "ropa de doctor",
+      "keywordOriginal": "ropa de doctor",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0046",
+      "brand": "JF",
+      "keyword": "traje quirúrgico mujer",
+      "keywordOriginal": "traje quirúrgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0047",
+      "brand": "JF",
+      "keyword": "conjuntos quirurgicos",
+      "keywordOriginal": "conjuntos quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0048",
+      "brand": "JF",
+      "keyword": "traje de dentista",
+      "keywordOriginal": "traje de dentista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0049",
+      "brand": "JF",
+      "keyword": "marcas de scrubs",
+      "keywordOriginal": "marcas de scrubs",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0050",
+      "brand": "JF",
+      "keyword": "marcas de uniformes quirurgicos",
+      "keywordOriginal": "marcas de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0051",
+      "brand": "JF",
+      "keyword": "pijama quirurgica azul marino",
+      "keywordOriginal": "pijama quirurgica azul marino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0052",
+      "brand": "JF",
+      "keyword": "traje quirúrgico",
+      "keywordOriginal": "traje quirúrgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0053",
+      "brand": "JF",
+      "keyword": "uniforme medico",
+      "keywordOriginal": "uniforme medico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0054",
+      "brand": "JF",
+      "keyword": "uniforme de enfermero hombre",
+      "keywordOriginal": "uniforme de enfermero hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0055",
+      "brand": "JF",
+      "keyword": "uniformes de trabajo mujer",
+      "keywordOriginal": "uniformes de trabajo mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0056",
+      "brand": "JF",
+      "keyword": "ropa quirurgica",
+      "keywordOriginal": "ropa quirurgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0057",
+      "brand": "JF",
+      "keyword": "trajes quirurgicos hombre",
+      "keywordOriginal": "trajes quirurgicos hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0058",
+      "brand": "JF",
+      "keyword": "doctors uniform",
+      "keywordOriginal": "doctors uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0059",
+      "brand": "JF",
+      "keyword": "uniforme fisioterapia",
+      "keywordOriginal": "uniforme fisioterapia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0060",
+      "brand": "JF",
+      "keyword": "quirurgico hombre",
+      "keywordOriginal": "quirurgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0061",
+      "brand": "JF",
+      "keyword": "conjunto quirurgico mujer",
+      "keywordOriginal": "conjunto quirurgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0062",
+      "brand": "JF",
+      "keyword": "pijama quirúrgica",
+      "keywordOriginal": "pijama quirúrgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0063",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico hombre",
+      "keywordOriginal": "uniforme quirúrgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0064",
+      "brand": "JF",
+      "keyword": "pijamas quirurgicas mujer",
+      "keywordOriginal": "pijamas quirurgicas mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0065",
+      "brand": "JF",
+      "keyword": "traje de psicologa",
+      "keywordOriginal": "traje de psicologa",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0066",
+      "brand": "JF",
+      "keyword": "pijama quirurgica mujer",
+      "keywordOriginal": "pijama quirurgica mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0067",
+      "brand": "JF",
+      "keyword": "radiologist uniform",
+      "keywordOriginal": "radiologist uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0068",
+      "brand": "JF",
+      "keyword": "uniformes de psicologia",
+      "keywordOriginal": "uniformes de psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0069",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos hombre",
+      "keywordOriginal": "uniformes quirurgicos hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0070",
+      "brand": "JF",
+      "keyword": "uniforme de doctor",
+      "keywordOriginal": "uniforme de doctor",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0071",
+      "brand": "JF",
+      "keyword": "scrubs ropa",
+      "keywordOriginal": "scrubs ropa",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0072",
+      "brand": "JF",
+      "keyword": "quirurgico mujer",
+      "keywordOriginal": "quirurgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0073",
+      "brand": "JF",
+      "keyword": "scrub psicologia",
+      "keywordOriginal": "scrub psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0074",
+      "brand": "JF",
+      "keyword": "uniformes médicos",
+      "keywordOriginal": "uniformes médicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0075",
+      "brand": "JF",
+      "keyword": "ropa de psicologa",
+      "keywordOriginal": "ropa de psicologa",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0076",
+      "brand": "JF",
+      "keyword": "uniforme comunitario de enfermería",
+      "keywordOriginal": "uniforme comunitario de enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0077",
+      "brand": "JF",
+      "keyword": "marcas de quirurgicos",
+      "keywordOriginal": "marcas de quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0078",
+      "brand": "JF",
+      "keyword": "quirúrgico",
+      "keywordOriginal": "quirúrgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0079",
+      "brand": "JF",
+      "keyword": "tienda de uniformes quirurgicos",
+      "keywordOriginal": "tienda de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0080",
+      "brand": "JF",
+      "keyword": "traje medico",
+      "keywordOriginal": "traje medico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0081",
+      "brand": "JF",
+      "keyword": "ambo medico",
+      "keywordOriginal": "ambo medico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0082",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos mujer modernos",
+      "keywordOriginal": "uniformes quirúrgicos mujer modernos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0083",
+      "brand": "JF",
+      "keyword": "scrubs en español",
+      "keywordOriginal": "scrubs en español",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0084",
+      "brand": "JF",
+      "keyword": "scrub quirurgico",
+      "keywordOriginal": "scrub quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0085",
+      "brand": "JF",
+      "keyword": "mejores marcas de uniformes quirúrgicos",
+      "keywordOriginal": "mejores marcas de uniformes quirúrgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0086",
+      "brand": "JF",
+      "keyword": "marcas de scrubs medicos",
+      "keywordOriginal": "marcas de scrubs medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0087",
+      "brand": "JF",
+      "keyword": "verde quirurgico color",
+      "keywordOriginal": "verde quirurgico color",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0088",
+      "brand": "JF",
+      "keyword": "quirurgico azul marino",
+      "keywordOriginal": "quirurgico azul marino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0089",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgico",
+      "keywordOriginal": "uniformes quirúrgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0090",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico verde",
+      "keywordOriginal": "uniforme quirurgico verde",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0091",
+      "brand": "JF",
+      "keyword": "scrubs for medical students",
+      "keywordOriginal": "scrubs for medical students",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0092",
+      "brand": "JF",
+      "keyword": "uniforme comunitario enfermeria",
+      "keywordOriginal": "uniforme comunitario enfermeria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0093",
+      "brand": "JF",
+      "keyword": "uniforme de psicologa",
+      "keywordOriginal": "uniforme de psicologa",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0094",
+      "brand": "JF",
+      "keyword": "uniforme de radiología",
+      "keywordOriginal": "uniforme de radiología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0095",
+      "brand": "JF",
+      "keyword": "uniforme de enfermería hombre",
+      "keywordOriginal": "uniforme de enfermería hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0096",
+      "brand": "JF",
+      "keyword": "quirurjicos",
+      "keywordOriginal": "quirurjicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0097",
+      "brand": "JF",
+      "keyword": "surgical scrubs",
+      "keywordOriginal": "surgical scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0098",
+      "brand": "JF",
+      "keyword": "uniformes de trabajo para mujeres",
+      "keywordOriginal": "uniformes de trabajo para mujeres",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0099",
+      "brand": "JF",
+      "keyword": "venta de uniformes quirurgicos",
+      "keywordOriginal": "venta de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0100",
+      "brand": "JF",
+      "keyword": "uniforme de cirujano",
+      "keywordOriginal": "uniforme de cirujano",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0101",
+      "brand": "JF",
+      "keyword": "uniforme enfermero hombre",
+      "keywordOriginal": "uniforme enfermero hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0102",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgico mujer",
+      "keywordOriginal": "uniformes quirúrgico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0103",
+      "brand": "JF",
+      "keyword": "ropa de medico",
+      "keywordOriginal": "ropa de medico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0104",
+      "brand": "JF",
+      "keyword": "ropa de dentista",
+      "keywordOriginal": "ropa de dentista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0105",
+      "brand": "JF",
+      "keyword": "uniforme scrub",
+      "keywordOriginal": "uniforme scrub",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0106",
+      "brand": "JF",
+      "keyword": "medical scrubs",
+      "keywordOriginal": "medical scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0107",
+      "brand": "JF",
+      "keyword": "uniformes de psicología",
+      "keywordOriginal": "uniformes de psicología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0108",
+      "brand": "JF",
+      "keyword": "modelos de uniformes de enfermeros hombres",
+      "keywordOriginal": "modelos de uniformes de enfermeros hombres",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0109",
+      "brand": "JF",
+      "keyword": "marca de uniformes medicos",
+      "keywordOriginal": "marca de uniformes medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0110",
+      "brand": "JF",
+      "keyword": "psicología uniforme",
+      "keywordOriginal": "psicología uniforme",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0111",
+      "brand": "JF",
+      "keyword": "uniforme quirurjico",
+      "keywordOriginal": "uniforme quirurjico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0112",
+      "brand": "JF",
+      "keyword": "uniforme de nutricionista",
+      "keywordOriginal": "uniforme de nutricionista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0113",
+      "brand": "JF",
+      "keyword": "quirúrgicos hombre",
+      "keywordOriginal": "quirúrgicos hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0114",
+      "brand": "JF",
+      "keyword": "quirúrgico hombre",
+      "keywordOriginal": "quirúrgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0115",
+      "brand": "JF",
+      "keyword": "uniforme de psicólogo clínico",
+      "keywordOriginal": "uniforme de psicólogo clínico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0116",
+      "brand": "JF",
+      "keyword": "quirúrgico uniforme",
+      "keywordOriginal": "quirúrgico uniforme",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0117",
+      "brand": "JF",
+      "keyword": "uniformes medicos usa",
+      "keywordOriginal": "uniformes medicos usa",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0118",
+      "brand": "JF",
+      "keyword": "scrubs quirúrgicos",
+      "keywordOriginal": "scrubs quirúrgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0119",
+      "brand": "JF",
+      "keyword": "scrubs psicologia",
+      "keywordOriginal": "scrubs psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0120",
+      "brand": "JF",
+      "keyword": "uniforme para psicologos",
+      "keywordOriginal": "uniforme para psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0121",
+      "brand": "JF",
+      "keyword": "mejores marcas de uniformes medicos",
+      "keywordOriginal": "mejores marcas de uniformes medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0122",
+      "brand": "JF",
+      "keyword": "radiology scrub color",
+      "keywordOriginal": "radiology scrub color",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0123",
+      "brand": "JF",
+      "keyword": "uniformes de enfermería baratos",
+      "keywordOriginal": "uniformes de enfermería baratos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0124",
+      "brand": "JF",
+      "keyword": "ropa de quirofano",
+      "keywordOriginal": "ropa de quirofano",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0125",
+      "brand": "JF",
+      "keyword": "pijamas quirúrgicas",
+      "keywordOriginal": "pijamas quirúrgicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0126",
+      "brand": "JF",
+      "keyword": "ropa medica",
+      "keywordOriginal": "ropa medica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0127",
+      "brand": "JF",
+      "keyword": "uniformes psicologia",
+      "keywordOriginal": "uniformes psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0128",
+      "brand": "JF",
+      "keyword": "ropa quirúrgica",
+      "keywordOriginal": "ropa quirúrgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0129",
+      "brand": "JF",
+      "keyword": "pijama antifluido",
+      "keywordOriginal": "pijama antifluido",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0130",
+      "brand": "JF",
+      "keyword": "uniforme negro en medicina",
+      "keywordOriginal": "uniforme negro en medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0131",
+      "brand": "JF",
+      "keyword": "uniforme de odontología para mujer",
+      "keywordOriginal": "uniforme de odontología para mujer",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0132",
+      "brand": "JF",
+      "keyword": "uniforme antifluido mujer",
+      "keywordOriginal": "uniforme antifluido mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0133",
+      "brand": "JF",
+      "keyword": "uniforme verde",
+      "keywordOriginal": "uniforme verde",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0134",
+      "brand": "JF",
+      "keyword": "uniforme psicologo",
+      "keywordOriginal": "uniforme psicologo",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0135",
+      "brand": "JF",
+      "keyword": "scrubs uniformes",
+      "keywordOriginal": "scrubs uniformes",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0136",
+      "brand": "JF",
+      "keyword": "uniforme de medico",
+      "keywordOriginal": "uniforme de medico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0137",
+      "brand": "JF",
+      "keyword": "uniforme de psicólogo",
+      "keywordOriginal": "uniforme de psicólogo",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0138",
+      "brand": "JF",
+      "keyword": "pijamas medicas",
+      "keywordOriginal": "pijamas medicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0139",
+      "brand": "JF",
+      "keyword": "traje clinico psicologia",
+      "keywordOriginal": "traje clinico psicologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0140",
+      "brand": "JF",
+      "keyword": "scrub rojo",
+      "keywordOriginal": "scrub rojo",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0141",
+      "brand": "JF",
+      "keyword": "uniforme qx",
+      "keywordOriginal": "uniforme qx",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0142",
+      "brand": "JF",
+      "keyword": "uniforme de psicologo",
+      "keywordOriginal": "uniforme de psicologo",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0143",
+      "brand": "JF",
+      "keyword": "pijama quirurgica azul",
+      "keywordOriginal": "pijama quirurgica azul",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0144",
+      "brand": "JF",
+      "keyword": "uniforme médico",
+      "keywordOriginal": "uniforme médico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0145",
+      "brand": "JF",
+      "keyword": "pijama quirúrgica antifluidos",
+      "keywordOriginal": "pijama quirúrgica antifluidos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0146",
+      "brand": "JF",
+      "keyword": "mejores marcas de scrubs",
+      "keywordOriginal": "mejores marcas de scrubs",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0147",
+      "brand": "JF",
+      "keyword": "quirurgico negro",
+      "keywordOriginal": "quirurgico negro",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0148",
+      "brand": "JF",
+      "keyword": "pijama quirurgica mujer azul marino",
+      "keywordOriginal": "pijama quirurgica mujer azul marino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0149",
+      "brand": "JF",
+      "keyword": "uniforme de terapeuta",
+      "keywordOriginal": "uniforme de terapeuta",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0150",
+      "brand": "JF",
+      "keyword": "tela antifluidos para uniformes médicos",
+      "keywordOriginal": "tela antifluidos para uniformes médicos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0151",
+      "brand": "JF",
+      "keyword": "uniformes para psicólogos",
+      "keywordOriginal": "uniformes para psicólogos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0152",
+      "brand": "JF",
+      "keyword": "uniformes americanos",
+      "keywordOriginal": "uniformes americanos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0153",
+      "brand": "JF",
+      "keyword": "uniformes enfermeria",
+      "keywordOriginal": "uniformes enfermeria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0154",
+      "brand": "JF",
+      "keyword": "filipinas quirurgicas",
+      "keywordOriginal": "filipinas quirurgicas",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0155",
+      "brand": "JF",
+      "keyword": "uniforme de fisioterapia y rehabilitación",
+      "keywordOriginal": "uniforme de fisioterapia y rehabilitación",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0156",
+      "brand": "JF",
+      "keyword": "scrubs mexico",
+      "keywordOriginal": "scrubs mexico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0157",
+      "brand": "JF",
+      "keyword": "uniformes qx",
+      "keywordOriginal": "uniformes qx",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0158",
+      "brand": "JF",
+      "keyword": "traje de medico",
+      "keywordOriginal": "traje de medico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0159",
+      "brand": "JF",
+      "keyword": "physiotherapist uniform",
+      "keywordOriginal": "physiotherapist uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0160",
+      "brand": "JF",
+      "keyword": "scrubs de algodon",
+      "keywordOriginal": "scrubs de algodon",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0161",
+      "brand": "JF",
+      "keyword": "uniformes fit",
+      "keywordOriginal": "uniformes fit",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0162",
+      "brand": "JF",
+      "keyword": "uniforme de medicina",
+      "keywordOriginal": "uniforme de medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0163",
+      "brand": "JF",
+      "keyword": "scrubs marcas",
+      "keywordOriginal": "scrubs marcas",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0164",
+      "brand": "JF",
+      "keyword": "uniforme reglamentario de enfermeria",
+      "keywordOriginal": "uniforme reglamentario de enfermeria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0165",
+      "brand": "JF",
+      "keyword": "tela de uniformes medicos",
+      "keywordOriginal": "tela de uniformes medicos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0166",
+      "brand": "JF",
+      "keyword": "traje quirurjico",
+      "keywordOriginal": "traje quirurjico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0167",
+      "brand": "JF",
+      "keyword": "uniformes para fisioterapeutas",
+      "keywordOriginal": "uniformes para fisioterapeutas",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0168",
+      "brand": "JF",
+      "keyword": "uniforme medico mujer",
+      "keywordOriginal": "uniforme medico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0169",
+      "brand": "JF",
+      "keyword": "uniforme psicologa",
+      "keywordOriginal": "uniforme psicologa",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0170",
+      "brand": "JF",
+      "keyword": "pijama quirúrgica mujer",
+      "keywordOriginal": "pijama quirúrgica mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0171",
+      "brand": "JF",
+      "keyword": "psychology uniform",
+      "keywordOriginal": "psychology uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0172",
+      "brand": "JF",
+      "keyword": "pijamas quirurgicas hombre",
+      "keywordOriginal": "pijamas quirurgicas hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0173",
+      "brand": "JF",
+      "keyword": "physiotherapist scrub color",
+      "keywordOriginal": "physiotherapist scrub color",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0174",
+      "brand": "JF",
+      "keyword": "indumentaria quirurgica",
+      "keywordOriginal": "indumentaria quirurgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0175",
+      "brand": "JF",
+      "keyword": "uniformes antifluidos para mujer",
+      "keywordOriginal": "uniformes antifluidos para mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0176",
+      "brand": "JF",
+      "keyword": "uniformes quirurjicos",
+      "keywordOriginal": "uniformes quirurjicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0177",
+      "brand": "JF",
+      "keyword": "dietitian scrubs",
+      "keywordOriginal": "dietitian scrubs",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0178",
+      "brand": "JF",
+      "keyword": "filipinas para mujer modernas",
+      "keywordOriginal": "filipinas para mujer modernas",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0179",
+      "brand": "JF",
+      "keyword": "marcas de uniformes de enfermeria",
+      "keywordOriginal": "marcas de uniformes de enfermeria",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0180",
+      "brand": "JF",
+      "keyword": "ropa de doctora",
+      "keywordOriginal": "ropa de doctora",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0181",
+      "brand": "JF",
+      "keyword": "uniforme de psicologos",
+      "keywordOriginal": "uniforme de psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0182",
+      "brand": "JF",
+      "keyword": "radiology scrubs color",
+      "keywordOriginal": "radiology scrubs color",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0183",
+      "brand": "JF",
+      "keyword": "uniforme gris",
+      "keywordOriginal": "uniforme gris",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0184",
+      "brand": "JF",
+      "keyword": "fisioterapia uniforme",
+      "keywordOriginal": "fisioterapia uniforme",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0185",
+      "brand": "JF",
+      "keyword": "medical doctor uniform",
+      "keywordOriginal": "medical doctor uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0186",
+      "brand": "JF",
+      "keyword": "uniforme forense",
+      "keywordOriginal": "uniforme forense",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0187",
+      "brand": "JF",
+      "keyword": "trajes quirúrgicos mujer",
+      "keywordOriginal": "trajes quirúrgicos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0188",
+      "brand": "JF",
+      "keyword": "ropa quirurgica hombre",
+      "keywordOriginal": "ropa quirurgica hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0189",
+      "brand": "JF",
+      "keyword": "uniformes de enfermero hombre",
+      "keywordOriginal": "uniformes de enfermero hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0190",
+      "brand": "JF",
+      "keyword": "ropa de médico",
+      "keywordOriginal": "ropa de médico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0191",
+      "brand": "JF",
+      "keyword": "scrub enfermeria",
+      "keywordOriginal": "scrub enfermeria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0192",
+      "brand": "JF",
+      "keyword": "mejores scrubs medicos",
+      "keywordOriginal": "mejores scrubs medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0193",
+      "brand": "JF",
+      "keyword": "uniformes.quirurgicos",
+      "keywordOriginal": "uniformes.quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0194",
+      "brand": "JF",
+      "keyword": "mejores marcas de scrubs medicos",
+      "keywordOriginal": "mejores marcas de scrubs medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0195",
+      "brand": "JF",
+      "keyword": "uniforme de nutriologa",
+      "keywordOriginal": "uniforme de nutriologa",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0196",
+      "brand": "JF",
+      "keyword": "pijama quirurgica hombre",
+      "keywordOriginal": "pijama quirurgica hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0197",
+      "brand": "JF",
+      "keyword": "uniforme para psicología",
+      "keywordOriginal": "uniforme para psicología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0198",
+      "brand": "JF",
+      "keyword": "diferencia entre uniforme clinico y quirurgico",
+      "keywordOriginal": "diferencia entre uniforme clinico y quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0199",
+      "brand": "JF",
+      "keyword": "quirurgico azul cielo",
+      "keywordOriginal": "quirurgico azul cielo",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0200",
+      "brand": "JF",
+      "keyword": "scrub for medical students",
+      "keywordOriginal": "scrub for medical students",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0201",
+      "brand": "JF",
+      "keyword": "uniformes médicos mujer modernos",
+      "keywordOriginal": "uniformes médicos mujer modernos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0202",
+      "brand": "JF",
+      "keyword": "uniforme verde salud",
+      "keywordOriginal": "uniforme verde salud",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0203",
+      "brand": "JF",
+      "keyword": "scrub jogger",
+      "keywordOriginal": "scrub jogger",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0204",
+      "brand": "JF",
+      "keyword": "scrubs uniforme",
+      "keywordOriginal": "scrubs uniforme",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0205",
+      "brand": "JF",
+      "keyword": "uniforme de enfermera nombre",
+      "keywordOriginal": "uniforme de enfermera nombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0206",
+      "brand": "JF",
+      "keyword": "uniforme de medico cirujano",
+      "keywordOriginal": "uniforme de medico cirujano",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0207",
+      "brand": "JF",
+      "keyword": "tiendas de uniformes quirurgicos",
+      "keywordOriginal": "tiendas de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0208",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico verde menta",
+      "keywordOriginal": "uniforme quirúrgico verde menta",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0209",
+      "brand": "JF",
+      "keyword": "tela scrub",
+      "keywordOriginal": "tela scrub",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0210",
+      "brand": "JF",
+      "keyword": "uniformes scrubs",
+      "keywordOriginal": "uniformes scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0211",
+      "brand": "JF",
+      "keyword": "doctor uniform colour",
+      "keywordOriginal": "doctor uniform colour",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0212",
+      "brand": "JF",
+      "keyword": "scrub negro",
+      "keywordOriginal": "scrub negro",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0213",
+      "brand": "JF",
+      "keyword": "uniforme de doctora",
+      "keywordOriginal": "uniforme de doctora",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0214",
+      "brand": "JF",
+      "keyword": "conjunto quirurgico hombre",
+      "keywordOriginal": "conjunto quirurgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0215",
+      "brand": "JF",
+      "keyword": "uniforme de fisioterapeuta",
+      "keywordOriginal": "uniforme de fisioterapeuta",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0216",
+      "brand": "JF",
+      "keyword": "quirurgico verde menta",
+      "keywordOriginal": "quirurgico verde menta",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0217",
+      "brand": "JF",
+      "keyword": "scrub veterinaria",
+      "keywordOriginal": "scrub veterinaria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0218",
+      "brand": "JF",
+      "keyword": "quirugicos",
+      "keywordOriginal": "quirugicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0219",
+      "brand": "JF",
+      "keyword": "marcas de quirurgicos buenos",
+      "keywordOriginal": "marcas de quirurgicos buenos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0220",
+      "brand": "JF",
+      "keyword": "uniforme azul rey",
+      "keywordOriginal": "uniforme azul rey",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0221",
+      "brand": "JF",
+      "keyword": "uniforme radiologia",
+      "keywordOriginal": "uniforme radiologia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0222",
+      "brand": "JF",
+      "keyword": "cual es la mejor marca de uniformes quirurgicos",
+      "keywordOriginal": "cual es la mejor marca de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0223",
+      "brand": "JF",
+      "keyword": "pijama quirurgica azul cielo",
+      "keywordOriginal": "pijama quirurgica azul cielo",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0224",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico negro mujer",
+      "keywordOriginal": "uniforme quirurgico negro mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0225",
+      "brand": "JF",
+      "keyword": "wrinkled scrubs",
+      "keywordOriginal": "wrinkled scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0226",
+      "brand": "JF",
+      "keyword": "uniforme dentista mujer",
+      "keywordOriginal": "uniforme dentista mujer",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0227",
+      "brand": "JF",
+      "keyword": "uniformes antifluidos",
+      "keywordOriginal": "uniformes antifluidos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0228",
+      "brand": "JF",
+      "keyword": "uniforme medico negro",
+      "keywordOriginal": "uniforme medico negro",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0229",
+      "brand": "JF",
+      "keyword": "quirurgico blanco",
+      "keywordOriginal": "quirurgico blanco",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0230",
+      "brand": "JF",
+      "keyword": "radiology scrubs",
+      "keywordOriginal": "radiology scrubs",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0231",
+      "brand": "JF",
+      "keyword": "uniforme de enfermera",
+      "keywordOriginal": "uniforme de enfermera",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0232",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos mujer baratos",
+      "keywordOriginal": "uniformes quirúrgicos mujer baratos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0233",
+      "brand": "JF",
+      "keyword": "ropa quirurgica para el paciente",
+      "keywordOriginal": "ropa quirurgica para el paciente",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0234",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico enfermería",
+      "keywordOriginal": "uniforme quirúrgico enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0235",
+      "brand": "JF",
+      "keyword": "ropa para psicologos",
+      "keywordOriginal": "ropa para psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0236",
+      "brand": "JF",
+      "keyword": "uniformes de fisioterapia",
+      "keywordOriginal": "uniformes de fisioterapia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0237",
+      "brand": "JF",
+      "keyword": "uniforme verde hospital",
+      "keywordOriginal": "uniforme verde hospital",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0238",
+      "brand": "JF",
+      "keyword": "pijamas medicas para mujer",
+      "keywordOriginal": "pijamas medicas para mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0239",
+      "brand": "JF",
+      "keyword": "mejores marcas de quirurgicos",
+      "keywordOriginal": "mejores marcas de quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0240",
+      "brand": "JF",
+      "keyword": "uniformes quirugicos",
+      "keywordOriginal": "uniformes quirugicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0241",
+      "brand": "JF",
+      "keyword": "uniformes de enfermería para hombre",
+      "keywordOriginal": "uniformes de enfermería para hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0242",
+      "brand": "JF",
+      "keyword": "uniforme de dentista",
+      "keywordOriginal": "uniforme de dentista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0243",
+      "brand": "JF",
+      "keyword": "uniformes medicos colores",
+      "keywordOriginal": "uniformes medicos colores",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0244",
+      "brand": "JF",
+      "keyword": "traje quirúrgico hombre",
+      "keywordOriginal": "traje quirúrgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0245",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico blanco mujer",
+      "keywordOriginal": "uniforme quirúrgico blanco mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0246",
+      "brand": "JF",
+      "keyword": "los estudiantes de psicología usan uniforme",
+      "keywordOriginal": "los estudiantes de psicología usan uniforme",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0247",
+      "brand": "JF",
+      "keyword": "chemise quirúrgico",
+      "keywordOriginal": "chemise quirúrgico",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0248",
+      "brand": "JF",
+      "keyword": "traje de psicología",
+      "keywordOriginal": "traje de psicología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0249",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos de algodon",
+      "keywordOriginal": "uniformes quirurgicos de algodon",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0250",
+      "brand": "JF",
+      "keyword": "uniforme de doctor nombre",
+      "keywordOriginal": "uniforme de doctor nombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0251",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico mujer negro",
+      "keywordOriginal": "uniforme quirurgico mujer negro",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0252",
+      "brand": "JF",
+      "keyword": "uniforme verde quirúrgico",
+      "keywordOriginal": "uniforme verde quirúrgico",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0253",
+      "brand": "JF",
+      "keyword": "ropa de veterinaria",
+      "keywordOriginal": "ropa de veterinaria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0254",
+      "brand": "JF",
+      "keyword": "scrubs veterinaria",
+      "keywordOriginal": "scrubs veterinaria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0255",
+      "brand": "JF",
+      "keyword": "tipos de ropa quirúrgica",
+      "keywordOriginal": "tipos de ropa quirúrgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0256",
+      "brand": "JF",
+      "keyword": "ropa de doctores",
+      "keywordOriginal": "ropa de doctores",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0257",
+      "brand": "JF",
+      "keyword": "uniforme clinico psicologo",
+      "keywordOriginal": "uniforme clinico psicologo",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0258",
+      "brand": "JF",
+      "keyword": "medical uniforms",
+      "keywordOriginal": "medical uniforms",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0259",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos mujer modernos",
+      "keywordOriginal": "uniformes quirurgicos mujer modernos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0260",
+      "brand": "JF",
+      "keyword": "pijama quirurjica",
+      "keywordOriginal": "pijama quirurjica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0261",
+      "brand": "JF",
+      "keyword": "uniformes clínicos",
+      "keywordOriginal": "uniformes clínicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0262",
+      "brand": "JF",
+      "keyword": "uniformes enfermería",
+      "keywordOriginal": "uniformes enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0263",
+      "brand": "JF",
+      "keyword": "mejor marca de uniformes medicos",
+      "keywordOriginal": "mejor marca de uniformes medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0264",
+      "brand": "JF",
+      "keyword": "scrubs médicos",
+      "keywordOriginal": "scrubs médicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0265",
+      "brand": "JF",
+      "keyword": "uniforme nutricionista",
+      "keywordOriginal": "uniforme nutricionista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0266",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos mayoreo",
+      "keywordOriginal": "uniformes quirurgicos mayoreo",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0267",
+      "brand": "JF",
+      "keyword": "marcas de uniformes médicos",
+      "keywordOriginal": "marcas de uniformes médicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0268",
+      "brand": "JF",
+      "keyword": "trajes quirúrgico para mujer",
+      "keywordOriginal": "trajes quirúrgico para mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0269",
+      "brand": "JF",
+      "keyword": "quirurgico negro hombre",
+      "keywordOriginal": "quirurgico negro hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0270",
+      "brand": "JF",
+      "keyword": "uniformes quirurgico",
+      "keywordOriginal": "uniformes quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0271",
+      "brand": "JF",
+      "keyword": "filipinas quirúrgicas",
+      "keywordOriginal": "filipinas quirúrgicas",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0272",
+      "brand": "JF",
+      "keyword": "uniforme quirugico",
+      "keywordOriginal": "uniforme quirugico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0273",
+      "brand": "JF",
+      "keyword": "partes del uniforme de un doctor",
+      "keywordOriginal": "partes del uniforme de un doctor",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0274",
+      "brand": "JF",
+      "keyword": "surgeon scrubs",
+      "keywordOriginal": "surgeon scrubs",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0275",
+      "brand": "JF",
+      "keyword": "fluid resistant scrubs",
+      "keywordOriginal": "fluid resistant scrubs",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0276",
+      "brand": "JF",
+      "keyword": "trajes de doctores",
+      "keywordOriginal": "trajes de doctores",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0277",
+      "brand": "JF",
+      "keyword": "uniforme para fisioterapeutas",
+      "keywordOriginal": "uniforme para fisioterapeutas",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0278",
+      "brand": "JF",
+      "keyword": "pijama quirúrgica antifluidos mujer",
+      "keywordOriginal": "pijama quirúrgica antifluidos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0279",
+      "brand": "JF",
+      "keyword": "scrubs uniformes mujer",
+      "keywordOriginal": "scrubs uniformes mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0280",
+      "brand": "JF",
+      "keyword": "uniforme de enfermero",
+      "keywordOriginal": "uniforme de enfermero",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0281",
+      "brand": "JF",
+      "keyword": "uniforme medico gris",
+      "keywordOriginal": "uniforme medico gris",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0282",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico azul cielo",
+      "keywordOriginal": "uniforme quirúrgico azul cielo",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0283",
+      "brand": "JF",
+      "keyword": "filipinas quirurgicas mujer",
+      "keywordOriginal": "filipinas quirurgicas mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0284",
+      "brand": "JF",
+      "keyword": "marcas de scrubs americanos",
+      "keywordOriginal": "marcas de scrubs americanos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0285",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos blancos",
+      "keywordOriginal": "uniformes quirurgicos blancos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0286",
+      "brand": "JF",
+      "keyword": "uniforme azul hospital",
+      "keywordOriginal": "uniforme azul hospital",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0287",
+      "brand": "JF",
+      "keyword": "uniforme de médico",
+      "keywordOriginal": "uniforme de médico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0288",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgico hombre",
+      "keywordOriginal": "uniformes quirúrgico hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0289",
+      "brand": "JF",
+      "keyword": "medico uniforme",
+      "keywordOriginal": "medico uniforme",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0290",
+      "brand": "JF",
+      "keyword": "pijama medica",
+      "keywordOriginal": "pijama medica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0291",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico de enfermería",
+      "keywordOriginal": "uniforme quirúrgico de enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0292",
+      "brand": "JF",
+      "keyword": "uniformes azul rey",
+      "keywordOriginal": "uniformes azul rey",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0293",
+      "brand": "JF",
+      "keyword": "clinical psychologist outfit",
+      "keywordOriginal": "clinical psychologist outfit",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0294",
+      "brand": "JF",
+      "keyword": "uniforme quirúrgico blanco hombre",
+      "keywordOriginal": "uniforme quirúrgico blanco hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0295",
+      "brand": "JF",
+      "keyword": "marcas de scrub",
+      "keywordOriginal": "marcas de scrub",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0296",
+      "brand": "JF",
+      "keyword": "uniforme negro medicina",
+      "keywordOriginal": "uniforme negro medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0297",
+      "brand": "JF",
+      "keyword": "uniforme antifluidos mujer",
+      "keywordOriginal": "uniforme antifluidos mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0298",
+      "brand": "JF",
+      "keyword": "second hand scrubs",
+      "keywordOriginal": "second hand scrubs",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0299",
+      "brand": "JF",
+      "keyword": "marca de scrubs medicos",
+      "keywordOriginal": "marca de scrubs medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0300",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico azul marino",
+      "keywordOriginal": "uniforme quirurgico azul marino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0301",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos para mujer",
+      "keywordOriginal": "uniformes quirúrgicos para mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0302",
+      "brand": "JF",
+      "keyword": "marcas de uniformes",
+      "keywordOriginal": "marcas de uniformes",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0303",
+      "brand": "JF",
+      "keyword": "uniformes odontologia mujer",
+      "keywordOriginal": "uniformes odontologia mujer",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0304",
+      "brand": "JF",
+      "keyword": "medical uniform",
+      "keywordOriginal": "medical uniform",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0305",
+      "brand": "JF",
+      "keyword": "precio de uniformes quirurgicos",
+      "keywordOriginal": "precio de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0306",
+      "brand": "JF",
+      "keyword": "scrubs para psicologos",
+      "keywordOriginal": "scrubs para psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0307",
+      "brand": "JF",
+      "keyword": "uniformes para psicologos",
+      "keywordOriginal": "uniformes para psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0308",
+      "brand": "JF",
+      "keyword": "telas antifluidos para uniformes",
+      "keywordOriginal": "telas antifluidos para uniformes",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0309",
+      "brand": "JF",
+      "keyword": "psicologia uniformes para psicologos",
+      "keywordOriginal": "psicologia uniformes para psicologos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0310",
+      "brand": "JF",
+      "keyword": "uniforme negro de medicina",
+      "keywordOriginal": "uniforme negro de medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0311",
+      "brand": "JF",
+      "keyword": "uniforme medico nombre",
+      "keywordOriginal": "uniforme medico nombre",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0312",
+      "brand": "JF",
+      "keyword": "filipina y pantalon quirurgico",
+      "keywordOriginal": "filipina y pantalon quirurgico",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0313",
+      "brand": "JF",
+      "keyword": "uniformes para psicología",
+      "keywordOriginal": "uniformes para psicología",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0314",
+      "brand": "JF",
+      "keyword": "filipina medica",
+      "keywordOriginal": "filipina medica",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0315",
+      "brand": "JF",
+      "keyword": "uniforme verde quirofano",
+      "keywordOriginal": "uniforme verde quirofano",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0316",
+      "brand": "JF",
+      "keyword": "quirurgico uniforme",
+      "keywordOriginal": "quirurgico uniforme",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0317",
+      "brand": "JF",
+      "keyword": "uniformes de odontologia para mujer",
+      "keywordOriginal": "uniformes de odontologia para mujer",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0318",
+      "brand": "JF",
+      "keyword": "q es scrub",
+      "keywordOriginal": "q es scrub",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0319",
+      "brand": "JF",
+      "keyword": "conjunto medico mujer",
+      "keywordOriginal": "conjunto medico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0320",
+      "brand": "JF",
+      "keyword": "psychology scrubs",
+      "keywordOriginal": "psychology scrubs",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0321",
+      "brand": "JF",
+      "keyword": "pijama quirurgica blanca",
+      "keywordOriginal": "pijama quirurgica blanca",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0322",
+      "brand": "JF",
+      "keyword": "traje de doctor",
+      "keywordOriginal": "traje de doctor",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0323",
+      "brand": "JF",
+      "keyword": "uniforme tipo scrub",
+      "keywordOriginal": "uniforme tipo scrub",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0324",
+      "brand": "JF",
+      "keyword": "uniformes de colores",
+      "keywordOriginal": "uniformes de colores",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0325",
+      "brand": "JF",
+      "keyword": "pijamas antifluidos",
+      "keywordOriginal": "pijamas antifluidos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0326",
+      "brand": "JF",
+      "keyword": "uniformes quieurgicos",
+      "keywordOriginal": "uniformes quieurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0327",
+      "brand": "JF",
+      "keyword": "marcas de uniformes clinicos",
+      "keywordOriginal": "marcas de uniformes clinicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0328",
+      "brand": "JF",
+      "keyword": "uniforme de enfermera comunitaria",
+      "keywordOriginal": "uniforme de enfermera comunitaria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0329",
+      "brand": "JF",
+      "keyword": "color del uniforme de las enfermeras",
+      "keywordOriginal": "color del uniforme de las enfermeras",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0330",
+      "brand": "JF",
+      "keyword": "uniformes de doctor",
+      "keywordOriginal": "uniformes de doctor",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0331",
+      "brand": "JF",
+      "keyword": "uniformes médicos usa",
+      "keywordOriginal": "uniformes médicos usa",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0332",
+      "brand": "JF",
+      "keyword": "pijamas quirurjicas",
+      "keywordOriginal": "pijamas quirurjicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0333",
+      "brand": "JF",
+      "keyword": "uniforme dentista",
+      "keywordOriginal": "uniforme dentista",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0334",
+      "brand": "JF",
+      "keyword": "vestido quirurgico",
+      "keywordOriginal": "vestido quirurgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0335",
+      "brand": "JF",
+      "keyword": "uniforme correcto de enfermeria",
+      "keywordOriginal": "uniforme correcto de enfermeria",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0336",
+      "brand": "JF",
+      "keyword": "uniformes pediatricos",
+      "keywordOriginal": "uniformes pediatricos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0337",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos mexico",
+      "keywordOriginal": "uniformes quirurgicos mexico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0338",
+      "brand": "JF",
+      "keyword": "uniformes de psicólogos",
+      "keywordOriginal": "uniformes de psicólogos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0339",
+      "brand": "JF",
+      "keyword": "uniformes para terapeutas",
+      "keywordOriginal": "uniformes para terapeutas",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0340",
+      "brand": "JF",
+      "keyword": "uniformes para psicólogas mujeres",
+      "keywordOriginal": "uniformes para psicólogas mujeres",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0341",
+      "brand": "JF",
+      "keyword": "pijamas scrubs",
+      "keywordOriginal": "pijamas scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0342",
+      "brand": "JF",
+      "keyword": "quirurgico azul rey",
+      "keywordOriginal": "quirurgico azul rey",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0343",
+      "brand": "JF",
+      "keyword": "scrubs pijamas quirurgicas",
+      "keywordOriginal": "scrubs pijamas quirurgicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0344",
+      "brand": "JF",
+      "keyword": "uniformes fisioterapia",
+      "keywordOriginal": "uniformes fisioterapia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0345",
+      "brand": "JF",
+      "keyword": "tela antifluido para uniformes médicos",
+      "keywordOriginal": "tela antifluido para uniformes médicos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0346",
+      "brand": "JF",
+      "keyword": "uniforme negro de enfermera",
+      "keywordOriginal": "uniforme negro de enfermera",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0347",
+      "brand": "JF",
+      "keyword": "uniforme quirurgicos",
+      "keywordOriginal": "uniforme quirurgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0348",
+      "brand": "JF",
+      "keyword": "uniformes médicos estados unidos",
+      "keywordOriginal": "uniformes médicos estados unidos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0349",
+      "brand": "JF",
+      "keyword": "dietician uniform",
+      "keywordOriginal": "dietician uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0350",
+      "brand": "JF",
+      "keyword": "porque la ropa de quirofano es verde",
+      "keywordOriginal": "porque la ropa de quirofano es verde",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0351",
+      "brand": "JF",
+      "keyword": "uniform",
+      "keywordOriginal": "uniform",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0352",
+      "brand": "JF",
+      "keyword": "pantalones para enfermería mujer",
+      "keywordOriginal": "pantalones para enfermería mujer",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0353",
+      "brand": "JF",
+      "keyword": "quirurgicos para hombre",
+      "keywordOriginal": "quirurgicos para hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0354",
+      "brand": "JF",
+      "keyword": "pijama de medico mujer",
+      "keywordOriginal": "pijama de medico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0355",
+      "brand": "JF",
+      "keyword": "pijama.quirurgica",
+      "keywordOriginal": "pijama.quirurgica",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0356",
+      "brand": "JF",
+      "keyword": "scrubs medico",
+      "keywordOriginal": "scrubs medico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0357",
+      "brand": "JF",
+      "keyword": "conjunto quirúrgico",
+      "keywordOriginal": "conjunto quirúrgico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0358",
+      "brand": "JF",
+      "keyword": "telas de uniformes medicos",
+      "keywordOriginal": "telas de uniformes medicos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0359",
+      "brand": "JF",
+      "keyword": "quirurgicos mujer blanco",
+      "keywordOriginal": "quirurgicos mujer blanco",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0360",
+      "brand": "JF",
+      "keyword": "uniforme de salud",
+      "keywordOriginal": "uniforme de salud",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0361",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico verde agua",
+      "keywordOriginal": "uniforme quirurgico verde agua",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0362",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos de hombre",
+      "keywordOriginal": "uniformes quirurgicos de hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0363",
+      "brand": "JF",
+      "keyword": "donde comprar uniformes quirurgicos",
+      "keywordOriginal": "donde comprar uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0364",
+      "brand": "JF",
+      "keyword": "uniforme para psicólogos",
+      "keywordOriginal": "uniforme para psicólogos",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0365",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos completos",
+      "keywordOriginal": "uniformes quirurgicos completos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0366",
+      "brand": "JF",
+      "keyword": "uniforme negro medico",
+      "keywordOriginal": "uniforme negro medico",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0367",
+      "brand": "JF",
+      "keyword": "uniforme verde musgo",
+      "keywordOriginal": "uniforme verde musgo",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0368",
+      "brand": "JF",
+      "keyword": "marcas de ropa medica",
+      "keywordOriginal": "marcas de ropa medica",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0369",
+      "brand": "JF",
+      "keyword": "tipos de scrubs",
+      "keywordOriginal": "tipos de scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0370",
+      "brand": "JF",
+      "keyword": "traje clinico negro que significa",
+      "keywordOriginal": "traje clinico negro que significa",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0371",
+      "brand": "JF",
+      "keyword": "traje de quirofano",
+      "keywordOriginal": "traje de quirofano",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0372",
+      "brand": "JF",
+      "keyword": "male nursing uniform",
+      "keywordOriginal": "male nursing uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0373",
+      "brand": "JF",
+      "keyword": "scrub rojo vino",
+      "keywordOriginal": "scrub rojo vino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0374",
+      "brand": "JF",
+      "keyword": "scrub azul",
+      "keywordOriginal": "scrub azul",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0375",
+      "brand": "JF",
+      "keyword": "marcas scrubs",
+      "keywordOriginal": "marcas scrubs",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0376",
+      "brand": "JF",
+      "keyword": "ropa de quirófano",
+      "keywordOriginal": "ropa de quirófano",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0377",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos de marca",
+      "keywordOriginal": "uniformes quirurgicos de marca",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0378",
+      "brand": "JF",
+      "keyword": "proveedores de uniformes quirúrgicos",
+      "keywordOriginal": "proveedores de uniformes quirúrgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0379",
+      "brand": "JF",
+      "keyword": "uniforme para psicóloga",
+      "keywordOriginal": "uniforme para psicóloga",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0380",
+      "brand": "JF",
+      "keyword": "marca de uniformes de enfermería",
+      "keywordOriginal": "marca de uniformes de enfermería",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0381",
+      "brand": "JF",
+      "keyword": "mejores marcas de pijamas quirurgicas",
+      "keywordOriginal": "mejores marcas de pijamas quirurgicas",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0382",
+      "brand": "JF",
+      "keyword": "pijamas para veterinarios",
+      "keywordOriginal": "pijamas para veterinarios",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0383",
+      "brand": "JF",
+      "keyword": "cuales son los mejores uniformes quirurgicos",
+      "keywordOriginal": "cuales son los mejores uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0384",
+      "brand": "JF",
+      "keyword": "pijamas qx",
+      "keywordOriginal": "pijamas qx",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0385",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico en ingles",
+      "keywordOriginal": "uniforme quirurgico en ingles",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0386",
+      "brand": "JF",
+      "keyword": "scrubs hombre",
+      "keywordOriginal": "scrubs hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0387",
+      "brand": "JF",
+      "keyword": "physio uniform",
+      "keywordOriginal": "physio uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0388",
+      "brand": "JF",
+      "keyword": "pijama medico mujer",
+      "keywordOriginal": "pijama medico mujer",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0389",
+      "brand": "JF",
+      "keyword": "tienda de uniformes de enfermeria",
+      "keywordOriginal": "tienda de uniformes de enfermeria",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0390",
+      "brand": "JF",
+      "keyword": "traje de enfermera nombre",
+      "keywordOriginal": "traje de enfermera nombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0391",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico vino",
+      "keywordOriginal": "uniforme quirurgico vino",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0392",
+      "brand": "JF",
+      "keyword": "doctor uniform color",
+      "keywordOriginal": "doctor uniform color",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0393",
+      "brand": "JF",
+      "keyword": "fit scrubs",
+      "keywordOriginal": "fit scrubs",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0394",
+      "brand": "JF",
+      "keyword": "uniformes de medicina",
+      "keywordOriginal": "uniformes de medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0395",
+      "brand": "JF",
+      "keyword": "uniformes medicos mexico",
+      "keywordOriginal": "uniformes medicos mexico",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0396",
+      "brand": "JF",
+      "keyword": "filipinas medicas modernas",
+      "keywordOriginal": "filipinas medicas modernas",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0397",
+      "brand": "JF",
+      "keyword": "physician uniform",
+      "keywordOriginal": "physician uniform",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0398",
+      "brand": "JF",
+      "keyword": "modelos de uniformes de enfermería para hombres",
+      "keywordOriginal": "modelos de uniformes de enfermería para hombres",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0399",
+      "brand": "JF",
+      "keyword": "quiturgicos",
+      "keywordOriginal": "quiturgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0400",
+      "brand": "JF",
+      "keyword": "white medical uniform",
+      "keywordOriginal": "white medical uniform",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0401",
+      "brand": "JF",
+      "keyword": "quirúrgicos uniformes",
+      "keywordOriginal": "quirúrgicos uniformes",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0402",
+      "brand": "JF",
+      "keyword": "ropa para quirofano",
+      "keywordOriginal": "ropa para quirofano",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0403",
+      "brand": "JF",
+      "keyword": "scrub marcas",
+      "keywordOriginal": "scrub marcas",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0404",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos gris",
+      "keywordOriginal": "uniformes quirurgicos gris",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0405",
+      "brand": "JF",
+      "keyword": "pijamas quirúrgicas antifluidos",
+      "keywordOriginal": "pijamas quirúrgicas antifluidos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0406",
+      "brand": "JF",
+      "keyword": "scrubs tipo jogger",
+      "keywordOriginal": "scrubs tipo jogger",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0407",
+      "brand": "JF",
+      "keyword": "uniforme scrubs",
+      "keywordOriginal": "uniforme scrubs",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0408",
+      "brand": "JF",
+      "keyword": "uniformes quirurgicos mujer baratos",
+      "keywordOriginal": "uniformes quirurgicos mujer baratos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0409",
+      "brand": "JF",
+      "keyword": "uniforme gris en medicina",
+      "keywordOriginal": "uniforme gris en medicina",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0410",
+      "brand": "JF",
+      "keyword": "uniformes medicos en estados unidos",
+      "keywordOriginal": "uniformes medicos en estados unidos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0411",
+      "brand": "JF",
+      "keyword": "uniforme de psicología perú",
+      "keywordOriginal": "uniforme de psicología perú",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0412",
+      "brand": "JF",
+      "keyword": "uniforme para enfermero hombre",
+      "keywordOriginal": "uniforme para enfermero hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0413",
+      "brand": "JF",
+      "keyword": "uniformes enfermera",
+      "keywordOriginal": "uniformes enfermera",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0414",
+      "brand": "JF",
+      "keyword": "mejor marca de uniformes quirurgicos",
+      "keywordOriginal": "mejor marca de uniformes quirurgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0415",
+      "brand": "JF",
+      "keyword": "ropa de cirugia",
+      "keywordOriginal": "ropa de cirugia",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0416",
+      "brand": "JF",
+      "keyword": "scrubs medicos usa",
+      "keywordOriginal": "scrubs medicos usa",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0417",
+      "brand": "JF",
+      "keyword": "uniforme de campo enfermería",
+      "keywordOriginal": "uniforme de campo enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0418",
+      "brand": "JF",
+      "keyword": "uniforme hombre enfermero",
+      "keywordOriginal": "uniforme hombre enfermero",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0419",
+      "brand": "JF",
+      "keyword": "tienda de pijamas quirurgicas",
+      "keywordOriginal": "tienda de pijamas quirurgicas",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0420",
+      "brand": "JF",
+      "keyword": "scrubs petite",
+      "keywordOriginal": "scrubs petite",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0421",
+      "brand": "JF",
+      "keyword": "pijamas quirugicas",
+      "keywordOriginal": "pijamas quirugicas",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服"
+    },
+    {
+      "id": "JF-0422",
+      "brand": "JF",
+      "keyword": "uniformes transpirables",
+      "keywordOriginal": "uniformes transpirables",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0423",
+      "brand": "JF",
+      "keyword": "uniformes quirúrgicos antifluidos",
+      "keywordOriginal": "uniformes quirúrgicos antifluidos",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0424",
+      "brand": "JF",
+      "keyword": "tienda de scrubs",
+      "keywordOriginal": "tienda de scrubs",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "JF-0425",
+      "brand": "JF",
+      "keyword": "uniformes para personal de ambulancias",
+      "keywordOriginal": "uniformes para personal de ambulancias",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0426",
+      "brand": "JF",
+      "keyword": "scrubs uniformes hombre",
+      "keywordOriginal": "scrubs uniformes hombre",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0427",
+      "brand": "JF",
+      "keyword": "uniformes para odontologos hombres",
+      "keywordOriginal": "uniformes para odontologos hombres",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0428",
+      "brand": "JF",
+      "keyword": "uniforme quirurgico dama",
+      "keywordOriginal": "uniforme quirurgico dama",
+      "groupCode": "JF-03",
+      "groupName": "款式与产品属性"
+    },
+    {
+      "id": "JF-0429",
+      "brand": "JF",
+      "keyword": "uniforme de psicologia hombre",
+      "keywordOriginal": "uniforme de psicologia hombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0430",
+      "brand": "JF",
+      "keyword": "uniformes farmacia",
+      "keywordOriginal": "uniformes farmacia",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0431",
+      "brand": "JF",
+      "keyword": "doctor uniformes",
+      "keywordOriginal": "doctor uniformes",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0432",
+      "brand": "JF",
+      "keyword": "veterinarian scrubs",
+      "keywordOriginal": "veterinarian scrubs",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "JF-0433",
+      "brand": "JF",
+      "keyword": "traje de enfermería",
+      "keywordOriginal": "traje de enfermería",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群"
+    },
+    {
+      "id": "VJ-0001",
+      "brand": "VJ",
+      "keyword": "sus 304 termo",
+      "keywordOriginal": "sus 304 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0002",
+      "brand": "VJ",
+      "keyword": "marcas de termos",
+      "keywordOriginal": "marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0003",
+      "brand": "VJ",
+      "keyword": "los 10 mejores termos del mundo",
+      "keywordOriginal": "los 10 mejores termos del mundo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0004",
+      "brand": "VJ",
+      "keyword": "termos para niños",
+      "keywordOriginal": "termos para niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0005",
+      "brand": "VJ",
+      "keyword": "sus 316 termo",
+      "keywordOriginal": "sus 316 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0006",
+      "brand": "VJ",
+      "keyword": "termos bonitos para mujer",
+      "keywordOriginal": "termos bonitos para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0007",
+      "brand": "VJ",
+      "keyword": "marca de termos",
+      "keywordOriginal": "marca de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0008",
+      "brand": "VJ",
+      "keyword": "top 10 marcas de termos",
+      "keywordOriginal": "top 10 marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0009",
+      "brand": "VJ",
+      "keyword": "cual es el mejor acero inoxidable para termos",
+      "keywordOriginal": "cual es el mejor acero inoxidable para termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0010",
+      "brand": "VJ",
+      "keyword": "termos para mujer",
+      "keywordOriginal": "termos para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0011",
+      "brand": "VJ",
+      "keyword": "termo sus 304",
+      "keywordOriginal": "termo sus 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0012",
+      "brand": "VJ",
+      "keyword": "termo doble pared",
+      "keywordOriginal": "termo doble pared",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0013",
+      "brand": "VJ",
+      "keyword": "termo para niños",
+      "keywordOriginal": "termo para niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0014",
+      "brand": "VJ",
+      "keyword": "termos para gym",
+      "keywordOriginal": "termos para gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0015",
+      "brand": "VJ",
+      "keyword": "termos marcas",
+      "keywordOriginal": "termos marcas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0016",
+      "brand": "VJ",
+      "keyword": "termos para agua",
+      "keywordOriginal": "termos para agua",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0017",
+      "brand": "VJ",
+      "keyword": "termo acero inoxidable 304",
+      "keywordOriginal": "termo acero inoxidable 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0018",
+      "brand": "VJ",
+      "keyword": "termo acero 304",
+      "keywordOriginal": "termo acero 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0019",
+      "brand": "VJ",
+      "keyword": "termos de moda",
+      "keywordOriginal": "termos de moda",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0020",
+      "brand": "VJ",
+      "keyword": "termo para gym mujer",
+      "keywordOriginal": "termo para gym mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0021",
+      "brand": "VJ",
+      "keyword": "marcas de termo",
+      "keywordOriginal": "marcas de termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0022",
+      "brand": "VJ",
+      "keyword": "termos famosos",
+      "keywordOriginal": "termos famosos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0023",
+      "brand": "VJ",
+      "keyword": "termos de moda 2026",
+      "keywordOriginal": "termos de moda 2026",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0024",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termos",
+      "keywordOriginal": "mejores marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0025",
+      "brand": "VJ",
+      "keyword": "termos para agua caliente",
+      "keywordOriginal": "termos para agua caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0026",
+      "brand": "VJ",
+      "keyword": "termo acero inoxidable 316",
+      "keywordOriginal": "termo acero inoxidable 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0027",
+      "brand": "VJ",
+      "keyword": "termo de moda",
+      "keywordOriginal": "termo de moda",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0028",
+      "brand": "VJ",
+      "keyword": "termo sus 316",
+      "keywordOriginal": "termo sus 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0029",
+      "brand": "VJ",
+      "keyword": "acero 304 termos",
+      "keywordOriginal": "acero 304 termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0030",
+      "brand": "VJ",
+      "keyword": "marcas de termos de acero inoxidable",
+      "keywordOriginal": "marcas de termos de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0031",
+      "brand": "VJ",
+      "keyword": "termos para agua fria",
+      "keywordOriginal": "termos para agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0032",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable 304",
+      "keywordOriginal": "termos de acero inoxidable 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0033",
+      "brand": "VJ",
+      "keyword": "termo",
+      "keywordOriginal": "termo",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0034",
+      "brand": "VJ",
+      "keyword": "termos para gym hombre",
+      "keywordOriginal": "termos para gym hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0035",
+      "brand": "VJ",
+      "keyword": "termo de acero inoxidable 304",
+      "keywordOriginal": "termo de acero inoxidable 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0036",
+      "brand": "VJ",
+      "keyword": "termo para gym",
+      "keywordOriginal": "termo para gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0037",
+      "brand": "VJ",
+      "keyword": "termo acero 316",
+      "keywordOriginal": "termo acero 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0038",
+      "brand": "VJ",
+      "keyword": "termos que conservan el frio",
+      "keywordOriginal": "termos que conservan el frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0039",
+      "brand": "VJ",
+      "keyword": "termo para agua fria",
+      "keywordOriginal": "termo para agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0040",
+      "brand": "VJ",
+      "keyword": "termos niños",
+      "keywordOriginal": "termos niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0041",
+      "brand": "VJ",
+      "keyword": "termos mujer",
+      "keywordOriginal": "termos mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0042",
+      "brand": "VJ",
+      "keyword": "termos acero inoxidable 304",
+      "keywordOriginal": "termos acero inoxidable 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0043",
+      "brand": "VJ",
+      "keyword": "termos libres de bpa",
+      "keywordOriginal": "termos libres de bpa",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0044",
+      "brand": "VJ",
+      "keyword": "termo 304",
+      "keywordOriginal": "termo 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0045",
+      "brand": "VJ",
+      "keyword": "termo marcas",
+      "keywordOriginal": "termo marcas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0046",
+      "brand": "VJ",
+      "keyword": "mejores termos",
+      "keywordOriginal": "mejores termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0047",
+      "brand": "VJ",
+      "keyword": "termos de agua para niños",
+      "keywordOriginal": "termos de agua para niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0048",
+      "brand": "VJ",
+      "keyword": "termo 304 acero inoxidable",
+      "keywordOriginal": "termo 304 acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0049",
+      "brand": "VJ",
+      "keyword": "termo para agua",
+      "keywordOriginal": "termo para agua",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0050",
+      "brand": "VJ",
+      "keyword": "termo libre de bpa",
+      "keywordOriginal": "termo libre de bpa",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0051",
+      "brand": "VJ",
+      "keyword": "termo para gym hombre",
+      "keywordOriginal": "termo para gym hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0052",
+      "brand": "VJ",
+      "keyword": "termo que conserva el frio",
+      "keywordOriginal": "termo que conserva el frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0053",
+      "brand": "VJ",
+      "keyword": "termos infantiles",
+      "keywordOriginal": "termos infantiles",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0054",
+      "brand": "VJ",
+      "keyword": "sus 316 termos",
+      "keywordOriginal": "sus 316 termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0055",
+      "brand": "VJ",
+      "keyword": "termos para el dia del padre",
+      "keywordOriginal": "termos para el dia del padre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0056",
+      "brand": "VJ",
+      "keyword": "termo de agua para niños",
+      "keywordOriginal": "termo de agua para niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0057",
+      "brand": "VJ",
+      "keyword": "termos de mujer",
+      "keywordOriginal": "termos de mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0058",
+      "brand": "VJ",
+      "keyword": "termos lindos",
+      "keywordOriginal": "termos lindos",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0059",
+      "brand": "VJ",
+      "keyword": "termos doble pared",
+      "keywordOriginal": "termos doble pared",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0060",
+      "brand": "VJ",
+      "keyword": "termo para agua caliente",
+      "keywordOriginal": "termo para agua caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0061",
+      "brand": "VJ",
+      "keyword": "termo 316",
+      "keywordOriginal": "termo 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0062",
+      "brand": "VJ",
+      "keyword": "termos 304",
+      "keywordOriginal": "termos 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0063",
+      "brand": "VJ",
+      "keyword": "marcas termos",
+      "keywordOriginal": "marcas termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0064",
+      "brand": "VJ",
+      "keyword": "termo para licuados",
+      "keywordOriginal": "termo para licuados",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0065",
+      "brand": "VJ",
+      "keyword": "termos",
+      "keywordOriginal": "termos",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0066",
+      "brand": "VJ",
+      "keyword": "cual es el mejor acero para termos",
+      "keywordOriginal": "cual es el mejor acero para termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0067",
+      "brand": "VJ",
+      "keyword": "termo leopardo",
+      "keywordOriginal": "termo leopardo",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0068",
+      "brand": "VJ",
+      "keyword": "marca de termo",
+      "keywordOriginal": "marca de termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0069",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo para agua caliente",
+      "keywordOriginal": "cual es el mejor termo para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0070",
+      "brand": "VJ",
+      "keyword": "termo doble pared acero inoxidable",
+      "keywordOriginal": "termo doble pared acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0071",
+      "brand": "VJ",
+      "keyword": "sus316 termo",
+      "keywordOriginal": "sus316 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0072",
+      "brand": "VJ",
+      "keyword": "mejores termos para agua",
+      "keywordOriginal": "mejores termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0073",
+      "brand": "VJ",
+      "keyword": "termo de moda 2026",
+      "keywordOriginal": "termo de moda 2026",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0074",
+      "brand": "VJ",
+      "keyword": "termo bonito para mujer",
+      "keywordOriginal": "termo bonito para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0075",
+      "brand": "VJ",
+      "keyword": "termos para agua fria y caliente",
+      "keywordOriginal": "termos para agua fria y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0076",
+      "brand": "VJ",
+      "keyword": "termos en tendencia 2026",
+      "keywordOriginal": "termos en tendencia 2026",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0077",
+      "brand": "VJ",
+      "keyword": "termos para gym mujer",
+      "keywordOriginal": "termos para gym mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0078",
+      "brand": "VJ",
+      "keyword": "termo bonito",
+      "keywordOriginal": "termo bonito",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0079",
+      "brand": "VJ",
+      "keyword": "acero para termos",
+      "keywordOriginal": "acero para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0080",
+      "brand": "VJ",
+      "keyword": "cual es la mejor marca de termos",
+      "keywordOriginal": "cual es la mejor marca de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0081",
+      "brand": "VJ",
+      "keyword": "termos de doble pared",
+      "keywordOriginal": "termos de doble pared",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0082",
+      "brand": "VJ",
+      "keyword": "termos dia del padre",
+      "keywordOriginal": "termos dia del padre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0083",
+      "brand": "VJ",
+      "keyword": "acero 304 en termos",
+      "keywordOriginal": "acero 304 en termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0084",
+      "brand": "VJ",
+      "keyword": "termo de acero inoxidable",
+      "keywordOriginal": "termo de acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0085",
+      "brand": "VJ",
+      "keyword": "marcas de termos buenos",
+      "keywordOriginal": "marcas de termos buenos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0086",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable 316",
+      "keywordOriginal": "termos de acero inoxidable 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0087",
+      "brand": "VJ",
+      "keyword": "vasos termicos",
+      "keywordOriginal": "vasos termicos",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0088",
+      "brand": "VJ",
+      "keyword": "mejor acero para termos",
+      "keywordOriginal": "mejor acero para termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0089",
+      "brand": "VJ",
+      "keyword": "mejor marca de termos",
+      "keywordOriginal": "mejor marca de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0090",
+      "brand": "VJ",
+      "keyword": "termo montaña",
+      "keywordOriginal": "termo montaña",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0091",
+      "brand": "VJ",
+      "keyword": "acero inoxidable para termos",
+      "keywordOriginal": "acero inoxidable para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0092",
+      "brand": "VJ",
+      "keyword": "mejores termos para cafe",
+      "keywordOriginal": "mejores termos para cafe",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0093",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo para agua fria",
+      "keywordOriginal": "cual es el mejor termo para agua fria",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0094",
+      "brand": "VJ",
+      "keyword": "termo para hielo",
+      "keywordOriginal": "termo para hielo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0095",
+      "brand": "VJ",
+      "keyword": "termo de acero inoxidable 316",
+      "keywordOriginal": "termo de acero inoxidable 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0096",
+      "brand": "VJ",
+      "keyword": "marcas de termos de agua",
+      "keywordOriginal": "marcas de termos de agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0097",
+      "brand": "VJ",
+      "keyword": "marcas de thermos",
+      "keywordOriginal": "marcas de thermos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0098",
+      "brand": "VJ",
+      "keyword": "vaso termico",
+      "keywordOriginal": "vaso termico",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0099",
+      "brand": "VJ",
+      "keyword": "marca de termos buenos",
+      "keywordOriginal": "marca de termos buenos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0100",
+      "brand": "VJ",
+      "keyword": "acero inoxidable 304 termo",
+      "keywordOriginal": "acero inoxidable 304 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0101",
+      "brand": "VJ",
+      "keyword": "marcas de termos para agua",
+      "keywordOriginal": "marcas de termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0102",
+      "brand": "VJ",
+      "keyword": "termo para frio",
+      "keywordOriginal": "termo para frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0103",
+      "brand": "VJ",
+      "keyword": "termo para agua fria y caliente",
+      "keywordOriginal": "termo para agua fria y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0104",
+      "brand": "VJ",
+      "keyword": "termo gym hombre",
+      "keywordOriginal": "termo gym hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0105",
+      "brand": "VJ",
+      "keyword": "termos 316",
+      "keywordOriginal": "termos 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0106",
+      "brand": "VJ",
+      "keyword": "termos con acero 304",
+      "keywordOriginal": "termos con acero 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0107",
+      "brand": "VJ",
+      "keyword": "acero apto para termos",
+      "keywordOriginal": "acero apto para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0108",
+      "brand": "VJ",
+      "keyword": "termo gym mujer",
+      "keywordOriginal": "termo gym mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0109",
+      "brand": "VJ",
+      "keyword": "termo de doble pared",
+      "keywordOriginal": "termo de doble pared",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0110",
+      "brand": "VJ",
+      "keyword": "termo para conservar frio",
+      "keywordOriginal": "termo para conservar frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0111",
+      "brand": "VJ",
+      "keyword": "termo gym",
+      "keywordOriginal": "termo gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0112",
+      "brand": "VJ",
+      "keyword": "termo de mujer",
+      "keywordOriginal": "termo de mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0113",
+      "brand": "VJ",
+      "keyword": "termos para agua para niños",
+      "keywordOriginal": "termos para agua para niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0114",
+      "brand": "VJ",
+      "keyword": "termo mujer",
+      "keywordOriginal": "termo mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0115",
+      "brand": "VJ",
+      "keyword": "acero 304 para termos",
+      "keywordOriginal": "acero 304 para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0116",
+      "brand": "VJ",
+      "keyword": "termos lindos para mujer",
+      "keywordOriginal": "termos lindos para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0117",
+      "brand": "VJ",
+      "keyword": "termo para agua niños",
+      "keywordOriginal": "termo para agua niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0118",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termos para agua",
+      "keywordOriginal": "mejores marcas de termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0119",
+      "brand": "VJ",
+      "keyword": "termo de acero 304",
+      "keywordOriginal": "termo de acero 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0120",
+      "brand": "VJ",
+      "keyword": "marcas de termos famosos",
+      "keywordOriginal": "marcas de termos famosos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0121",
+      "brand": "VJ",
+      "keyword": "que marca de termo es mejor",
+      "keywordOriginal": "que marca de termo es mejor",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0122",
+      "brand": "VJ",
+      "keyword": "termos para el gym",
+      "keywordOriginal": "termos para el gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0123",
+      "brand": "VJ",
+      "keyword": "termo con asa",
+      "keywordOriginal": "termo con asa",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0124",
+      "brand": "VJ",
+      "keyword": "mejores termos para agua fría",
+      "keywordOriginal": "mejores termos para agua fría",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0125",
+      "brand": "VJ",
+      "keyword": "termo agua niño",
+      "keywordOriginal": "termo agua niño",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0126",
+      "brand": "VJ",
+      "keyword": "termos populares",
+      "keywordOriginal": "termos populares",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0127",
+      "brand": "VJ",
+      "keyword": "termos gym",
+      "keywordOriginal": "termos gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0128",
+      "brand": "VJ",
+      "keyword": "marcas de termos famosas",
+      "keywordOriginal": "marcas de termos famosas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0129",
+      "brand": "VJ",
+      "keyword": "termo para mujer",
+      "keywordOriginal": "termo para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0130",
+      "brand": "VJ",
+      "keyword": "libre de bpa termos",
+      "keywordOriginal": "libre de bpa termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0131",
+      "brand": "VJ",
+      "keyword": "termos para agua niños",
+      "keywordOriginal": "termos para agua niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0132",
+      "brand": "VJ",
+      "keyword": "cuales son los mejores termos para agua fria",
+      "keywordOriginal": "cuales son los mejores termos para agua fria",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0133",
+      "brand": "VJ",
+      "keyword": "mejor termo para agua fria",
+      "keywordOriginal": "mejor termo para agua fria",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0134",
+      "brand": "VJ",
+      "keyword": "mejor acero inoxidable para termos",
+      "keywordOriginal": "mejor acero inoxidable para termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0135",
+      "brand": "VJ",
+      "keyword": "termos sus 304",
+      "keywordOriginal": "termos sus 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0136",
+      "brand": "VJ",
+      "keyword": "los vasos termicos sirven para frio y calor",
+      "keywordOriginal": "los vasos termicos sirven para frio y calor",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0137",
+      "brand": "VJ",
+      "keyword": "termo de leopardo",
+      "keywordOriginal": "termo de leopardo",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0138",
+      "brand": "VJ",
+      "keyword": "acero inoxidable 304 para termos",
+      "keywordOriginal": "acero inoxidable 304 para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0139",
+      "brand": "VJ",
+      "keyword": "termos acero 304",
+      "keywordOriginal": "termos acero 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0140",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable",
+      "keywordOriginal": "termos de acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0141",
+      "brand": "VJ",
+      "keyword": "cuales son las mejores marcas de termos",
+      "keywordOriginal": "cuales son las mejores marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0142",
+      "brand": "VJ",
+      "keyword": "termo de agua niño",
+      "keywordOriginal": "termo de agua niño",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0143",
+      "brand": "VJ",
+      "keyword": "termos de acero 304",
+      "keywordOriginal": "termos de acero 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0144",
+      "brand": "VJ",
+      "keyword": "termos con brillos para mujer",
+      "keywordOriginal": "termos con brillos para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0145",
+      "brand": "VJ",
+      "keyword": "acero 316 termo",
+      "keywordOriginal": "acero 316 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0146",
+      "brand": "VJ",
+      "keyword": "termos sus 316",
+      "keywordOriginal": "termos sus 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0147",
+      "brand": "VJ",
+      "keyword": "termos elegantes",
+      "keywordOriginal": "termos elegantes",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0148",
+      "brand": "VJ",
+      "keyword": "acero inoxidable 304 en termos",
+      "keywordOriginal": "acero inoxidable 304 en termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0149",
+      "brand": "VJ",
+      "keyword": "bpa free termos",
+      "keywordOriginal": "bpa free termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0150",
+      "brand": "VJ",
+      "keyword": "marcas de termos termicos",
+      "keywordOriginal": "marcas de termos termicos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0151",
+      "brand": "VJ",
+      "keyword": "marcas famosas de termos",
+      "keywordOriginal": "marcas famosas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0152",
+      "brand": "VJ",
+      "keyword": "termos para mantener el agua fria",
+      "keywordOriginal": "termos para mantener el agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0153",
+      "brand": "VJ",
+      "keyword": "termos de calidad",
+      "keywordOriginal": "termos de calidad",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0154",
+      "brand": "VJ",
+      "keyword": "el mejor termo del mundo",
+      "keywordOriginal": "el mejor termo del mundo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0155",
+      "brand": "VJ",
+      "keyword": "termo que mantiene el agua caliente",
+      "keywordOriginal": "termo que mantiene el agua caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0156",
+      "brand": "VJ",
+      "keyword": "termos que mantienen el frio",
+      "keywordOriginal": "termos que mantienen el frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0157",
+      "brand": "VJ",
+      "keyword": "termos sin bpa",
+      "keywordOriginal": "termos sin bpa",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0158",
+      "brand": "VJ",
+      "keyword": "los mejores termos",
+      "keywordOriginal": "los mejores termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0159",
+      "brand": "VJ",
+      "keyword": "las mejores marcas de termos",
+      "keywordOriginal": "las mejores marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0160",
+      "brand": "VJ",
+      "keyword": "termo para mujer bonito",
+      "keywordOriginal": "termo para mujer bonito",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0161",
+      "brand": "VJ",
+      "keyword": "termo de acero 316",
+      "keywordOriginal": "termo de acero 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0162",
+      "brand": "VJ",
+      "keyword": "termo termico",
+      "keywordOriginal": "termo termico",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0163",
+      "brand": "VJ",
+      "keyword": "termo 316 sus",
+      "keywordOriginal": "termo 316 sus",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0164",
+      "brand": "VJ",
+      "keyword": "termo doble boquilla",
+      "keywordOriginal": "termo doble boquilla",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0165",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termo",
+      "keywordOriginal": "mejores marcas de termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0166",
+      "brand": "VJ",
+      "keyword": "botella termica",
+      "keywordOriginal": "botella termica",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0167",
+      "brand": "VJ",
+      "keyword": "cuales son los mejores termos",
+      "keywordOriginal": "cuales son los mejores termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0168",
+      "brand": "VJ",
+      "keyword": "vaso termico para cafe",
+      "keywordOriginal": "vaso termico para cafe",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0169",
+      "brand": "VJ",
+      "keyword": "termo de agua",
+      "keywordOriginal": "termo de agua",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0170",
+      "brand": "VJ",
+      "keyword": "termo para smoothies",
+      "keywordOriginal": "termo para smoothies",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0171",
+      "brand": "VJ",
+      "keyword": "mejor marca de termo",
+      "keywordOriginal": "mejor marca de termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0172",
+      "brand": "VJ",
+      "keyword": "termos para agua fría",
+      "keywordOriginal": "termos para agua fría",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0173",
+      "brand": "VJ",
+      "keyword": "mejores termos para agua caliente",
+      "keywordOriginal": "mejores termos para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0174",
+      "brand": "VJ",
+      "keyword": "termos que mantienen el agua fria",
+      "keywordOriginal": "termos que mantienen el agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0175",
+      "brand": "VJ",
+      "keyword": "marcas de termos caros",
+      "keywordOriginal": "marcas de termos caros",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0176",
+      "brand": "VJ",
+      "keyword": "los mejores termos para agua",
+      "keywordOriginal": "los mejores termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0177",
+      "brand": "VJ",
+      "keyword": "termo barato",
+      "keywordOriginal": "termo barato",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0178",
+      "brand": "VJ",
+      "keyword": "termo para hombre gym",
+      "keywordOriginal": "termo para hombre gym",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0179",
+      "brand": "VJ",
+      "keyword": "termos para agua caliente y fria",
+      "keywordOriginal": "termos para agua caliente y fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0180",
+      "brand": "VJ",
+      "keyword": "mejores termos para agua fria y caliente",
+      "keywordOriginal": "mejores termos para agua fria y caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0181",
+      "brand": "VJ",
+      "keyword": "termo para cafe",
+      "keywordOriginal": "termo para cafe",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0182",
+      "brand": "VJ",
+      "keyword": "termos gym hombre",
+      "keywordOriginal": "termos gym hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0183",
+      "brand": "VJ",
+      "keyword": "termos caros",
+      "keywordOriginal": "termos caros",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0184",
+      "brand": "VJ",
+      "keyword": "termos tendencia 2026",
+      "keywordOriginal": "termos tendencia 2026",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0185",
+      "brand": "VJ",
+      "keyword": "marca de termos de agua",
+      "keywordOriginal": "marca de termos de agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0186",
+      "brand": "VJ",
+      "keyword": "mejor termo del mundo",
+      "keywordOriginal": "mejor termo del mundo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0187",
+      "brand": "VJ",
+      "keyword": "termo para gimnasio hombre",
+      "keywordOriginal": "termo para gimnasio hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0188",
+      "brand": "VJ",
+      "keyword": "termos de marcas",
+      "keywordOriginal": "termos de marcas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0189",
+      "brand": "VJ",
+      "keyword": "termos para cafe",
+      "keywordOriginal": "termos para cafe",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0190",
+      "brand": "VJ",
+      "keyword": "termos mejores marcas",
+      "keywordOriginal": "termos mejores marcas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0191",
+      "brand": "VJ",
+      "keyword": "termos marcas buenas",
+      "keywordOriginal": "termos marcas buenas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0192",
+      "brand": "VJ",
+      "keyword": "termos que mantienen el agua caliente",
+      "keywordOriginal": "termos que mantienen el agua caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0193",
+      "brand": "VJ",
+      "keyword": "termo de agua fria y caliente",
+      "keywordOriginal": "termo de agua fria y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0194",
+      "brand": "VJ",
+      "keyword": "termos acero 316",
+      "keywordOriginal": "termos acero 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0195",
+      "brand": "VJ",
+      "keyword": "¿cuáles son los vasos térmicos más recomendados para oficina?",
+      "keywordOriginal": "¿cuáles son los vasos térmicos más recomendados para oficina?",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0196",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo",
+      "keywordOriginal": "cual es el mejor termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0197",
+      "brand": "VJ",
+      "keyword": "termo para mantener el agua fria",
+      "keywordOriginal": "termo para mantener el agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0198",
+      "brand": "VJ",
+      "keyword": "termos para niños de acero inoxidable",
+      "keywordOriginal": "termos para niños de acero inoxidable",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0199",
+      "brand": "VJ",
+      "keyword": "top 10 vasos térmicos",
+      "keywordOriginal": "top 10 vasos térmicos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0200",
+      "brand": "VJ",
+      "keyword": "marcas termo",
+      "keywordOriginal": "marcas termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0201",
+      "brand": "VJ",
+      "keyword": "termos elegantes para hombre",
+      "keywordOriginal": "termos elegantes para hombre",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0202",
+      "brand": "VJ",
+      "keyword": "termos para montaña",
+      "keywordOriginal": "termos para montaña",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0203",
+      "brand": "VJ",
+      "keyword": "termo coche",
+      "keywordOriginal": "termo coche",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0204",
+      "brand": "VJ",
+      "keyword": "mejor marca de termos para agua",
+      "keywordOriginal": "mejor marca de termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0205",
+      "brand": "VJ",
+      "keyword": "marca termos agua",
+      "keywordOriginal": "marca termos agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0206",
+      "brand": "VJ",
+      "keyword": "mejores termos del mercado",
+      "keywordOriginal": "mejores termos del mercado",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0207",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo para agua",
+      "keywordOriginal": "cual es el mejor termo para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0208",
+      "brand": "VJ",
+      "keyword": "termo carro",
+      "keywordOriginal": "termo carro",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0209",
+      "brand": "VJ",
+      "keyword": "buenas marcas de termos",
+      "keywordOriginal": "buenas marcas de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0210",
+      "brand": "VJ",
+      "keyword": "termo para cervezas",
+      "keywordOriginal": "termo para cervezas",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0211",
+      "brand": "VJ",
+      "keyword": "botella ciclista",
+      "keywordOriginal": "botella ciclista",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0212",
+      "brand": "VJ",
+      "keyword": "termo para conservar hielo",
+      "keywordOriginal": "termo para conservar hielo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0213",
+      "brand": "VJ",
+      "keyword": "un termo sirve para frío y caliente",
+      "keywordOriginal": "un termo sirve para frío y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0214",
+      "brand": "VJ",
+      "keyword": "termo 40 oz a litros",
+      "keywordOriginal": "termo 40 oz a litros",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0215",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termos para agua caliente",
+      "keywordOriginal": "mejores marcas de termos para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0216",
+      "brand": "VJ",
+      "keyword": "acero inoxidable 316 en termos",
+      "keywordOriginal": "acero inoxidable 316 en termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0217",
+      "brand": "VJ",
+      "keyword": "termos con acero 316",
+      "keywordOriginal": "termos con acero 316",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0218",
+      "brand": "VJ",
+      "keyword": "cuales son los mejores termos para agua",
+      "keywordOriginal": "cuales son los mejores termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0219",
+      "brand": "VJ",
+      "keyword": "304 termos",
+      "keywordOriginal": "304 termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0220",
+      "brand": "VJ",
+      "keyword": "termo para bebidas carbonatadas",
+      "keywordOriginal": "termo para bebidas carbonatadas",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0221",
+      "brand": "VJ",
+      "keyword": "cuáles son los mejores termos",
+      "keywordOriginal": "cuáles son los mejores termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0222",
+      "brand": "VJ",
+      "keyword": "acero 304 termo",
+      "keywordOriginal": "acero 304 termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0223",
+      "brand": "VJ",
+      "keyword": "termo con agarradera",
+      "keywordOriginal": "termo con agarradera",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0224",
+      "brand": "VJ",
+      "keyword": "mejor termo",
+      "keywordOriginal": "mejor termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0225",
+      "brand": "VJ",
+      "keyword": "mejores termos de acero inoxidable",
+      "keywordOriginal": "mejores termos de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0226",
+      "brand": "VJ",
+      "keyword": "termo moda",
+      "keywordOriginal": "termo moda",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0227",
+      "brand": "VJ",
+      "keyword": "los mejores termos para agua caliente",
+      "keywordOriginal": "los mejores termos para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0228",
+      "brand": "VJ",
+      "keyword": "botella de agua termica",
+      "keywordOriginal": "botella de agua termica",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0229",
+      "brand": "VJ",
+      "keyword": "termo marcas buenas",
+      "keywordOriginal": "termo marcas buenas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0230",
+      "brand": "VJ",
+      "keyword": "termo para conservar el frio",
+      "keywordOriginal": "termo para conservar el frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0231",
+      "brand": "VJ",
+      "keyword": "termos para carro",
+      "keywordOriginal": "termos para carro",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0232",
+      "brand": "VJ",
+      "keyword": "termos de agua fria y caliente",
+      "keywordOriginal": "termos de agua fria y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0233",
+      "brand": "VJ",
+      "keyword": "mejores marcas termos",
+      "keywordOriginal": "mejores marcas termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0234",
+      "brand": "VJ",
+      "keyword": "termos marcas famosas",
+      "keywordOriginal": "termos marcas famosas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0235",
+      "brand": "VJ",
+      "keyword": "cuál es el mejor termo",
+      "keywordOriginal": "cuál es el mejor termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0236",
+      "brand": "VJ",
+      "keyword": "termos infantiles acero inoxidable",
+      "keywordOriginal": "termos infantiles acero inoxidable",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0237",
+      "brand": "VJ",
+      "keyword": "cual es la mejor marca de termos de acero inoxidable",
+      "keywordOriginal": "cual es la mejor marca de termos de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0238",
+      "brand": "VJ",
+      "keyword": "termo hielo",
+      "keywordOriginal": "termo hielo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0239",
+      "brand": "VJ",
+      "keyword": "termo de buena calidad para agua caliente",
+      "keywordOriginal": "termo de buena calidad para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0240",
+      "brand": "VJ",
+      "keyword": "termos de alta calidad",
+      "keywordOriginal": "termos de alta calidad",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0241",
+      "brand": "VJ",
+      "keyword": "top termos",
+      "keywordOriginal": "top termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0242",
+      "brand": "VJ",
+      "keyword": "mejores termos para montaña",
+      "keywordOriginal": "mejores termos para montaña",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0243",
+      "brand": "VJ",
+      "keyword": "termo que mantiene el frio",
+      "keywordOriginal": "termo que mantiene el frio",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0244",
+      "brand": "VJ",
+      "keyword": "mejores marca de termos",
+      "keywordOriginal": "mejores marca de termos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0245",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable aprobados",
+      "keywordOriginal": "termos de acero inoxidable aprobados",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0246",
+      "brand": "VJ",
+      "keyword": "los mejores termos para agua fria y caliente",
+      "keywordOriginal": "los mejores termos para agua fria y caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0247",
+      "brand": "VJ",
+      "keyword": "mejores marcas de thermos",
+      "keywordOriginal": "mejores marcas de thermos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0248",
+      "brand": "VJ",
+      "keyword": "termo bueno para agua caliente",
+      "keywordOriginal": "termo bueno para agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0249",
+      "brand": "VJ",
+      "keyword": "thermo de moda",
+      "keywordOriginal": "thermo de moda",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0250",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo de acero inoxidable",
+      "keywordOriginal": "cual es el mejor termo de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0251",
+      "brand": "VJ",
+      "keyword": "cuales son las mejores marcas de termos de acero inoxidable",
+      "keywordOriginal": "cuales son las mejores marcas de termos de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0252",
+      "brand": "VJ",
+      "keyword": "termo de calidad",
+      "keywordOriginal": "termo de calidad",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0253",
+      "brand": "VJ",
+      "keyword": "termos exoticos",
+      "keywordOriginal": "termos exoticos",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0254",
+      "brand": "VJ",
+      "keyword": "vasos térmicos",
+      "keywordOriginal": "vasos térmicos",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0255",
+      "brand": "VJ",
+      "keyword": "termo de gimnasio",
+      "keywordOriginal": "termo de gimnasio",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0256",
+      "brand": "VJ",
+      "keyword": "termo medico",
+      "keywordOriginal": "termo medico",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0257",
+      "brand": "VJ",
+      "keyword": "termo para guardar agua caliente",
+      "keywordOriginal": "termo para guardar agua caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0258",
+      "brand": "VJ",
+      "keyword": "termos para correr",
+      "keywordOriginal": "termos para correr",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0259",
+      "brand": "VJ",
+      "keyword": "termos para enfermeras",
+      "keywordOriginal": "termos para enfermeras",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0260",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termos termicos",
+      "keywordOriginal": "mejores marcas de termos termicos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0261",
+      "brand": "VJ",
+      "keyword": "termo para entrenar",
+      "keywordOriginal": "termo para entrenar",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0262",
+      "brand": "VJ",
+      "keyword": "termos de marcas reconocidas",
+      "keywordOriginal": "termos de marcas reconocidas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0263",
+      "brand": "VJ",
+      "keyword": "termos para agua de niños",
+      "keywordOriginal": "termos para agua de niños",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0264",
+      "brand": "VJ",
+      "keyword": "mejor termo de acero inoxidable",
+      "keywordOriginal": "mejor termo de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0265",
+      "brand": "VJ",
+      "keyword": "termo marca",
+      "keywordOriginal": "termo marca",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0266",
+      "brand": "VJ",
+      "keyword": "termo acero inoxidable 1 litro",
+      "keywordOriginal": "termo acero inoxidable 1 litro",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0267",
+      "brand": "VJ",
+      "keyword": "termos hombres",
+      "keywordOriginal": "termos hombres",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0268",
+      "brand": "VJ",
+      "keyword": "mejores termos del mundo",
+      "keywordOriginal": "mejores termos del mundo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0269",
+      "brand": "VJ",
+      "keyword": "termos electricos",
+      "keywordOriginal": "termos electricos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0270",
+      "brand": "VJ",
+      "keyword": "termos de camping",
+      "keywordOriginal": "termos de camping",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0271",
+      "brand": "VJ",
+      "keyword": "termo buena calidad",
+      "keywordOriginal": "termo buena calidad",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0272",
+      "brand": "VJ",
+      "keyword": "los mejores termos de acero inoxidable",
+      "keywordOriginal": "los mejores termos de acero inoxidable",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0273",
+      "brand": "VJ",
+      "keyword": "termo de cafe",
+      "keywordOriginal": "termo de cafe",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0274",
+      "brand": "VJ",
+      "keyword": "termos de gimnasio",
+      "keywordOriginal": "termos de gimnasio",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0275",
+      "brand": "VJ",
+      "keyword": "termos para camping",
+      "keywordOriginal": "termos para camping",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0276",
+      "brand": "VJ",
+      "keyword": "termo para llevar agua fria",
+      "keywordOriginal": "termo para llevar agua fria",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0277",
+      "brand": "VJ",
+      "keyword": "termos para agua para mujer",
+      "keywordOriginal": "termos para agua para mujer",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0278",
+      "brand": "VJ",
+      "keyword": "bpa termo",
+      "keywordOriginal": "bpa termo",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0279",
+      "brand": "VJ",
+      "keyword": "cual es el mejor termo para mate",
+      "keywordOriginal": "cual es el mejor termo para mate",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0280",
+      "brand": "VJ",
+      "keyword": "medida termo",
+      "keywordOriginal": "medida termo",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0281",
+      "brand": "VJ",
+      "keyword": "las mejores marcas de termos para agua",
+      "keywordOriginal": "las mejores marcas de termos para agua",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0282",
+      "brand": "VJ",
+      "keyword": "se cura un termo nuevo",
+      "keywordOriginal": "se cura un termo nuevo",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0283",
+      "brand": "VJ",
+      "keyword": "termos agua fria y caliente",
+      "keywordOriginal": "termos agua fria y caliente",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0284",
+      "brand": "VJ",
+      "keyword": "mejores marcas de termos para mate",
+      "keywordOriginal": "mejores marcas de termos para mate",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0285",
+      "brand": "VJ",
+      "keyword": "termos para tinto",
+      "keywordOriginal": "termos para tinto",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0286",
+      "brand": "VJ",
+      "keyword": "acero de termos",
+      "keywordOriginal": "acero de termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0287",
+      "brand": "VJ",
+      "keyword": "termo para el auto",
+      "keywordOriginal": "termo para el auto",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0288",
+      "brand": "VJ",
+      "keyword": "termo para el gimnasio",
+      "keywordOriginal": "termo para el gimnasio",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0289",
+      "brand": "VJ",
+      "keyword": "mejores termos de agua caliente",
+      "keywordOriginal": "mejores termos de agua caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0290",
+      "brand": "VJ",
+      "keyword": "termo cañon acero inoxidable",
+      "keywordOriginal": "termo cañon acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0291",
+      "brand": "VJ",
+      "keyword": "test de termo",
+      "keywordOriginal": "test de termo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0292",
+      "brand": "VJ",
+      "keyword": "termos para agua chicos",
+      "keywordOriginal": "termos para agua chicos",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0293",
+      "brand": "VJ",
+      "keyword": "termos para senderismo",
+      "keywordOriginal": "termos para senderismo",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0294",
+      "brand": "VJ",
+      "keyword": "termo para niña acero inoxidable",
+      "keywordOriginal": "termo para niña acero inoxidable",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0295",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable para agua",
+      "keywordOriginal": "termos de acero inoxidable para agua",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0296",
+      "brand": "VJ",
+      "keyword": "termos para medicos",
+      "keywordOriginal": "termos para medicos",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0297",
+      "brand": "VJ",
+      "keyword": "termo para conservar agua fria",
+      "keywordOriginal": "termo para conservar agua fria",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0298",
+      "brand": "VJ",
+      "keyword": "termos de 1.5 litros",
+      "keywordOriginal": "termos de 1.5 litros",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0299",
+      "brand": "VJ",
+      "keyword": "cuales son los mejores termos para mate",
+      "keywordOriginal": "cuales son los mejores termos para mate",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0300",
+      "brand": "VJ",
+      "keyword": "termo bueno y barato",
+      "keywordOriginal": "termo bueno y barato",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0301",
+      "brand": "VJ",
+      "keyword": "termo de acero inoxidable 1 litro",
+      "keywordOriginal": "termo de acero inoxidable 1 litro",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0302",
+      "brand": "VJ",
+      "keyword": "termo para cafe pequeño",
+      "keywordOriginal": "termo para cafe pequeño",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0303",
+      "brand": "VJ",
+      "keyword": "termo acero inoxidable 150 litros",
+      "keywordOriginal": "termo acero inoxidable 150 litros",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0304",
+      "brand": "VJ",
+      "keyword": "top 10 thermos",
+      "keywordOriginal": "top 10 thermos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0305",
+      "brand": "VJ",
+      "keyword": "cafe en termo",
+      "keywordOriginal": "cafe en termo",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0306",
+      "brand": "VJ",
+      "keyword": "marca de vasos termicos",
+      "keywordOriginal": "marca de vasos termicos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0307",
+      "brand": "VJ",
+      "keyword": "termo cafe para llevar",
+      "keywordOriginal": "termo cafe para llevar",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0308",
+      "brand": "VJ",
+      "keyword": "termo niños acero inoxidable",
+      "keywordOriginal": "termo niños acero inoxidable",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0309",
+      "brand": "VJ",
+      "keyword": "termos chinos",
+      "keywordOriginal": "termos chinos",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0310",
+      "brand": "VJ",
+      "keyword": "termo oficial mundial 2026",
+      "keywordOriginal": "termo oficial mundial 2026",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器"
+    },
+    {
+      "id": "VJ-0311",
+      "brand": "VJ",
+      "keyword": "termos de acero 300",
+      "keywordOriginal": "termos de acero 300",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0312",
+      "brand": "VJ",
+      "keyword": "botella termica sus 304",
+      "keywordOriginal": "botella termica sus 304",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0313",
+      "brand": "VJ",
+      "keyword": "termo acero serie 300",
+      "keywordOriginal": "termo acero serie 300",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0314",
+      "brand": "VJ",
+      "keyword": "botellas agua acero inoxidable",
+      "keywordOriginal": "botellas agua acero inoxidable",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0315",
+      "brand": "VJ",
+      "keyword": "cuales son las mejores botellas termicas",
+      "keywordOriginal": "cuales son las mejores botellas termicas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0316",
+      "brand": "VJ",
+      "keyword": "mejores botellas térmicas",
+      "keywordOriginal": "mejores botellas térmicas",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0317",
+      "brand": "VJ",
+      "keyword": "termo de café 1 litro",
+      "keywordOriginal": "termo de café 1 litro",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0318",
+      "brand": "VJ",
+      "keyword": "termos buenos en argentina",
+      "keywordOriginal": "termos buenos en argentina",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0319",
+      "brand": "VJ",
+      "keyword": "botella termica senderismo",
+      "keywordOriginal": "botella termica senderismo",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    },
+    {
+      "id": "VJ-0320",
+      "brand": "VJ",
+      "keyword": "el termo mas caro del mundo",
+      "keywordOriginal": "el termo mas caro del mundo",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较"
+    },
+    {
+      "id": "VJ-0321",
+      "brand": "VJ",
+      "keyword": "termos de acero inoxidable de 1 litro",
+      "keywordOriginal": "termos de acero inoxidable de 1 litro",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格"
+    },
+    {
+      "id": "VJ-0322",
+      "brand": "VJ",
+      "keyword": "termos para parejas",
+      "keywordOriginal": "termos para parejas",
+      "groupCode": "VJ-03",
+      "groupName": "人群场景与外观"
+    }
+  ]
+}

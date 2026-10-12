@@ -1,0 +1,47 @@
+# .github/workflows/public-deploy.yml
+#
+# 【此文件应放置在 Public 仓库 seo-dashboard-pages 的根目录】
+# 不是 Private 仓库的文件。
+#
+# 由先生手动 clone seo-dashboard-pages，把这个文件放到
+# .github/workflows/public-deploy.yml，提交推送。
+# 之后 Private 仓库 sync-to-public 推送任何变更都会触发它。
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 上传整个仓库根目录（含 index.html / css / js / data）
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
