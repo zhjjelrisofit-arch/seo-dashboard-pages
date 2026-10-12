@@ -73,6 +73,21 @@ function brandRowsForRange(start,end,site){
  for(const date of dates){if(date>=start&&date<=end)rows.push(map.get(date))}
  return rows.length?rows:null;
 }
+// 区间内"实际观测日数"——指在 dayMap 中真实存在的日期数。
+// 对品牌词和品类词均适用：只有当区间内每一天都有真实数据时，
+// 观测日数才会等于 expectedDays；否则说明该数据源在该区间存在缺失日。
+// 比较时若当前期或上期观测日数与 expectedDays 不一致，
+// 视为「数据不完整」，不应直接展示增长率。
+function observedDays(map,start,end){
+ if(!map)return 0;
+ let n=0;for(const d of map.keys()){if(d>=start&&d<=end)n++}
+ return n;
+}
+// 区间内"应有天数"（日历天数）
+function expectedDays(start,end){return daysBetween(start,end)+1}
+// brandObservedDays / categoryObservedDays：按 site 取对应 dayMap 的观测日数
+function brandObservedDays(start,end,site){return observedDays(brandDayMap[site],start,end)}
+function categoryObservedDays(start,end,site){return observedDays(categoryDayMap[site],start,end)}
 
 function categoryRowsForRange(start,end,site){
  // 只返回真实存在于 categoryDayMap 中的日期，缺失日期不补 0
@@ -114,6 +129,22 @@ function deltaHtml(site,type,k,group='all'){
  if(!state.compare)return '';
  const r=range(),p=prevRange(),current=stats(r.start,r.end,site,type,group),previous=stats(p.start,p.end,site,type,group);
  if(!current||!previous)return '<span class="delta neutral">—</span>';
+ // 可解释比较口径：要求「当前期」与「上期」均为数据源完整覆盖的区间，
+ // 且两期应有天数与实际观测日数完全一致，否则不显示误导性增长率。
+ // 规则（任一不满足即标记不可比）：
+ //   1. 当前期应有天数 == 上期应有天数（保证两期长度一致）
+ //   2. 当前期实际观测日数 == 当前期应有天数（保证当前期数据完整）
+ //   3. 上期实际观测日数 == 上期应有天数（保证上期数据完整）
+ // 品牌词与品类词统一使用同一规则——观测日数从各自 dayMap 实测，
+ // 不假设品类词一定完整（历史回补缺失、API 限流缺日等场景同样适用）。
+ const expCurr=expectedDays(r.start,r.end);
+ const expPrev=expectedDays(p.start,p.end);
+ const map=type==='brand'?brandDayMap[site]:categoryDayMap[site];
+ const obsCurr=observedDays(map,r.start,r.end);
+ const obsPrev=observedDays(map,p.start,p.end);
+ if(expCurr!==expPrev||obsCurr!==expCurr||obsPrev!==expPrev||obsCurr===0){
+  return `<span class="delta neutral" title="当前期 ${obsCurr}/${expCurr} 天、上期 ${obsPrev}/${expPrev} 天有真实数据。只有两期均完整且长度一致时才显示可比增长率。">口径不一致 · ${obsCurr}/${expCurr} · ${obsPrev}/${expPrev}天</span>`;
+ }
  let change=k==='position'?current[k]-previous[k]:k==='ctr'?(current[k]-previous[k])*100:previous[k]?100*(current[k]-previous[k])/previous[k]:null;
  if(change===null)return '<span class="delta neutral">—</span>';
  let better=k==='position'?change<0:change>0;
@@ -151,7 +182,10 @@ function detail(site){const S=SITES[site],type=state.detailType[site],g=state.gr
  // 品类词历史完整性提示
  const catMeta=categoryMeta[site];
  const catRangeWarn=(type==='category'&&catMeta&&catMeta.oldest!=='—'&&state.start<catMeta.oldest)?`<div class="explain" style="color:#b17625;margin:.4em 0">品类词历史范围不完整：当前数据覆盖 ${fdate(catMeta.oldest)} 至 ${fdate(catMeta.asOf)}，所选区间内 ${fdate(state.start)} 至 ${fdate(addDays(catMeta.oldest,-1))} 无品类词数据（不会以 0 充数）。</div>`:'';
-const panel=type==='brand'?`<section class="card analysis-block" id="brand-panel"><div class="block-head"><div><h2><span class="type-tag brand">品牌词</span>搜索表现</h2></div><span class="source-pill" title="官方 Branded 分类汇总 · Excel">Excel</span></div>${metricRibbon(site,'brand')}${chartCard(site+'b','brand',site,'all',false)}${dimensionPanel(site,'brand')}</section>`:`<section class="card analysis-block" id="category-panel"><div class="block-head"><div><h2><span class="type-tag category">品类词</span>搜索表现</h2></div><span class="source-pill category" title="GSC可见查询 · 每条Query只归属一个搜索需求组">GSC API</span></div>${catRangeWarn}<div class="group-bar">${groups.map(([v,t])=>`<button type="button" class="group-chip ${g===v?'selected':''}" data-group="${site}|${v}" aria-pressed="${g===v}">${esc(t)}</button>`).join('')}</div>${metricRibbon(site,'category',g)}${chartCard(site+'c','category',site,g,false)}${dimensionPanel(site,'category')}</section>`;return `<div class="detail-intro"><div class="square ${site}">${S.short}</div><div><div class="brand-name">${S.name}</div><div class="brand-note">${S.description}</div></div></div><div class="detail-switch segment-control" role="group" aria-label="分析类型">${[['brand','品牌词'],['category','品类词']].map(([v,t])=>`<button type="button" data-detail-type="${site}|${v}" class="${type===v?'on':''}" aria-pressed="${type===v}">${t}</button>`).join('')}</div>${panel}<div class="foot-note">品牌词与品类词口径不同，不能相加。</div>`;}
+ // 品牌词截止日落后于全局截止日时提示（不新增模块，仅在品牌面板内显示）
+ const brandM=brandMeta[site];
+ const brandLagWarn=(type==='brand'&&brandM&&brandM.asOf!=='—'&&brandM.asOf<META.asOf&&state.end>brandM.asOf)?`<div class="explain" style="color:#b17625;margin:.4em 0">品牌词数据截至 ${fdate(brandM.asOf)}，落后于 Dashboard 全局截止日 ${fdate(META.asOf)}。所选区间 ${fdate(addDays(brandM.asOf,1))} 至 ${fdate(state.end)} 无品牌词数据（不会以 0 充数），比较口径按实际观测日计算。</div>`:'';
+const panel=type==='brand'?`<section class="card analysis-block" id="brand-panel"><div class="block-head"><div><h2><span class="type-tag brand">品牌词</span>搜索表现</h2></div><span class="source-pill" title="官方 Branded 分类汇总 · Excel">Excel</span></div>${brandLagWarn}${metricRibbon(site,'brand')}${chartCard(site+'b','brand',site,'all',false)}${dimensionPanel(site,'brand')}</section>`:`<section class="card analysis-block" id="category-panel"><div class="block-head"><div><h2><span class="type-tag category">品类词</span>搜索表现</h2></div><span class="source-pill category" title="GSC可见查询 · 每条Query只归属一个搜索需求组">GSC API</span></div>${catRangeWarn}<div class="group-bar">${groups.map(([v,t])=>`<button type="button" class="group-chip ${g===v?'selected':''}" data-group="${site}|${v}" aria-pressed="${g===v}">${esc(t)}</button>`).join('')}</div>${metricRibbon(site,'category',g)}${chartCard(site+'c','category',site,g,false)}${dimensionPanel(site,'category')}</section>`;return `<div class="detail-intro"><div class="square ${site}">${S.short}</div><div><div class="brand-name">${S.name}</div><div class="brand-note">${S.description}</div></div></div><div class="detail-switch segment-control" role="group" aria-label="分析类型">${[['brand','品牌词'],['category','品类词']].map(([v,t])=>`<button type="button" data-detail-type="${site}|${v}" class="${type===v?'on':''}" aria-pressed="${type===v}">${t}</button>`).join('')}</div>${panel}<div class="foot-note">品牌词与品类词口径不同，不能相加。</div>`;}
 function monthStart(s){return s.slice(0,7)+'-01'}
 function monthEnd(s){const d=toUTC(monthStart(s));return fromUTC(new Date(Date.UTC(d.getUTCFullYear(),d.getUTCMonth()+1,0)))}
 function makeBuckets(start,end,grain){if(start>end)return[];const all=[];for(let d=start;d<=end;){let until=d;if(grain==='week'){
@@ -222,8 +256,14 @@ function demoQueries(site,type){
     .filter(q=>g==='all'||q.groupCode===SITES[site].groups[Number(g)][0])
     .map(q=>({query:q.query,group:q.groupName,clicks:q.clicks,impressions:q.impressions,ctr:q.ctr,position:q.position}));
  }
- // 品牌词（仍是演示）
- const r=range(),from=r.start<META.queryFrom?META.queryFrom:r.start,through=r.end>META.queryThrough?META.queryThrough:r.end,days=from<=through?daysBetween(from,through)+1:0;
+ // 品牌词（仍是演示）：窗口严格按当前 site 的品牌词 asOf/oldest 计算，
+ // 不使用全局 META.queryThrough/queryFrom——避免 JF 与 VJ 在不同日期更新 Excel
+ // 时，把其中一个品牌的 Query 明细范围扩展到另一个品牌才覆盖的日期。
+ const r=range();
+ const bm=brandMeta[site];
+ const siteThrough=(bm&&bm.asOf&&bm.asOf!=='—')?bm.asOf:META.asOf;
+ const siteFrom=(bm&&bm.oldest&&bm.oldest!=='—')?bm.oldest:minusMonths(siteThrough,12);
+ const from=r.start<siteFrom?siteFrom:r.start,through=r.end>siteThrough?siteThrough:r.end,days=from<=through?daysBetween(from,through)+1:0;
  if(!days)return[];const terms=BRAND_Q[site].map((q,i)=>({q,group:'—',groupId:-1,index:i}));
  return terms.map(t=>{
   const seed=rnd(t.index+7,t.groupId+12+ (site==='jf'?0:27)),influence=(1.2+.8*seed)/(1+t.index*.11);
@@ -247,10 +287,16 @@ function tablePart(site,type){const q=qstate(site,type),data=filteredQueries(sit
 }
 function queryTab(site,type){const q=qstate(site,type),r=range();
  if(type==='brand'){
-  const partial=r.start<META.queryFrom||r.end>META.queryThrough,hasWindow=r.end>=META.queryFrom&&r.start<=META.queryThrough;
-  if(!hasWindow)return `<div class="empty">该日期范围超出公开Query明细窗口。<br/>当前演示Query窗口：${fdate(META.queryFrom)}—${fdate(META.queryThrough)}。</div>`;
+  // 窗口按当前 site 的品牌词 asOf/oldest 计算（per-site），
+  // 不使用全局 META.queryThrough/queryFrom，
+  // 避免 JF 和 VJ 在不同日期更新 Excel 时互相扩展窗口。
+  const bm=brandMeta[site];
+  const siteThrough=(bm&&bm.asOf&&bm.asOf!=='—')?bm.asOf:META.asOf;
+  const siteFrom=(bm&&bm.oldest&&bm.oldest!=='—')?bm.oldest:minusMonths(siteThrough,12);
+  const partial=r.start<siteFrom||r.end>siteThrough,hasWindow=r.end>=siteFrom&&r.start<=siteThrough;
+  if(!hasWindow)return `<div class="empty">该日期范围超出本站品牌词 Query 明细窗口。<br/>当前窗口：${fdate(siteFrom)}—${fdate(siteThrough)}。</div>`;
   const f=[['minClicks','点击量下限'],['maxClicks','点击量上限'],['minImpressions','曝光量下限'],['maxImpressions','曝光量上限'],['minPosition','平均排名下限'],['maxPosition','平均排名上限']];
-  return `${partial?'<div class="explain" style="color:#b17625">当前日期部分超出最近12个月Query发布窗口，明细只覆盖窗口内日期，不能与完整区间KPI直接相加。</div>':''}<div class="query-toolbar"><div class="ql"><input class="query-search" data-qsearch="${site}|${type}" aria-label="搜索查询词" placeholder="搜索查询词…" value="${esc(q.search)}"/><button type="button" class="small-btn" data-qfilter="${site}|${type}">☷ 指标筛选</button><button type="button" class="small-btn" data-qreset="${site}|${type}">重置</button></div><button type="button" class="small-btn" data-export="${site}|${type}">↓ 导出CSV</button></div><div class="filter-grid ${q.filterOpen?'show':''}" id="filters-${site}-${type}">${f.map(([id,label])=>`<div><label>${label}</label><input type="number" step="${id.toLowerCase().includes('position')?'.1':'1'}" min="0" data-qfield="${site}|${type}|${id}" value="${esc(q[id])}" placeholder="不限"/></div>`).join('')}</div><div id="qtable-${site}-${type}">${tablePart(site,type)}</div>`;
+  return `${partial?'<div class="explain" style="color:#b17625">当前日期部分超出本站品牌词 Query 发布窗口，明细只覆盖窗口内日期，不能与完整区间KPI直接相加。</div>':''}<div class="query-toolbar"><div class="ql"><input class="query-search" data-qsearch="${site}|${type}" aria-label="搜索查询词" placeholder="搜索查询词…" value="${esc(q.search)}"/><button type="button" class="small-btn" data-qfilter="${site}|${type}">☷ 指标筛选</button><button type="button" class="small-btn" data-qreset="${site}|${type}">重置</button></div><button type="button" class="small-btn" data-export="${site}|${type}">↓ 导出CSV</button></div><div class="filter-grid ${q.filterOpen?'show':''}" id="filters-${site}-${type}">${f.map(([id,label])=>`<div><label>${label}</label><input type="number" step="${id.toLowerCase().includes('position')?'.1':'1'}" min="0" data-qfield="${site}|${type}|${id}" value="${esc(q[id])}" placeholder="不限"/></div>`).join('')}</div><div id="qtable-${site}-${type}">${tablePart(site,type)}</div>`;
  }
  // 品类词真实 Query：无演示窗口限制
  const data=CATEGORY_DATA[site];
@@ -297,21 +343,27 @@ async function loadBrandJSON(){
    loadCategoryData(site,payload);
   }catch(err){console.error(`Failed to load category-${site}.json`,err)}
  }
- // META.asOf：品牌词与品类词各自有 asOf，前端统一显示用「品牌词 asOf」（品类词同范围一致）
- const asOfDates=Object.values(brandMeta).map(m=>m.asOf).filter(v=>v&&v!=='—').sort();
- const oldestDates=Object.values(brandMeta).map(m=>m.oldest).filter(v=>v&&v!=='—').sort();
- if(asOfDates.length){META.asOf=asOfDates[asOfDates.length-1]}
+ // META.asOf：取品牌词与品类词中最新的有效 asOf，
+ // 保证品类词已更新到更晚日期时，Dashboard 日期上限不被品牌词截止日限制。
+ const brandAsOfs=Object.values(brandMeta).map(m=>m.asOf).filter(v=>v&&v!=='—').sort();
+ const catAsOfs=Object.values(categoryMeta).map(m=>m.asOf).filter(v=>v&&v!=='—').sort();
+ const allAsOfs=[...brandAsOfs,...catAsOfs].sort();
+ if(allAsOfs.length){META.asOf=allAsOfs[allAsOfs.length-1]}
  // META.oldest：取品牌词和品类词中更早的日期作为整个看板的最旧日期
  const brandOldests=Object.values(brandMeta).map(m=>m.oldest).filter(v=>v&&v!=='—').sort();
- const catOldestsDates=Object.values(categoryMeta).map(m=>m.oldest).filter(v=>v&&v!=='—').sort();
- if(brandOldests.length||catOldestsDates.length){
-  const all=[...brandOldests,...catOldestsDates].sort();
+ const catOldests=Object.values(categoryMeta).map(m=>m.oldest).filter(v=>v&&v!=='—').sort();
+ if(brandOldests.length||catOldests.length){
+  const all=[...brandOldests,...catOldests].sort();
   META.oldest=all[0];
  }
- // 品类词的 META 窗口（用于品牌词 Query 明细）
- const catOldests=catOldestsDates;
- META.queryThrough=META.asOf;
- META.queryFrom=catOldests[0]||minusMonths(META.asOf,12);
+ // 品牌词 Query 明细窗口已改为 per-site（按 brandMeta[site].asOf/oldest 计算），
+ // 全局 META.queryThrough/queryFrom 仅保留作为向后兼容字段，
+ // 取所有品牌词 asOf 最旧值与所有品牌词 oldest 最旧值，
+ // 不再用于实际窗口判定，避免 JF 与 VJ 不同步时互相污染窗口。
+ const _brandAsOfSorted=[...brandAsOfs].sort();
+ const _brandOldestSorted=[...brandOldests].sort();
+ META.queryThrough=_brandAsOfSorted.length?_brandAsOfSorted[_brandAsOfSorted.length-1]:META.asOf;
+ META.queryFrom=_brandOldestSorted.length?_brandOldestSorted[0]:minusMonths(META.queryThrough,12);
  // 更新数据来源状态弹窗的真实日期。
  const fmt=d=>d?d.replaceAll('-','/'):'—';
  const sjf=$('#statusJf'),svj=$('#statusVj');
