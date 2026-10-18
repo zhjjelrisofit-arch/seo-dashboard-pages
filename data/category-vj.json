@@ -1,19 +1,19 @@
 {
   "brand": "VJ",
   "name": "VyblooJug",
-  "asOf": "2026-10-15",
+  "asOf": "2026-10-16",
   "oldest": "2025-10-07",
-  "dateSpan": 374,
-  "totalOriginalQueries": 164960,
-  "totalMatchedQueryDays": 51647,
+  "dateSpan": 375,
+  "totalOriginalQueries": 165530,
+  "totalMatchedQueryDays": 51842,
   "uniqueKeywordHit": 322,
   "totalKeywordCount": 322,
   "totals": {
-    "clicks": 1065,
-    "impressions": 134602,
-    "ctr": 0.00791221527168987,
-    "position": 7.289282477229165,
-    "queryCount": 1675
+    "clicks": 1066,
+    "impressions": 135082,
+    "ctr": 0.007891502938955597,
+    "position": 7.288084274736827,
+    "queryCount": 1679
   },
   "groupMeta": [
     {
@@ -17611,6 +17611,53 @@
           "matchedQueries": 68
         }
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "clicks": 1,
+      "impressions": 480,
+      "ctr": 0.0020833333333333333,
+      "position": 6.952083333333333,
+      "matchedQueries": 195,
+      "originalQueries": 570,
+      "groups": [
+        {
+          "groupCode": "VJ-01",
+          "groupName": "通用保温饮水容器",
+          "clicks": 0,
+          "impressions": 48,
+          "ctr": 0,
+          "position": 6.916666666666667,
+          "matchedQueries": 26
+        },
+        {
+          "groupCode": "VJ-02",
+          "groupName": "材质与功能规格",
+          "clicks": 1,
+          "impressions": 145,
+          "ctr": 0.006896551724137931,
+          "position": 6.689655172413793,
+          "matchedQueries": 72
+        },
+        {
+          "groupCode": "VJ-03",
+          "groupName": "人群场景与外观",
+          "clicks": 0,
+          "impressions": 100,
+          "ctr": 0,
+          "position": 8.94,
+          "matchedQueries": 35
+        },
+        {
+          "groupCode": "VJ-04",
+          "groupName": "选购与比较",
+          "clicks": 0,
+          "impressions": 187,
+          "ctr": 0,
+          "position": 6.101604278074866,
+          "matchedQueries": 62
+        }
+      ]
     }
   ],
   "queries": [
@@ -17623,13 +17670,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 55,
-      "impressions": 2415,
-      "weightedPos": 8422,
-      "days": 222,
+      "impressions": 2426,
+      "weightedPos": 8449,
+      "days": 223,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-15",
-      "ctr": 0.022774327122153208,
-      "position": 3.4873706004140788
+      "lastDate": "2026-10-16",
+      "ctr": 0.02267106347897774,
+      "position": 3.482687551525144
     },
     {
       "query": "marcas de termos",
@@ -17640,13 +17687,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 45,
-      "impressions": 5013,
-      "weightedPos": 35375,
-      "days": 248,
+      "impressions": 5049,
+      "weightedPos": 35594,
+      "days": 249,
       "firstDate": "2025-11-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008976660682226212,
-      "position": 7.056652702972272
+      "lastDate": "2026-10-16",
+      "ctr": 0.008912655971479501,
+      "position": 7.0497128144186965
     },
     {
       "query": "top 10 marcas de termos",
@@ -17657,13 +17704,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 33,
-      "impressions": 1253,
-      "weightedPos": 4793,
-      "days": 215,
+      "impressions": 1257,
+      "weightedPos": 4797,
+      "days": 216,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.026336791699920193,
-      "position": 3.825219473264166
+      "lastDate": "2026-10-16",
+      "ctr": 0.026252983293556086,
+      "position": 3.8162291169451072
     },
     {
       "query": "sus 316 termo",
@@ -17674,13 +17721,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 29,
-      "impressions": 1940,
-      "weightedPos": 8800,
-      "days": 245,
+      "impressions": 1944,
+      "weightedPos": 8815,
+      "days": 246,
       "firstDate": "2026-01-07",
-      "lastDate": "2026-10-15",
-      "ctr": 0.014948453608247423,
-      "position": 4.536082474226804
+      "lastDate": "2026-10-16",
+      "ctr": 0.014917695473251029,
+      "position": 4.534465020576132
     },
     {
       "query": "como curar un termo de acero inoxidable",
@@ -17691,13 +17738,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 26,
-      "impressions": 2758,
-      "weightedPos": 15337,
-      "days": 255,
+      "impressions": 2766,
+      "weightedPos": 15397,
+      "days": 256,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.009427121102248005,
-      "position": 5.560913705583756
+      "lastDate": "2026-10-16",
+      "ctr": 0.009399855386840203,
+      "position": 5.566522053506869
     },
     {
       "query": "sus 304 termo",
@@ -17708,13 +17755,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 18,
-      "impressions": 5405,
-      "weightedPos": 44816,
-      "days": 262,
+      "impressions": 5413,
+      "weightedPos": 44852,
+      "days": 263,
       "firstDate": "2026-01-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0033302497687326548,
-      "position": 8.291581868640147
+      "lastDate": "2026-10-16",
+      "ctr": 0.003325327914280436,
+      "position": 8.285978200628117
     },
     {
       "query": "termos de moda 2026",
@@ -17725,13 +17772,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 18,
-      "impressions": 807,
-      "weightedPos": 2220,
-      "days": 148,
+      "impressions": 810,
+      "weightedPos": 2229,
+      "days": 149,
       "firstDate": "2026-02-21",
-      "lastDate": "2026-10-15",
-      "ctr": 0.022304832713754646,
-      "position": 2.7509293680297398
+      "lastDate": "2026-10-16",
+      "ctr": 0.022222222222222223,
+      "position": 2.751851851851852
     },
     {
       "query": "mejores marcas de termos",
@@ -17742,13 +17789,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 15,
-      "impressions": 810,
-      "weightedPos": 6650,
-      "days": 232,
+      "impressions": 812,
+      "weightedPos": 6662,
+      "days": 233,
       "firstDate": "2025-11-22",
-      "lastDate": "2026-10-15",
-      "ctr": 0.018518518518518517,
-      "position": 8.209876543209877
+      "lastDate": "2026-10-16",
+      "ctr": 0.01847290640394089,
+      "position": 8.204433497536947
     },
     {
       "query": "termo acero inoxidable 316",
@@ -17759,13 +17806,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 15,
-      "impressions": 648,
-      "weightedPos": 4344,
-      "days": 191,
+      "impressions": 649,
+      "weightedPos": 4353,
+      "days": 192,
       "firstDate": "2025-12-31",
-      "lastDate": "2026-10-15",
-      "ctr": 0.023148148148148147,
-      "position": 6.703703703703703
+      "lastDate": "2026-10-16",
+      "ctr": 0.023112480739599383,
+      "position": 6.707241910631741
     },
     {
       "query": "termo de moda 2026",
@@ -17776,13 +17823,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 12,
-      "impressions": 319,
-      "weightedPos": 673,
-      "days": 129,
+      "impressions": 321,
+      "weightedPos": 679,
+      "days": 130,
       "firstDate": "2026-05-21",
-      "lastDate": "2026-10-14",
-      "ctr": 0.03761755485893417,
-      "position": 2.109717868338558
+      "lastDate": "2026-10-16",
+      "ctr": 0.037383177570093455,
+      "position": 2.115264797507788
     },
     {
       "query": "mejores termos para agua",
@@ -17793,13 +17840,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 478,
-      "weightedPos": 4115,
-      "days": 227,
+      "impressions": 479,
+      "weightedPos": 4127,
+      "days": 228,
       "firstDate": "2025-11-12",
-      "lastDate": "2026-10-15",
-      "ctr": 0.02092050209205021,
-      "position": 8.608786610878662
+      "lastDate": "2026-10-16",
+      "ctr": 0.020876826722338204,
+      "position": 8.615866388308977
     },
     {
       "query": "marcas termos",
@@ -17810,13 +17857,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 9,
-      "impressions": 364,
-      "weightedPos": 2487,
-      "days": 161,
+      "impressions": 366,
+      "weightedPos": 2498,
+      "days": 162,
       "firstDate": "2026-01-11",
-      "lastDate": "2026-10-15",
-      "ctr": 0.024725274725274724,
-      "position": 6.832417582417582
+      "lastDate": "2026-10-16",
+      "ctr": 0.02459016393442623,
+      "position": 6.825136612021858
     },
     {
       "query": "termos de acero inoxidable 304",
@@ -17844,13 +17891,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 9,
-      "impressions": 543,
-      "weightedPos": 3573,
-      "days": 185,
+      "impressions": 544,
+      "weightedPos": 3576,
+      "days": 186,
       "firstDate": "2026-02-21",
-      "lastDate": "2026-10-15",
-      "ctr": 0.016574585635359115,
-      "position": 6.580110497237569
+      "lastDate": "2026-10-16",
+      "ctr": 0.016544117647058824,
+      "position": 6.573529411764706
     },
     {
       "query": "cuanto dura un termo de acero inoxidable",
@@ -17878,13 +17925,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 8,
-      "impressions": 495,
-      "weightedPos": 5059,
-      "days": 202,
+      "impressions": 496,
+      "weightedPos": 5060,
+      "days": 203,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-15",
-      "ctr": 0.01616161616161616,
-      "position": 10.22020202020202
+      "lastDate": "2026-10-16",
+      "ctr": 0.016129032258064516,
+      "position": 10.201612903225806
     },
     {
       "query": "termos famosos",
@@ -17895,13 +17942,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 8,
-      "impressions": 823,
-      "weightedPos": 4311,
-      "days": 198,
+      "impressions": 824,
+      "weightedPos": 4312,
+      "days": 199,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-15",
-      "ctr": 0.009720534629404616,
-      "position": 5.238153098420413
+      "lastDate": "2026-10-16",
+      "ctr": 0.009708737864077669,
+      "position": 5.233009708737864
     },
     {
       "query": "acero 304 termos",
@@ -17912,13 +17959,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 8,
-      "impressions": 644,
-      "weightedPos": 4502,
-      "days": 199,
+      "impressions": 645,
+      "weightedPos": 4503,
+      "days": 200,
       "firstDate": "2026-01-29",
-      "lastDate": "2026-10-15",
-      "ctr": 0.012422360248447204,
-      "position": 6.990683229813665
+      "lastDate": "2026-10-16",
+      "ctr": 0.012403100775193798,
+      "position": 6.981395348837209
     },
     {
       "query": "termo para cerveza",
@@ -17929,13 +17976,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 8,
-      "impressions": 2489,
-      "weightedPos": 21362,
-      "days": 215,
+      "impressions": 2499,
+      "weightedPos": 21473,
+      "days": 216,
       "firstDate": "2026-02-04",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0032141422257934912,
-      "position": 8.58256327842507
+      "lastDate": "2026-10-16",
+      "ctr": 0.003201280512204882,
+      "position": 8.592637054821928
     },
     {
       "query": "sus 316 termo que significa",
@@ -17946,13 +17993,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 8,
-      "impressions": 255,
-      "weightedPos": 483,
-      "days": 80,
+      "impressions": 260,
+      "weightedPos": 491,
+      "days": 81,
       "firstDate": "2026-07-16",
-      "lastDate": "2026-10-15",
-      "ctr": 0.03137254901960784,
-      "position": 1.8941176470588235
+      "lastDate": "2026-10-16",
+      "ctr": 0.03076923076923077,
+      "position": 1.8884615384615384
     },
     {
       "query": "termos bonitos para mujer",
@@ -17963,13 +18010,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 1993,
-      "weightedPos": 17374,
-      "days": 230,
+      "impressions": 2002,
+      "weightedPos": 17454,
+      "days": 231,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0035122930255895636,
-      "position": 8.717511289513297
+      "lastDate": "2026-10-16",
+      "ctr": 0.0034965034965034965,
+      "position": 8.718281718281718
     },
     {
       "query": "termos marcas",
@@ -17980,13 +18027,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 979,
-      "weightedPos": 7028,
-      "days": 210,
+      "impressions": 986,
+      "weightedPos": 7088,
+      "days": 211,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-15",
-      "ctr": 0.007150153217568948,
-      "position": 7.1787538304392235
+      "lastDate": "2026-10-16",
+      "ctr": 0.007099391480730223,
+      "position": 7.188640973630831
     },
     {
       "query": "como arreglar un termo de acero inoxidable",
@@ -18014,13 +18061,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 374,
-      "weightedPos": 2057,
-      "days": 165,
+      "impressions": 375,
+      "weightedPos": 2058,
+      "days": 166,
       "firstDate": "2026-01-27",
-      "lastDate": "2026-10-15",
-      "ctr": 0.01871657754010695,
-      "position": 5.5
+      "lastDate": "2026-10-16",
+      "ctr": 0.018666666666666668,
+      "position": 5.488
     },
     {
       "query": "termo acero 304",
@@ -18057,6 +18104,23 @@
       "position": 5.862068965517241
     },
     {
+      "query": "tipos de acero inoxidable para termos",
+      "groupCode": "VJ-02",
+      "groupName": "材质与功能规格",
+      "kwId": "VJ-0091",
+      "keyword": "acero inoxidable para termos",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 7,
+      "impressions": 217,
+      "weightedPos": 689,
+      "days": 131,
+      "firstDate": "2026-03-08",
+      "lastDate": "2026-10-16",
+      "ctr": 0.03225806451612903,
+      "position": 3.175115207373272
+    },
+    {
       "query": "como limpiar un termo de acero inoxidable por dentro",
       "groupCode": "VJ-02",
       "groupName": "材质与功能规格",
@@ -18065,13 +18129,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 6,
-      "impressions": 1779,
-      "weightedPos": 14876,
-      "days": 291,
+      "impressions": 1784,
+      "weightedPos": 14917,
+      "days": 292,
       "firstDate": "2025-11-26",
-      "lastDate": "2026-10-15",
-      "ctr": 0.003372681281618887,
-      "position": 8.362001124227094
+      "lastDate": "2026-10-16",
+      "ctr": 0.0033632286995515697,
+      "position": 8.361547085201794
     },
     {
       "query": "termos para niños",
@@ -18082,13 +18146,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 2267,
-      "weightedPos": 17986,
-      "days": 245,
+      "impressions": 2273,
+      "weightedPos": 18026,
+      "days": 246,
       "firstDate": "2026-01-01",
-      "lastDate": "2026-10-15",
-      "ctr": 0.002646669607410675,
-      "position": 7.933833259814733
+      "lastDate": "2026-10-16",
+      "ctr": 0.0026396832380114386,
+      "position": 7.930488341399032
     },
     {
       "query": "termo sus 316",
@@ -18099,13 +18163,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 645,
-      "weightedPos": 3540,
-      "days": 212,
+      "impressions": 646,
+      "weightedPos": 3547,
+      "days": 213,
       "firstDate": "2026-01-13",
-      "lastDate": "2026-10-15",
-      "ctr": 0.009302325581395349,
-      "position": 5.488372093023256
+      "lastDate": "2026-10-16",
+      "ctr": 0.009287925696594427,
+      "position": 5.4907120743034055
     },
     {
       "query": "sus 316 termos que significa",
@@ -18133,13 +18197,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 406,
-      "weightedPos": 2066,
-      "days": 172,
+      "impressions": 407,
+      "weightedPos": 2067,
+      "days": 173,
       "firstDate": "2026-02-12",
-      "lastDate": "2026-10-15",
-      "ctr": 0.014778325123152709,
-      "position": 5.088669950738916
+      "lastDate": "2026-10-16",
+      "ctr": 0.014742014742014743,
+      "position": 5.078624078624078
     },
     {
       "query": "marcas de termos de acero inoxidable",
@@ -18150,13 +18214,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 667,
-      "weightedPos": 4980,
-      "days": 182,
+      "impressions": 668,
+      "weightedPos": 4991,
+      "days": 183,
       "firstDate": "2026-02-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008995502248875561,
-      "position": 7.466266866566716
+      "lastDate": "2026-10-16",
+      "ctr": 0.008982035928143712,
+      "position": 7.471556886227545
     },
     {
       "query": "marcas de termos famosos",
@@ -18193,23 +18257,6 @@
       "position": 4.2
     },
     {
-      "query": "tipos de acero inoxidable para termos",
-      "groupCode": "VJ-02",
-      "groupName": "材质与功能规格",
-      "kwId": "VJ-0091",
-      "keyword": "acero inoxidable para termos",
-      "matchLevel": 4,
-      "matchLevelName": "完整词组",
-      "clicks": 6,
-      "impressions": 215,
-      "weightedPos": 687,
-      "days": 130,
-      "firstDate": "2026-03-08",
-      "lastDate": "2026-10-12",
-      "ctr": 0.027906976744186046,
-      "position": 3.1953488372093024
-    },
-    {
       "query": "acero para termos",
       "groupCode": "VJ-02",
       "groupName": "材质与功能规格",
@@ -18218,13 +18265,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 302,
-      "weightedPos": 1077,
-      "days": 150,
+      "impressions": 303,
+      "weightedPos": 1082,
+      "days": 151,
       "firstDate": "2026-03-15",
-      "lastDate": "2026-10-15",
-      "ctr": 0.019867549668874173,
-      "position": 3.566225165562914
+      "lastDate": "2026-10-16",
+      "ctr": 0.019801980198019802,
+      "position": 3.570957095709571
     },
     {
       "query": "acero apto para termos",
@@ -18235,13 +18282,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 213,
-      "weightedPos": 712,
-      "days": 117,
+      "impressions": 215,
+      "weightedPos": 715,
+      "days": 118,
       "firstDate": "2026-05-02",
-      "lastDate": "2026-10-13",
-      "ctr": 0.028169014084507043,
-      "position": 3.3427230046948355
+      "lastDate": "2026-10-16",
+      "ctr": 0.027906976744186046,
+      "position": 3.3255813953488373
     },
     {
       "query": "termos para mujer",
@@ -18252,13 +18299,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 1125,
-      "weightedPos": 10366,
-      "days": 197,
+      "impressions": 1126,
+      "weightedPos": 10375,
+      "days": 198,
       "firstDate": "2025-11-21",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0044444444444444444,
-      "position": 9.214222222222222
+      "lastDate": "2026-10-16",
+      "ctr": 0.004440497335701598,
+      "position": 9.214031971580818
     },
     {
       "query": "termos de acero inoxidable",
@@ -18286,13 +18333,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 662,
-      "weightedPos": 6445,
-      "days": 224,
+      "impressions": 664,
+      "weightedPos": 6460,
+      "days": 225,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0075528700906344415,
-      "position": 9.735649546827794
+      "lastDate": "2026-10-16",
+      "ctr": 0.007530120481927711,
+      "position": 9.728915662650602
     },
     {
       "query": "marca de termos",
@@ -18303,13 +18350,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 1601,
-      "weightedPos": 9209,
-      "days": 235,
+      "impressions": 1617,
+      "weightedPos": 9323,
+      "days": 236,
       "firstDate": "2025-12-02",
-      "lastDate": "2026-10-15",
-      "ctr": 0.003123048094940662,
-      "position": 5.752029981261711
+      "lastDate": "2026-10-16",
+      "ctr": 0.0030921459492888066,
+      "position": 5.765615337043909
     },
     {
       "query": "termo marcas",
@@ -18320,13 +18367,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 470,
-      "weightedPos": 3671,
-      "days": 182,
+      "impressions": 473,
+      "weightedPos": 3699,
+      "days": 183,
       "firstDate": "2025-12-04",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010638297872340425,
-      "position": 7.81063829787234
+      "lastDate": "2026-10-16",
+      "ctr": 0.010570824524312896,
+      "position": 7.820295983086681
     },
     {
       "query": "termos para agua caliente",
@@ -18337,13 +18384,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 1174,
-      "weightedPos": 10633,
-      "days": 184,
+      "impressions": 1175,
+      "weightedPos": 10644,
+      "days": 185,
       "firstDate": "2025-12-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004258943781942078,
-      "position": 9.057069846678024
+      "lastDate": "2026-10-16",
+      "ctr": 0.00425531914893617,
+      "position": 9.05872340425532
     },
     {
       "query": "termo doble pared",
@@ -18354,13 +18401,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 1033,
-      "weightedPos": 8577,
-      "days": 202,
+      "impressions": 1037,
+      "weightedPos": 8614,
+      "days": 203,
       "firstDate": "2026-01-11",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00484027105517909,
-      "position": 8.303000968054212
+      "lastDate": "2026-10-16",
+      "ctr": 0.0048216007714561235,
+      "position": 8.30665380906461
     },
     {
       "query": "cómo se cura un termo nuevo",
@@ -18371,13 +18418,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 5,
-      "impressions": 435,
-      "weightedPos": 2461,
-      "days": 193,
+      "impressions": 436,
+      "weightedPos": 2462,
+      "days": 194,
       "firstDate": "2026-01-24",
-      "lastDate": "2026-10-15",
-      "ctr": 0.011494252873563218,
-      "position": 5.657471264367816
+      "lastDate": "2026-10-16",
+      "ctr": 0.011467889908256881,
+      "position": 5.646788990825688
     },
     {
       "query": "acero inoxidable 304 para termos",
@@ -18405,13 +18452,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 302,
-      "weightedPos": 1553,
-      "days": 121,
+      "impressions": 303,
+      "weightedPos": 1559,
+      "days": 122,
       "firstDate": "2026-05-21",
-      "lastDate": "2026-10-14",
-      "ctr": 0.016556291390728478,
-      "position": 5.142384105960265
+      "lastDate": "2026-10-16",
+      "ctr": 0.0165016501650165,
+      "position": 5.145214521452146
     },
     {
       "query": "como desinfectar un termo de acero inoxidable",
@@ -18422,13 +18469,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 468,
-      "weightedPos": 2433,
-      "days": 202,
+      "impressions": 469,
+      "weightedPos": 2435,
+      "days": 203,
       "firstDate": "2025-11-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008547008547008548,
-      "position": 5.198717948717949
+      "lastDate": "2026-10-16",
+      "ctr": 0.008528784648187633,
+      "position": 5.1918976545842215
     },
     {
       "query": "termos",
@@ -18490,13 +18537,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 828,
-      "weightedPos": 5329,
-      "days": 269,
+      "impressions": 829,
+      "weightedPos": 5337,
+      "days": 270,
       "firstDate": "2025-11-22",
-      "lastDate": "2026-10-14",
-      "ctr": 0.004830917874396135,
-      "position": 6.435990338164252
+      "lastDate": "2026-10-16",
+      "ctr": 0.0048250904704463205,
+      "position": 6.4378769601930035
     },
     {
       "query": "los termos de acero inoxidable se curan",
@@ -18507,13 +18554,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 622,
-      "weightedPos": 2811,
-      "days": 239,
+      "impressions": 625,
+      "weightedPos": 2835,
+      "days": 240,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-15",
-      "ctr": 0.006430868167202572,
-      "position": 4.519292604501608
+      "lastDate": "2026-10-16",
+      "ctr": 0.0064,
+      "position": 4.536
     },
     {
       "query": "cual es el mejor termo de acero inoxidable",
@@ -18558,13 +18605,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 506,
-      "weightedPos": 4691,
-      "days": 157,
+      "impressions": 507,
+      "weightedPos": 4702,
+      "days": 158,
       "firstDate": "2025-12-06",
-      "lastDate": "2026-10-15",
-      "ctr": 0.007905138339920948,
-      "position": 9.270750988142293
+      "lastDate": "2026-10-16",
+      "ctr": 0.007889546351084813,
+      "position": 9.274161735700197
     },
     {
       "query": "termo para agua fria",
@@ -18592,13 +18639,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 510,
-      "weightedPos": 2973,
-      "days": 199,
+      "impressions": 512,
+      "weightedPos": 2981,
+      "days": 200,
       "firstDate": "2025-12-26",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00784313725490196,
-      "position": 5.829411764705882
+      "lastDate": "2026-10-16",
+      "ctr": 0.0078125,
+      "position": 5.822265625
     },
     {
       "query": "cual es el mejor acero inoxidable para termos",
@@ -18609,13 +18656,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 1266,
-      "weightedPos": 5040,
-      "days": 274,
+      "impressions": 1270,
+      "weightedPos": 5053,
+      "days": 275,
       "firstDate": "2025-12-26",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00315955766192733,
-      "position": 3.981042654028436
+      "lastDate": "2026-10-16",
+      "ctr": 0.0031496062992125984,
+      "position": 3.978740157480315
     },
     {
       "query": "que pasa si se golpea un termo de acero inoxidable",
@@ -18677,13 +18724,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 1074,
-      "weightedPos": 5234,
-      "days": 242,
+      "impressions": 1079,
+      "weightedPos": 5264,
+      "days": 243,
       "firstDate": "2026-01-25",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0037243947858473,
-      "position": 4.873370577281192
+      "lastDate": "2026-10-16",
+      "ctr": 0.0037071362372567192,
+      "position": 4.878591288229843
     },
     {
       "query": "se puede llevar termo de acero inoxidable en el avión",
@@ -18711,13 +18758,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 331,
-      "weightedPos": 1485,
-      "days": 144,
+      "impressions": 332,
+      "weightedPos": 1492,
+      "days": 145,
       "firstDate": "2026-02-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.012084592145015106,
-      "position": 4.486404833836858
+      "lastDate": "2026-10-16",
+      "ctr": 0.012048192771084338,
+      "position": 4.493975903614458
     },
     {
       "query": "termo acero inoxidable 304",
@@ -18745,13 +18792,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 371,
-      "weightedPos": 3111,
-      "days": 144,
+      "impressions": 374,
+      "weightedPos": 3145,
+      "days": 145,
       "firstDate": "2026-03-05",
-      "lastDate": "2026-10-15",
-      "ctr": 0.01078167115902965,
-      "position": 8.38544474393531
+      "lastDate": "2026-10-16",
+      "ctr": 0.0106951871657754,
+      "position": 8.409090909090908
     },
     {
       "query": "como personalizar un termo de acero inoxidable",
@@ -18762,13 +18809,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 386,
-      "weightedPos": 2764,
-      "days": 154,
+      "impressions": 387,
+      "weightedPos": 2770,
+      "days": 155,
       "firstDate": "2026-03-06",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010362694300518135,
-      "position": 7.160621761658031
+      "lastDate": "2026-10-16",
+      "ctr": 0.0103359173126615,
+      "position": 7.1576227390180875
     },
     {
       "query": "marca de termo",
@@ -18779,13 +18826,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 351,
-      "weightedPos": 2543,
-      "days": 148,
+      "impressions": 352,
+      "weightedPos": 2549,
+      "days": 149,
       "firstDate": "2026-03-08",
-      "lastDate": "2026-10-15",
-      "ctr": 0.011396011396011397,
-      "position": 7.245014245014245
+      "lastDate": "2026-10-16",
+      "ctr": 0.011363636363636364,
+      "position": 7.2414772727272725
     },
     {
       "query": "termo de acero inoxidable 316",
@@ -18847,13 +18894,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 871,
-      "weightedPos": 7517,
-      "days": 205,
+      "impressions": 882,
+      "weightedPos": 7621,
+      "days": 206,
       "firstDate": "2026-03-17",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004592422502870264,
-      "position": 8.630309988518944
+      "lastDate": "2026-10-16",
+      "ctr": 0.0045351473922902496,
+      "position": 8.640589569160998
     },
     {
       "query": "termos con acero 316",
@@ -18915,13 +18962,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 282,
-      "weightedPos": 2737,
-      "days": 159,
+      "impressions": 283,
+      "weightedPos": 2748,
+      "days": 160,
       "firstDate": "2025-11-15",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010638297872340425,
-      "position": 9.705673758865249
+      "lastDate": "2026-10-16",
+      "ctr": 0.01060070671378092,
+      "position": 9.710247349823321
     },
     {
       "query": "cuales son los mejores termos para agua fria",
@@ -18932,13 +18979,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 187,
-      "weightedPos": 1870,
-      "days": 104,
+      "impressions": 188,
+      "weightedPos": 1883,
+      "days": 105,
       "firstDate": "2025-11-17",
-      "lastDate": "2026-10-15",
-      "ctr": 0.016042780748663103,
-      "position": 10
+      "lastDate": "2026-10-16",
+      "ctr": 0.015957446808510637,
+      "position": 10.01595744680851
     },
     {
       "query": "que es mejor termo de vidrio o acero inoxidable",
@@ -18949,13 +18996,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 366,
-      "weightedPos": 1721,
-      "days": 198,
+      "impressions": 367,
+      "weightedPos": 1722,
+      "days": 199,
       "firstDate": "2025-11-18",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00819672131147541,
-      "position": 4.702185792349726
+      "lastDate": "2026-10-16",
+      "ctr": 0.008174386920980926,
+      "position": 4.692098092643052
     },
     {
       "query": "mejores marcas de termos para agua caliente",
@@ -18983,13 +19030,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 790,
-      "weightedPos": 3443,
-      "days": 202,
+      "impressions": 796,
+      "weightedPos": 3485,
+      "days": 203,
       "firstDate": "2025-11-20",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0037974683544303796,
-      "position": 4.358227848101266
+      "lastDate": "2026-10-16",
+      "ctr": 0.0037688442211055275,
+      "position": 4.378140703517588
     },
     {
       "query": "mejores marcas de termos para agua",
@@ -19034,13 +19081,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 212,
-      "weightedPos": 1760,
-      "days": 128,
+      "impressions": 215,
+      "weightedPos": 1788,
+      "days": 129,
       "firstDate": "2025-11-22",
-      "lastDate": "2026-10-15",
-      "ctr": 0.014150943396226415,
-      "position": 8.30188679245283
+      "lastDate": "2026-10-16",
+      "ctr": 0.013953488372093023,
+      "position": 8.316279069767441
     },
     {
       "query": "mejor termo para agua caliente",
@@ -19153,13 +19200,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 589,
-      "weightedPos": 3178,
-      "days": 214,
+      "impressions": 595,
+      "weightedPos": 3219,
+      "days": 215,
       "firstDate": "2025-12-26",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0050933786078098476,
-      "position": 5.395585738539898
+      "lastDate": "2026-10-16",
+      "ctr": 0.005042016806722689,
+      "position": 5.410084033613446
     },
     {
       "query": "como se cura un termo de acero inoxidable",
@@ -19170,13 +19217,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 916,
-      "weightedPos": 5122,
-      "days": 249,
+      "impressions": 920,
+      "weightedPos": 5145,
+      "days": 250,
       "firstDate": "2026-01-04",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0032751091703056767,
-      "position": 5.591703056768559
+      "lastDate": "2026-10-16",
+      "ctr": 0.003260869565217391,
+      "position": 5.592391304347826
     },
     {
       "query": "sus 304 termo que significa",
@@ -19187,13 +19234,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 2494,
-      "weightedPos": 17987,
-      "days": 273,
+      "impressions": 2502,
+      "weightedPos": 18038,
+      "days": 274,
       "firstDate": "2026-01-09",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0012028869286287089,
-      "position": 7.212109061748196
+      "lastDate": "2026-10-16",
+      "ctr": 0.001199040767386091,
+      "position": 7.2094324540367705
     },
     {
       "query": "como templar un termo de acero inoxidable",
@@ -19221,13 +19268,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 216,
-      "weightedPos": 1148,
-      "days": 118,
+      "impressions": 217,
+      "weightedPos": 1157,
+      "days": 119,
       "firstDate": "2026-01-18",
-      "lastDate": "2026-10-13",
-      "ctr": 0.013888888888888888,
-      "position": 5.314814814814815
+      "lastDate": "2026-10-16",
+      "ctr": 0.013824884792626729,
+      "position": 5.331797235023042
     },
     {
       "query": "los termos de acero inoxidable son tóxicos",
@@ -19238,13 +19285,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 519,
-      "weightedPos": 3143,
-      "days": 180,
+      "impressions": 522,
+      "weightedPos": 3161,
+      "days": 181,
       "firstDate": "2026-01-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.005780346820809248,
-      "position": 6.055876685934489
+      "lastDate": "2026-10-16",
+      "ctr": 0.005747126436781609,
+      "position": 6.055555555555555
     },
     {
       "query": "termos que conservan el frio",
@@ -19255,13 +19302,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 530,
-      "weightedPos": 4750,
-      "days": 193,
+      "impressions": 531,
+      "weightedPos": 4761,
+      "days": 194,
       "firstDate": "2026-02-07",
-      "lastDate": "2026-10-14",
-      "ctr": 0.005660377358490566,
-      "position": 8.962264150943396
+      "lastDate": "2026-10-16",
+      "ctr": 0.005649717514124294,
+      "position": 8.966101694915254
     },
     {
       "query": "termo de acero inoxidable 304",
@@ -19323,13 +19370,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 471,
-      "weightedPos": 3577,
-      "days": 170,
+      "impressions": 472,
+      "weightedPos": 3589,
+      "days": 171,
       "firstDate": "2026-02-25",
-      "lastDate": "2026-10-13",
-      "ctr": 0.006369426751592357,
-      "position": 7.59447983014862
+      "lastDate": "2026-10-16",
+      "ctr": 0.006355932203389831,
+      "position": 7.603813559322034
     },
     {
       "query": "termos acero 304",
@@ -19561,13 +19608,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 313,
-      "weightedPos": 2023,
-      "days": 168,
+      "impressions": 314,
+      "weightedPos": 2024,
+      "days": 169,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.006389776357827476,
-      "position": 6.463258785942492
+      "lastDate": "2026-10-16",
+      "ctr": 0.006369426751592357,
+      "position": 6.445859872611465
     },
     {
       "query": "las mejores marcas de termos",
@@ -19595,13 +19642,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 269,
-      "weightedPos": 1433,
-      "days": 126,
+      "impressions": 270,
+      "weightedPos": 1434,
+      "days": 127,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-09",
-      "ctr": 0.007434944237918215,
-      "position": 5.327137546468402
+      "lastDate": "2026-10-16",
+      "ctr": 0.007407407407407408,
+      "position": 5.311111111111111
     },
     {
       "query": "marcas de termos famosas",
@@ -19612,13 +19659,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 200,
-      "weightedPos": 915,
-      "days": 122,
+      "impressions": 205,
+      "weightedPos": 930,
+      "days": 123,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.01,
-      "position": 4.575
+      "lastDate": "2026-10-16",
+      "ctr": 0.00975609756097561,
+      "position": 4.536585365853658
     },
     {
       "query": "marcas famosas de termos",
@@ -19629,13 +19676,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 148,
-      "weightedPos": 701,
-      "days": 91,
+      "impressions": 149,
+      "weightedPos": 702,
+      "days": 92,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.013513513513513514,
-      "position": 4.736486486486487
+      "lastDate": "2026-10-16",
+      "ctr": 0.013422818791946308,
+      "position": 4.7114093959731544
     },
     {
       "query": "mejor termo del mundo",
@@ -19663,13 +19710,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 653,
-      "weightedPos": 3784,
-      "days": 140,
+      "impressions": 659,
+      "weightedPos": 3798,
+      "days": 141,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0030627871362940277,
-      "position": 5.7947932618683
+      "lastDate": "2026-10-16",
+      "ctr": 0.0030349013657056147,
+      "position": 5.763277693474962
     },
     {
       "query": "termos caros",
@@ -19680,13 +19727,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 104,
-      "weightedPos": 948,
-      "days": 71,
+      "impressions": 106,
+      "weightedPos": 966,
+      "days": 72,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.019230769230769232,
-      "position": 9.115384615384615
+      "lastDate": "2026-10-16",
+      "ctr": 0.018867924528301886,
+      "position": 9.11320754716981
     },
     {
       "query": "buenas marcas de termos",
@@ -19714,13 +19761,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 1045,
-      "weightedPos": 10431,
-      "days": 239,
+      "impressions": 1047,
+      "weightedPos": 10444,
+      "days": 240,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0019138755980861245,
-      "position": 9.981818181818182
+      "lastDate": "2026-10-16",
+      "ctr": 0.0019102196752626551,
+      "position": 9.975167144221585
     },
     {
       "query": "termo gym hombre",
@@ -19765,13 +19812,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 292,
-      "weightedPos": 2289,
-      "days": 158,
+      "impressions": 293,
+      "weightedPos": 2296,
+      "days": 159,
       "firstDate": "2025-12-03",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00684931506849315,
-      "position": 7.839041095890411
+      "lastDate": "2026-10-16",
+      "ctr": 0.006825938566552901,
+      "position": 7.836177474402731
     },
     {
       "query": "termo libre de bpa",
@@ -19782,13 +19829,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 505,
-      "weightedPos": 3392,
-      "days": 189,
+      "impressions": 506,
+      "weightedPos": 3399,
+      "days": 190,
       "firstDate": "2025-12-16",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0039603960396039604,
-      "position": 6.716831683168317
+      "lastDate": "2026-10-16",
+      "ctr": 0.003952569169960474,
+      "position": 6.717391304347826
     },
     {
       "query": "termos de gimnasio",
@@ -19833,13 +19880,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 987,
-      "weightedPos": 9438,
-      "days": 168,
+      "impressions": 989,
+      "weightedPos": 9459,
+      "days": 169,
       "firstDate": "2025-12-30",
-      "lastDate": "2026-10-13",
-      "ctr": 0.002026342451874367,
-      "position": 9.562310030395137
+      "lastDate": "2026-10-16",
+      "ctr": 0.0020222446916076846,
+      "position": 9.564206268958545
     },
     {
       "query": "termos que mantienen el agua caliente",
@@ -19867,13 +19914,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 242,
-      "weightedPos": 1601,
-      "days": 127,
+      "impressions": 249,
+      "weightedPos": 1674,
+      "days": 128,
       "firstDate": "2026-01-09",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008264462809917356,
-      "position": 6.615702479338843
+      "lastDate": "2026-10-16",
+      "ctr": 0.008032128514056224,
+      "position": 6.72289156626506
     },
     {
       "query": "termos de agua fria y caliente",
@@ -19935,13 +19982,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 174,
-      "weightedPos": 881,
-      "days": 104,
+      "impressions": 175,
+      "weightedPos": 883,
+      "days": 105,
       "firstDate": "2026-01-24",
-      "lastDate": "2026-10-13",
-      "ctr": 0.011494252873563218,
-      "position": 5.063218390804598
+      "lastDate": "2026-10-16",
+      "ctr": 0.011428571428571429,
+      "position": 5.045714285714285
     },
     {
       "query": "como usar un termo de acero inoxidable por primera vez",
@@ -19986,13 +20033,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 231,
-      "weightedPos": 1108,
-      "days": 117,
+      "impressions": 232,
+      "weightedPos": 1109,
+      "days": 118,
       "firstDate": "2026-02-02",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008658008658008658,
-      "position": 4.796536796536796
+      "lastDate": "2026-10-16",
+      "ctr": 0.008620689655172414,
+      "position": 4.780172413793103
     },
     {
       "query": "puedo llevar mi termo de agua en el avion",
@@ -20020,13 +20067,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 222,
-      "weightedPos": 1134,
-      "days": 138,
+      "impressions": 224,
+      "weightedPos": 1143,
+      "days": 139,
       "firstDate": "2026-02-03",
-      "lastDate": "2026-10-14",
-      "ctr": 0.009009009009009009,
-      "position": 5.108108108108108
+      "lastDate": "2026-10-16",
+      "ctr": 0.008928571428571428,
+      "position": 5.102678571428571
     },
     {
       "query": "libre de bpa termos",
@@ -20105,13 +20152,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 195,
-      "weightedPos": 973,
-      "days": 123,
+      "impressions": 196,
+      "weightedPos": 974,
+      "days": 124,
       "firstDate": "2026-02-13",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010256410256410256,
-      "position": 4.98974358974359
+      "lastDate": "2026-10-16",
+      "ctr": 0.01020408163265306,
+      "position": 4.969387755102041
     },
     {
       "query": "termo 304",
@@ -20122,13 +20169,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 469,
-      "weightedPos": 3886,
-      "days": 182,
+      "impressions": 470,
+      "weightedPos": 3888,
+      "days": 183,
       "firstDate": "2026-02-15",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0042643923240938165,
-      "position": 8.285714285714286
+      "lastDate": "2026-10-16",
+      "ctr": 0.00425531914893617,
+      "position": 8.272340425531915
     },
     {
       "query": "termo para frio",
@@ -20258,13 +20305,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 184,
-      "weightedPos": 1552,
-      "days": 112,
+      "impressions": 187,
+      "weightedPos": 1578,
+      "days": 113,
       "firstDate": "2026-03-19",
-      "lastDate": "2026-10-13",
-      "ctr": 0.010869565217391304,
-      "position": 8.434782608695652
+      "lastDate": "2026-10-16",
+      "ctr": 0.0106951871657754,
+      "position": 8.438502673796792
     },
     {
       "query": "termos para gym mujer",
@@ -20275,13 +20322,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 307,
-      "weightedPos": 2668,
-      "days": 154,
+      "impressions": 310,
+      "weightedPos": 2698,
+      "days": 155,
       "firstDate": "2026-03-19",
-      "lastDate": "2026-10-15",
-      "ctr": 0.006514657980456026,
-      "position": 8.690553745928339
+      "lastDate": "2026-10-16",
+      "ctr": 0.0064516129032258064,
+      "position": 8.703225806451613
     },
     {
       "query": "marcas de termos caros",
@@ -20292,13 +20339,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 102,
-      "weightedPos": 906,
-      "days": 78,
+      "impressions": 103,
+      "weightedPos": 913,
+      "days": 79,
       "firstDate": "2026-03-23",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0196078431372549,
-      "position": 8.882352941176471
+      "lastDate": "2026-10-16",
+      "ctr": 0.019417475728155338,
+      "position": 8.864077669902912
     },
     {
       "query": "marcas de termos termicos",
@@ -20309,13 +20356,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 144,
-      "weightedPos": 881,
-      "days": 92,
+      "impressions": 145,
+      "weightedPos": 893,
+      "days": 93,
       "firstDate": "2026-03-23",
-      "lastDate": "2026-10-13",
-      "ctr": 0.013888888888888888,
-      "position": 6.118055555555555
+      "lastDate": "2026-10-16",
+      "ctr": 0.013793103448275862,
+      "position": 6.158620689655172
     },
     {
       "query": "acero inoxidable 304 en termos",
@@ -20326,13 +20373,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 148,
-      "weightedPos": 684,
-      "days": 103,
+      "impressions": 149,
+      "weightedPos": 692,
+      "days": 104,
       "firstDate": "2026-03-24",
-      "lastDate": "2026-10-15",
-      "ctr": 0.013513513513513514,
-      "position": 4.621621621621622
+      "lastDate": "2026-10-16",
+      "ctr": 0.013422818791946308,
+      "position": 4.644295302013423
     },
     {
       "query": "los mejores termos de acero inoxidable",
@@ -20394,13 +20441,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 36,
-      "weightedPos": 256,
-      "days": 30,
+      "impressions": 37,
+      "weightedPos": 258,
+      "days": 31,
       "firstDate": "2026-04-18",
-      "lastDate": "2026-10-10",
-      "ctr": 0.05555555555555555,
-      "position": 7.111111111111111
+      "lastDate": "2026-10-16",
+      "ctr": 0.05405405405405406,
+      "position": 6.972972972972973
     },
     {
       "query": "las mejores marcas de termos para agua",
@@ -20428,13 +20475,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 113,
-      "weightedPos": 667,
-      "days": 70,
+      "impressions": 114,
+      "weightedPos": 678,
+      "days": 71,
       "firstDate": "2026-04-30",
-      "lastDate": "2026-10-12",
-      "ctr": 0.017699115044247787,
-      "position": 5.902654867256637
+      "lastDate": "2026-10-16",
+      "ctr": 0.017543859649122806,
+      "position": 5.947368421052632
     },
     {
       "query": "mejores termos para agua fria y caliente",
@@ -20479,13 +20526,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 93,
-      "weightedPos": 559,
-      "days": 69,
+      "impressions": 94,
+      "weightedPos": 561,
+      "days": 70,
       "firstDate": "2026-05-21",
-      "lastDate": "2026-10-15",
-      "ctr": 0.021505376344086023,
-      "position": 6.010752688172043
+      "lastDate": "2026-10-16",
+      "ctr": 0.02127659574468085,
+      "position": 5.968085106382978
     },
     {
       "query": "termo para mujer bonito",
@@ -20496,13 +20543,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 126,
-      "weightedPos": 1053,
-      "days": 73,
+      "impressions": 129,
+      "weightedPos": 1081,
+      "days": 74,
       "firstDate": "2026-05-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.015873015873015872,
-      "position": 8.357142857142858
+      "lastDate": "2026-10-16",
+      "ctr": 0.015503875968992248,
+      "position": 8.37984496124031
     },
     {
       "query": "top 10 thermos",
@@ -20530,13 +20577,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 62,
-      "weightedPos": 537,
-      "days": 31,
+      "impressions": 63,
+      "weightedPos": 545,
+      "days": 32,
       "firstDate": "2026-08-03",
-      "lastDate": "2026-10-15",
-      "ctr": 0.03225806451612903,
-      "position": 8.661290322580646
+      "lastDate": "2026-10-16",
+      "ctr": 0.031746031746031744,
+      "position": 8.65079365079365
     },
     {
       "query": "termos de acero inoxidable grado alimenticio",
@@ -20564,13 +20611,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 504,
-      "weightedPos": 4137,
-      "days": 208,
+      "impressions": 505,
+      "weightedPos": 4150,
+      "days": 209,
       "firstDate": "2025-11-14",
-      "lastDate": "2026-10-13",
-      "ctr": 0.001984126984126984,
-      "position": 8.208333333333334
+      "lastDate": "2026-10-16",
+      "ctr": 0.0019801980198019802,
+      "position": 8.217821782178218
     },
     {
       "query": "mejor termo para agua fria",
@@ -20581,13 +20628,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 240,
-      "weightedPos": 2048,
-      "days": 142,
+      "impressions": 241,
+      "weightedPos": 2059,
+      "days": 143,
       "firstDate": "2025-11-17",
-      "lastDate": "2026-10-14",
-      "ctr": 0.004166666666666667,
-      "position": 8.533333333333333
+      "lastDate": "2026-10-16",
+      "ctr": 0.004149377593360996,
+      "position": 8.54356846473029
     },
     {
       "query": "termos elegantes para hombre",
@@ -20598,12 +20645,12 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 102,
-      "weightedPos": 408,
-      "days": 68,
+      "impressions": 103,
+      "weightedPos": 412,
+      "days": 69,
       "firstDate": "2025-11-18",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00980392156862745,
+      "lastDate": "2026-10-16",
+      "ctr": 0.009708737864077669,
       "position": 4
     },
     {
@@ -20683,13 +20730,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 116,
-      "weightedPos": 888,
-      "days": 94,
+      "impressions": 117,
+      "weightedPos": 907,
+      "days": 95,
       "firstDate": "2025-11-20",
-      "lastDate": "2026-10-14",
-      "ctr": 0.008620689655172414,
-      "position": 7.655172413793103
+      "lastDate": "2026-10-16",
+      "ctr": 0.008547008547008548,
+      "position": 7.752136752136752
     },
     {
       "query": "mejores marcas de termos termicos",
@@ -20836,13 +20883,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 183,
-      "weightedPos": 1460,
-      "days": 87,
+      "impressions": 185,
+      "weightedPos": 1469,
+      "days": 88,
       "firstDate": "2025-11-25",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00546448087431694,
-      "position": 7.978142076502732
+      "lastDate": "2026-10-16",
+      "ctr": 0.005405405405405406,
+      "position": 7.940540540540541
     },
     {
       "query": "termo de gimnasio",
@@ -20870,13 +20917,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 175,
-      "weightedPos": 1467,
-      "days": 111,
+      "impressions": 176,
+      "weightedPos": 1478,
+      "days": 112,
       "firstDate": "2025-11-27",
-      "lastDate": "2026-10-15",
-      "ctr": 0.005714285714285714,
-      "position": 8.382857142857143
+      "lastDate": "2026-10-16",
+      "ctr": 0.005681818181818182,
+      "position": 8.397727272727273
     },
     {
       "query": "como quitar el sarro de un termo de acero inoxidable",
@@ -20887,13 +20934,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 106,
-      "weightedPos": 991,
-      "days": 75,
+      "impressions": 107,
+      "weightedPos": 1000,
+      "days": 76,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-13",
-      "ctr": 0.009433962264150943,
-      "position": 9.349056603773585
+      "lastDate": "2026-10-16",
+      "ctr": 0.009345794392523364,
+      "position": 9.345794392523365
     },
     {
       "query": "termo bonito para mujer",
@@ -20904,13 +20951,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 411,
-      "weightedPos": 3396,
-      "days": 184,
+      "impressions": 413,
+      "weightedPos": 3407,
+      "days": 185,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0024330900243309003,
-      "position": 8.262773722627736
+      "lastDate": "2026-10-16",
+      "ctr": 0.002421307506053269,
+      "position": 8.249394673123486
     },
     {
       "query": "termo mujer",
@@ -20921,13 +20968,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 213,
-      "weightedPos": 1545,
-      "days": 130,
+      "impressions": 214,
+      "weightedPos": 1556,
+      "days": 131,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004694835680751174,
-      "position": 7.253521126760563
+      "lastDate": "2026-10-16",
+      "ctr": 0.004672897196261682,
+      "position": 7.271028037383178
     },
     {
       "query": "termos lindos para mujer",
@@ -20938,13 +20985,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 224,
-      "weightedPos": 2102,
-      "days": 138,
+      "impressions": 225,
+      "weightedPos": 2112,
+      "days": 139,
       "firstDate": "2025-11-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004464285714285714,
-      "position": 9.383928571428571
+      "lastDate": "2026-10-16",
+      "ctr": 0.0044444444444444444,
+      "position": 9.386666666666667
     },
     {
       "query": "cuales son los mejores termos",
@@ -20972,13 +21019,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 225,
-      "weightedPos": 2308,
-      "days": 120,
+      "impressions": 227,
+      "weightedPos": 2310,
+      "days": 121,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-14",
-      "ctr": 0.0044444444444444444,
-      "position": 10.257777777777777
+      "lastDate": "2026-10-16",
+      "ctr": 0.004405286343612335,
+      "position": 10.176211453744493
     },
     {
       "query": "mejor marca de termos",
@@ -20989,13 +21036,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 267,
-      "weightedPos": 1743,
-      "days": 158,
+      "impressions": 268,
+      "weightedPos": 1747,
+      "days": 159,
       "firstDate": "2025-11-29",
-      "lastDate": "2026-10-13",
-      "ctr": 0.003745318352059925,
-      "position": 6.52808988764045
+      "lastDate": "2026-10-16",
+      "ctr": 0.0037313432835820895,
+      "position": 6.518656716417911
     },
     {
       "query": "mejores termos del mercado",
@@ -21108,13 +21155,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 274,
-      "weightedPos": 2357,
-      "days": 141,
+      "impressions": 275,
+      "weightedPos": 2370,
+      "days": 142,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0036496350364963502,
-      "position": 8.602189781021897
+      "lastDate": "2026-10-16",
+      "ctr": 0.0036363636363636364,
+      "position": 8.618181818181819
     },
     {
       "query": "termo marca",
@@ -21159,13 +21206,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 426,
-      "weightedPos": 4003,
-      "days": 181,
+      "impressions": 427,
+      "weightedPos": 4012,
+      "days": 182,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
-      "ctr": 0.002347417840375587,
-      "position": 9.396713615023474
+      "lastDate": "2026-10-16",
+      "ctr": 0.00234192037470726,
+      "position": 9.395784543325528
     },
     {
       "query": "mejores termos para frio y caliente",
@@ -21210,13 +21257,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 113,
-      "weightedPos": 714,
-      "days": 64,
+      "impressions": 114,
+      "weightedPos": 715,
+      "days": 65,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-09",
-      "ctr": 0.008849557522123894,
-      "position": 6.31858407079646
+      "lastDate": "2026-10-16",
+      "ctr": 0.008771929824561403,
+      "position": 6.271929824561403
     },
     {
       "query": "thermo de moda",
@@ -21295,13 +21342,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 458,
-      "weightedPos": 4448,
-      "days": 182,
+      "impressions": 461,
+      "weightedPos": 4472,
+      "days": 183,
       "firstDate": "2025-12-02",
-      "lastDate": "2026-10-14",
-      "ctr": 0.002183406113537118,
-      "position": 9.7117903930131
+      "lastDate": "2026-10-16",
+      "ctr": 0.0021691973969631237,
+      "position": 9.700650759219089
     },
     {
       "query": "como limpiar un termo de acero inoxidable thermos",
@@ -21312,13 +21359,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 169,
-      "weightedPos": 1325,
-      "days": 94,
+      "impressions": 170,
+      "weightedPos": 1336,
+      "days": 95,
       "firstDate": "2025-12-03",
-      "lastDate": "2026-10-14",
-      "ctr": 0.005917159763313609,
-      "position": 7.840236686390533
+      "lastDate": "2026-10-16",
+      "ctr": 0.0058823529411764705,
+      "position": 7.858823529411764
     },
     {
       "query": "termo para gimnasio hombre",
@@ -21380,13 +21427,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 554,
-      "weightedPos": 4100,
-      "days": 195,
+      "impressions": 555,
+      "weightedPos": 4112,
+      "days": 196,
       "firstDate": "2025-12-14",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0018050541516245488,
-      "position": 7.40072202166065
+      "lastDate": "2026-10-16",
+      "ctr": 0.0018018018018018018,
+      "position": 7.409009009009009
     },
     {
       "query": "termos sin bpa",
@@ -21397,13 +21444,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 135,
-      "weightedPos": 825,
-      "days": 92,
+      "impressions": 138,
+      "weightedPos": 850,
+      "days": 93,
       "firstDate": "2025-12-16",
-      "lastDate": "2026-10-12",
-      "ctr": 0.007407407407407408,
-      "position": 6.111111111111111
+      "lastDate": "2026-10-16",
+      "ctr": 0.007246376811594203,
+      "position": 6.159420289855072
     },
     {
       "query": "bpa free termos",
@@ -21414,13 +21461,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 154,
-      "weightedPos": 1104,
-      "days": 88,
+      "impressions": 156,
+      "weightedPos": 1115,
+      "days": 89,
       "firstDate": "2025-12-18",
-      "lastDate": "2026-10-15",
-      "ctr": 0.006493506493506494,
-      "position": 7.1688311688311686
+      "lastDate": "2026-10-16",
+      "ctr": 0.00641025641025641,
+      "position": 7.147435897435898
     },
     {
       "query": "medida termo",
@@ -21465,13 +21512,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 353,
-      "weightedPos": 3569,
-      "days": 177,
+      "impressions": 354,
+      "weightedPos": 3580,
+      "days": 178,
       "firstDate": "2025-12-21",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0028328611898017,
-      "position": 10.110481586402265
+      "lastDate": "2026-10-16",
+      "ctr": 0.002824858757062147,
+      "position": 10.112994350282486
     },
     {
       "query": "tipos de termos para agua",
@@ -21584,13 +21631,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 114,
-      "weightedPos": 801,
-      "days": 60,
+      "impressions": 116,
+      "weightedPos": 810,
+      "days": 61,
       "firstDate": "2025-12-28",
-      "lastDate": "2026-10-15",
-      "ctr": 0.008771929824561403,
-      "position": 7.026315789473684
+      "lastDate": "2026-10-16",
+      "ctr": 0.008620689655172414,
+      "position": 6.982758620689655
     },
     {
       "query": "termo que mantiene el agua caliente",
@@ -21890,13 +21937,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 1,
-      "impressions": 214,
-      "weightedPos": 1717,
-      "days": 89,
+      "impressions": 222,
+      "weightedPos": 1798,
+      "days": 90,
       "firstDate": "2026-01-16",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004672897196261682,
-      "position": 8.023364485981308
+      "lastDate": "2026-10-16",
+      "ctr": 0.0045045045045045045,
+      "position": 8.0990990990991
     },
     {
       "query": "termos para medicos",
@@ -21975,13 +22022,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 96,
-      "weightedPos": 451,
-      "days": 59,
+      "impressions": 97,
+      "weightedPos": 454,
+      "days": 60,
       "firstDate": "2026-01-22",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010416666666666666,
-      "position": 4.697916666666667
+      "lastDate": "2026-10-16",
+      "ctr": 0.010309278350515464,
+      "position": 4.680412371134021
     },
     {
       "query": "curar un termo de acero inoxidable",
@@ -22111,13 +22158,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 433,
-      "weightedPos": 3033,
-      "days": 178,
+      "impressions": 434,
+      "weightedPos": 3041,
+      "days": 179,
       "firstDate": "2026-02-03",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0023094688221709007,
-      "position": 7.0046189376443415
+      "lastDate": "2026-10-16",
+      "ctr": 0.002304147465437788,
+      "position": 7.006912442396313
     },
     {
       "query": "termo de agua niño",
@@ -22162,13 +22209,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 192,
-      "weightedPos": 1188,
-      "days": 127,
+      "impressions": 193,
+      "weightedPos": 1189,
+      "days": 128,
       "firstDate": "2026-02-04",
-      "lastDate": "2026-10-07",
-      "ctr": 0.005208333333333333,
-      "position": 6.1875
+      "lastDate": "2026-10-16",
+      "ctr": 0.0051813471502590676,
+      "position": 6.160621761658031
     },
     {
       "query": "termos de acero inoxidable marca thermos",
@@ -22213,13 +22260,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 205,
-      "weightedPos": 1884,
-      "days": 122,
+      "impressions": 208,
+      "weightedPos": 1896,
+      "days": 123,
       "firstDate": "2026-02-06",
-      "lastDate": "2026-10-15",
-      "ctr": 0.004878048780487805,
-      "position": 9.190243902439024
+      "lastDate": "2026-10-16",
+      "ctr": 0.004807692307692308,
+      "position": 9.115384615384615
     },
     {
       "query": "termos para camping",
@@ -22315,13 +22362,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 405,
-      "weightedPos": 4009,
-      "days": 140,
+      "impressions": 409,
+      "weightedPos": 4052,
+      "days": 141,
       "firstDate": "2026-02-10",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0024691358024691358,
-      "position": 9.898765432098765
+      "lastDate": "2026-10-16",
+      "ctr": 0.0024449877750611247,
+      "position": 9.907090464547677
     },
     {
       "query": "termos para montaña",
@@ -22383,13 +22430,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 181,
-      "weightedPos": 849,
-      "days": 111,
+      "impressions": 186,
+      "weightedPos": 877,
+      "days": 112,
       "firstDate": "2026-02-17",
-      "lastDate": "2026-10-13",
-      "ctr": 0.0055248618784530384,
-      "position": 4.69060773480663
+      "lastDate": "2026-10-16",
+      "ctr": 0.005376344086021506,
+      "position": 4.71505376344086
     },
     {
       "query": "marca de vasos termicos",
@@ -22638,13 +22685,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 97,
-      "weightedPos": 727,
-      "days": 74,
+      "impressions": 98,
+      "weightedPos": 737,
+      "days": 75,
       "firstDate": "2026-02-27",
-      "lastDate": "2026-10-15",
-      "ctr": 0.010309278350515464,
-      "position": 7.494845360824742
+      "lastDate": "2026-10-16",
+      "ctr": 0.01020408163265306,
+      "position": 7.520408163265306
     },
     {
       "query": "marcas de termo",
@@ -22655,13 +22702,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 883,
-      "weightedPos": 6231,
-      "days": 210,
+      "impressions": 889,
+      "weightedPos": 6267,
+      "days": 211,
       "firstDate": "2026-02-27",
-      "lastDate": "2026-10-15",
-      "ctr": 0.0011325028312570782,
-      "position": 7.056625141562854
+      "lastDate": "2026-10-16",
+      "ctr": 0.0011248593925759281,
+      "position": 7.049493813273341
     },
     {
       "query": "botella de agua termica",
@@ -22740,13 +22787,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 235,
-      "weightedPos": 1713,
-      "days": 122,
+      "impressions": 238,
+      "weightedPos": 1746,
+      "days": 123,
       "firstDate": "2026-03-02",
-      "lastDate": "2026-10-15",
-      "ctr": 0.00425531914893617,
-      "position": 7.2893617021276595
+      "lastDate": "2026-10-16",
+      "ctr": 0.004201680672268907,
+      "position": 7.336134453781512
     },
     {
       "query": "termos de acero 304",
@@ -22825,13 +22872,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 348,
-      "weightedPos": 1128,
-      "days": 156,
+      "impressions": 349,
+      "weightedPos": 1132,
+      "days": 157,
       "firstDate": "2026-03-06",
-      "lastDate": "2026-10-14",
-      "ctr": 0.0028735632183908046,
-      "position": 3.2413793103448274
+      "lastDate": "2026-10-16",
+      "ctr": 0.0028653295128939827,
+      "position": 3.2435530085959887
     },
     {
       "query": "termo cañon acero inoxidable",
@@ -22961,13 +23008,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 129,
-      "weightedPos": 2269,
-      "days": 72,
+      "impressions": 130,
+      "weightedPos": 2295,
+      "days": 73,
       "firstDate": "2026-03-12",
-      "lastDate": "2026-10-15",
-      "ctr": 0.007751937984496124,
-      "position": 17.589147286821706
+      "lastDate": "2026-10-16",
+      "ctr": 0.007692307692307693,
+      "position": 17.653846153846153
     },
     {
       "query": "cuales son las mejores marcas de termos de acero inoxidable",
@@ -23029,13 +23076,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 333,
-      "weightedPos": 2582,
-      "days": 139,
+      "impressions": 334,
+      "weightedPos": 2583,
+      "days": 140,
       "firstDate": "2026-03-16",
-      "lastDate": "2026-10-14",
-      "ctr": 0.003003003003003003,
-      "position": 7.753753753753754
+      "lastDate": "2026-10-16",
+      "ctr": 0.0029940119760479044,
+      "position": 7.733532934131737
     },
     {
       "query": "tapa para termo de acero inoxidable",
@@ -23267,13 +23314,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 80,
-      "weightedPos": 707,
-      "days": 54,
+      "impressions": 81,
+      "weightedPos": 713,
+      "days": 55,
       "firstDate": "2026-03-28",
-      "lastDate": "2026-10-13",
-      "ctr": 0.0125,
-      "position": 8.8375
+      "lastDate": "2026-10-16",
+      "ctr": 0.012345679012345678,
+      "position": 8.802469135802468
     },
     {
       "query": "como decorar un termo de acero inoxidable",
@@ -23641,13 +23688,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 41,
-      "weightedPos": 444,
-      "days": 31,
+      "impressions": 42,
+      "weightedPos": 455,
+      "days": 32,
       "firstDate": "2026-05-07",
-      "lastDate": "2026-09-28",
-      "ctr": 0.024390243902439025,
-      "position": 10.829268292682928
+      "lastDate": "2026-10-16",
+      "ctr": 0.023809523809523808,
+      "position": 10.833333333333334
     },
     {
       "query": "termo acero serie 300",
@@ -23760,13 +23807,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 34,
-      "weightedPos": 336,
-      "days": 31,
+      "impressions": 35,
+      "weightedPos": 347,
+      "days": 32,
       "firstDate": "2026-05-27",
-      "lastDate": "2026-10-14",
-      "ctr": 0.029411764705882353,
-      "position": 9.882352941176471
+      "lastDate": "2026-10-16",
+      "ctr": 0.02857142857142857,
+      "position": 9.914285714285715
     },
     {
       "query": "cuales son las mejores botellas termicas",
@@ -23862,13 +23909,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 111,
-      "weightedPos": 528,
-      "days": 65,
+      "impressions": 112,
+      "weightedPos": 536,
+      "days": 66,
       "firstDate": "2026-06-09",
-      "lastDate": "2026-10-14",
-      "ctr": 0.009009009009009009,
-      "position": 4.756756756756757
+      "lastDate": "2026-10-16",
+      "ctr": 0.008928571428571428,
+      "position": 4.785714285714286
     },
     {
       "query": "termo de café 1 litro",
@@ -23981,13 +24028,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 133,
-      "weightedPos": 886,
-      "days": 70,
+      "impressions": 138,
+      "weightedPos": 931,
+      "days": 71,
       "firstDate": "2026-06-27",
-      "lastDate": "2026-10-15",
-      "ctr": 0.007518796992481203,
-      "position": 6.661654135338346
+      "lastDate": "2026-10-16",
+      "ctr": 0.007246376811594203,
+      "position": 6.746376811594203
     },
     {
       "query": "termos para parejas",
@@ -24202,13 +24249,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 125,
-      "weightedPos": 1097,
-      "days": 81,
+      "impressions": 126,
+      "weightedPos": 1109,
+      "days": 82,
       "firstDate": "2025-11-12",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.776
+      "position": 8.801587301587302
     },
     {
       "query": "termo de agua portatil",
@@ -24253,13 +24300,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 303,
-      "weightedPos": 2828,
-      "days": 148,
+      "impressions": 305,
+      "weightedPos": 2849,
+      "days": 149,
       "firstDate": "2025-11-15",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.333333333333334
+      "position": 9.340983606557376
     },
     {
       "query": "termos para gym grandes",
@@ -24321,13 +24368,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 225,
-      "weightedPos": 1946,
-      "days": 127,
+      "impressions": 226,
+      "weightedPos": 1948,
+      "days": 128,
       "firstDate": "2025-11-20",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.648888888888889
+      "position": 8.619469026548673
     },
     {
       "query": "que marca de termo electrico es mejor",
@@ -24542,13 +24589,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 19,
-      "weightedPos": 148,
-      "days": 18,
+      "impressions": 20,
+      "weightedPos": 154,
+      "days": 19,
       "firstDate": "2025-11-24",
-      "lastDate": "2026-10-01",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.7894736842105265
+      "position": 7.7
     },
     {
       "query": "que marca de termo es buena",
@@ -24559,13 +24606,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 47,
-      "weightedPos": 259,
-      "days": 37,
+      "impressions": 48,
+      "weightedPos": 270,
+      "days": 38,
       "firstDate": "2025-11-24",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.51063829787234
+      "position": 5.625
     },
     {
       "query": "los mejores termos para cafe",
@@ -24661,13 +24708,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 615,
-      "weightedPos": 6342,
-      "days": 171,
+      "impressions": 623,
+      "weightedPos": 6424,
+      "days": 172,
       "firstDate": "2025-11-25",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10.31219512195122
+      "position": 10.31139646869984
     },
     {
       "query": "como lavar termos de acero inoxidable",
@@ -24678,13 +24725,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 248,
-      "weightedPos": 1892,
-      "days": 150,
+      "impressions": 249,
+      "weightedPos": 1899,
+      "days": 151,
       "firstDate": "2025-11-26",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.629032258064516
+      "position": 7.626506024096385
     },
     {
       "query": "la mejor marca de termos",
@@ -24695,13 +24742,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 105,
-      "weightedPos": 659,
-      "days": 84,
+      "impressions": 106,
+      "weightedPos": 671,
+      "days": 85,
       "firstDate": "2025-11-26",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 6.276190476190476
+      "position": 6.330188679245283
     },
     {
       "query": "mejor marca de termos para cafe",
@@ -25239,13 +25286,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 116,
-      "weightedPos": 929,
-      "days": 88,
+      "impressions": 117,
+      "weightedPos": 930,
+      "days": 89,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.008620689655173
+      "position": 7.948717948717949
     },
     {
       "query": "termos de moda",
@@ -25256,13 +25303,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 912,
-      "weightedPos": 8147,
-      "days": 158,
+      "impressions": 921,
+      "weightedPos": 8165,
+      "days": 159,
       "firstDate": "2025-11-30",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.93311403508772
+      "position": 8.865363735070575
     },
     {
       "query": "cual es el mejor termo para conservar agua caliente",
@@ -25375,13 +25422,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 380,
-      "weightedPos": 3698,
-      "days": 152,
+      "impressions": 381,
+      "weightedPos": 3708,
+      "days": 153,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.73157894736842
+      "position": 9.73228346456693
     },
     {
       "query": "vasos termicos para cafe",
@@ -25392,13 +25439,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 73,
-      "weightedPos": 553,
-      "days": 54,
+      "impressions": 75,
+      "weightedPos": 559,
+      "days": 55,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.575342465753424
+      "position": 7.453333333333333
     },
     {
       "query": "bonitos termo para cafe mujer",
@@ -25477,13 +25524,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 325,
-      "weightedPos": 2775,
-      "days": 159,
+      "impressions": 329,
+      "weightedPos": 2815,
+      "days": 160,
       "firstDate": "2025-12-03",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.538461538461538
+      "position": 8.556231003039514
     },
     {
       "query": "como sacar el sarro del termo de acero inoxidable",
@@ -25528,13 +25575,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 39,
-      "weightedPos": 321,
-      "days": 32,
+      "impressions": 40,
+      "weightedPos": 331,
+      "days": 33,
       "firstDate": "2025-12-04",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.23076923076923
+      "position": 8.275
     },
     {
       "query": "como lavar un termo de cafe",
@@ -25630,13 +25677,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 329,
-      "weightedPos": 2663,
-      "days": 182,
+      "impressions": 331,
+      "weightedPos": 2683,
+      "days": 183,
       "firstDate": "2025-12-08",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.094224924012158
+      "position": 8.105740181268882
     },
     {
       "query": "termo libre de bpa que significa",
@@ -25749,13 +25796,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 195,
-      "weightedPos": 1851,
-      "days": 115,
+      "impressions": 198,
+      "weightedPos": 1883,
+      "days": 116,
       "firstDate": "2025-12-14",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.492307692307692
+      "position": 9.51010101010101
     },
     {
       "query": "mejor termo para agua",
@@ -25851,13 +25898,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 233,
-      "weightedPos": 1966,
-      "days": 139,
+      "impressions": 234,
+      "weightedPos": 1976,
+      "days": 140,
       "firstDate": "2025-12-20",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.437768240343347
+      "position": 8.444444444444445
     },
     {
       "query": "termo para agua de bebe",
@@ -25868,13 +25915,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 246,
-      "weightedPos": 2912,
-      "days": 114,
+      "impressions": 249,
+      "weightedPos": 2945,
+      "days": 115,
       "firstDate": "2025-12-21",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 11.83739837398374
+      "position": 11.82730923694779
     },
     {
       "query": "termo para agua fria y caliente",
@@ -25902,13 +25949,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 71,
-      "weightedPos": 856,
-      "days": 53,
+      "impressions": 72,
+      "weightedPos": 867,
+      "days": 54,
       "firstDate": "2025-12-21",
-      "lastDate": "2026-10-07",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 12.056338028169014
+      "position": 12.041666666666666
     },
     {
       "query": "vaso termico para agua fria",
@@ -26412,13 +26459,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 200,
-      "weightedPos": 1927,
-      "days": 106,
+      "impressions": 202,
+      "weightedPos": 1947,
+      "days": 107,
       "firstDate": "2026-01-10",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.635
+      "position": 9.638613861386139
     },
     {
       "query": "vasos termicos contigo",
@@ -26446,13 +26493,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 45,
-      "weightedPos": 226,
-      "days": 31,
+      "impressions": 47,
+      "weightedPos": 235,
+      "days": 32,
       "firstDate": "2026-01-11",
-      "lastDate": "2026-10-10",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.022222222222222
+      "position": 5
     },
     {
       "query": "cuanto dura un termo de agua caliente",
@@ -26650,13 +26697,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 91,
-      "weightedPos": 903,
-      "days": 58,
+      "impressions": 92,
+      "weightedPos": 912,
+      "days": 59,
       "firstDate": "2026-01-13",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.923076923076923
+      "position": 9.91304347826087
     },
     {
       "query": "termo marca thermos 1 litro",
@@ -26684,13 +26731,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 8,
-      "weightedPos": 37,
-      "days": 7,
+      "impressions": 9,
+      "weightedPos": 40,
+      "days": 8,
       "firstDate": "2026-01-13",
-      "lastDate": "2026-10-04",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 4.625
+      "position": 4.444444444444445
     },
     {
       "query": "termo para agua caliente tupperware",
@@ -27211,13 +27258,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 61,
-      "weightedPos": 526,
-      "days": 42,
+      "impressions": 62,
+      "weightedPos": 527,
+      "days": 43,
       "firstDate": "2026-01-19",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.62295081967213
+      "position": 8.5
     },
     {
       "query": "termos para agua caliente industrial",
@@ -27347,13 +27394,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 8,
-      "weightedPos": 90,
-      "days": 7,
+      "impressions": 10,
+      "weightedPos": 105,
+      "days": 8,
       "firstDate": "2026-01-21",
-      "lastDate": "2026-08-18",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 11.25
+      "position": 10.5
     },
     {
       "query": "termo de acero inoxidable se calienta por fuera",
@@ -27415,13 +27462,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 100,
-      "weightedPos": 801,
-      "days": 58,
+      "impressions": 101,
+      "weightedPos": 812,
+      "days": 59,
       "firstDate": "2026-01-23",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.01
+      "position": 8.03960396039604
     },
     {
       "query": "diseño para termo de mujer",
@@ -27466,13 +27513,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 477,
-      "weightedPos": 4336,
-      "days": 147,
+      "impressions": 481,
+      "weightedPos": 4343,
+      "days": 148,
       "firstDate": "2026-01-24",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.09014675052411
+      "position": 9.029106029106028
     },
     {
       "query": "cómo se cura un termo de acero inoxidable",
@@ -27483,13 +27530,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 304,
-      "weightedPos": 1823,
-      "days": 161,
+      "impressions": 305,
+      "weightedPos": 1826,
+      "days": 162,
       "firstDate": "2026-01-25",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.996710526315789
+      "position": 5.9868852459016395
     },
     {
       "query": "termo para aguas",
@@ -27585,13 +27632,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 228,
-      "weightedPos": 2380,
-      "days": 137,
+      "impressions": 230,
+      "weightedPos": 2407,
+      "days": 138,
       "firstDate": "2026-01-27",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10.43859649122807
+      "position": 10.465217391304348
     },
     {
       "query": "termos mujer bonitos",
@@ -27602,13 +27649,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 35,
-      "weightedPos": 319,
-      "days": 26,
+      "impressions": 37,
+      "weightedPos": 338,
+      "days": 27,
       "firstDate": "2026-01-27",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.114285714285714
+      "position": 9.135135135135135
     },
     {
       "query": "termos niños",
@@ -27789,13 +27836,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 21,
-      "weightedPos": 128,
-      "days": 17,
+      "impressions": 23,
+      "weightedPos": 142,
+      "days": 18,
       "firstDate": "2026-02-01",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 6.095238095238095
+      "position": 6.173913043478261
     },
     {
       "query": "termo para agua niño",
@@ -27806,13 +27853,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 155,
-      "weightedPos": 1553,
-      "days": 79,
+      "impressions": 156,
+      "weightedPos": 1564,
+      "days": 80,
       "firstDate": "2026-02-01",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10.019354838709678
+      "position": 10.025641025641026
     },
     {
       "query": "termos para niño",
@@ -28333,13 +28380,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 53,
-      "weightedPos": 541,
-      "days": 31,
+      "impressions": 55,
+      "weightedPos": 563,
+      "days": 32,
       "firstDate": "2026-02-09",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10.20754716981132
+      "position": 10.236363636363636
     },
     {
       "query": "termo que conserva el frio",
@@ -28367,13 +28414,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 194,
-      "weightedPos": 2022,
-      "days": 102,
+      "impressions": 195,
+      "weightedPos": 2036,
+      "days": 103,
       "firstDate": "2026-02-09",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10.422680412371134
+      "position": 10.441025641025641
     },
     {
       "query": "se puede llevar botella termica en el avion",
@@ -29200,13 +29247,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 28,
-      "weightedPos": 206,
-      "days": 22,
+      "impressions": 29,
+      "weightedPos": 216,
+      "days": 23,
       "firstDate": "2026-02-19",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.357142857142857
+      "position": 7.448275862068965
     },
     {
       "query": "termos para cafe buenos",
@@ -29302,13 +29349,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 40,
-      "weightedPos": 139,
-      "days": 33,
+      "impressions": 41,
+      "weightedPos": 148,
+      "days": 34,
       "firstDate": "2026-02-20",
-      "lastDate": "2026-10-09",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 3.475
+      "position": 3.6097560975609757
     },
     {
       "query": "ozark trail vaso termico",
@@ -29438,11 +29485,11 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 91,
-      "weightedPos": 819,
-      "days": 73,
+      "impressions": 92,
+      "weightedPos": 828,
+      "days": 74,
       "firstDate": "2026-02-22",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
       "position": 9
     },
@@ -29897,11 +29944,11 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 4,
-      "weightedPos": 8,
-      "days": 4,
+      "impressions": 5,
+      "weightedPos": 10,
+      "days": 5,
       "firstDate": "2026-03-01",
-      "lastDate": "2026-07-28",
+      "lastDate": "2026-10-16",
       "ctr": 0,
       "position": 2
     },
@@ -30084,13 +30131,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 188,
-      "weightedPos": 1480,
-      "days": 122,
+      "impressions": 191,
+      "weightedPos": 1510,
+      "days": 123,
       "firstDate": "2026-03-03",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.872340425531915
+      "position": 7.9057591623036645
     },
     {
       "query": "termo de acero 304",
@@ -30441,13 +30488,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 218,
-      "weightedPos": 1437,
-      "days": 125,
+      "impressions": 221,
+      "weightedPos": 1460,
+      "days": 126,
       "firstDate": "2026-03-05",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 6.591743119266055
+      "position": 6.606334841628959
     },
     {
       "query": "termo térmico",
@@ -30645,13 +30692,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 4,
-      "weightedPos": 14,
-      "days": 4,
+      "impressions": 5,
+      "weightedPos": 18,
+      "days": 5,
       "firstDate": "2026-03-07",
-      "lastDate": "2026-08-25",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 3.5
+      "position": 3.6
     },
     {
       "query": "vaso termico frio",
@@ -30730,13 +30777,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 42,
-      "weightedPos": 307,
-      "days": 37,
+      "impressions": 43,
+      "weightedPos": 312,
+      "days": 38,
       "firstDate": "2026-03-08",
-      "lastDate": "2026-10-09",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.309523809523809
+      "position": 7.255813953488372
     },
     {
       "query": "cual es la mejor marca de vasos termicos",
@@ -30866,13 +30913,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 48,
-      "weightedPos": 270,
-      "days": 42,
+      "impressions": 49,
+      "weightedPos": 272,
+      "days": 43,
       "firstDate": "2026-03-08",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.625
+      "position": 5.551020408163265
     },
     {
       "query": "el mejor termo de comida",
@@ -32634,13 +32681,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 25,
-      "weightedPos": 235,
-      "days": 24,
+      "impressions": 26,
+      "weightedPos": 245,
+      "days": 25,
       "firstDate": "2026-03-20",
-      "lastDate": "2026-10-08",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.4
+      "position": 9.423076923076923
     },
     {
       "query": "termos de mujer bonitos",
@@ -32719,13 +32766,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 112,
-      "weightedPos": 807,
-      "days": 80,
+      "impressions": 113,
+      "weightedPos": 810,
+      "days": 81,
       "firstDate": "2026-03-21",
-      "lastDate": "2026-10-11",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.205357142857143
+      "position": 7.168141592920354
     },
     {
       "query": "termos para tinto 4 litros",
@@ -34997,13 +35044,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 11,
-      "weightedPos": 108,
-      "days": 11,
+      "impressions": 13,
+      "weightedPos": 120,
+      "days": 12,
       "firstDate": "2026-04-22",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.818181818181818
+      "position": 9.23076923076923
     },
     {
       "query": "mejores vasos térmicos para tailgating y eventos deportivos",
@@ -35201,13 +35248,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 20,
-      "weightedPos": 161,
-      "days": 19,
+      "impressions": 21,
+      "weightedPos": 170,
+      "days": 20,
       "firstDate": "2026-04-24",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.05
+      "position": 8.095238095238095
     },
     {
       "query": "vasos térmicos lidl",
@@ -35456,13 +35503,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 19,
-      "weightedPos": 156,
-      "days": 16,
+      "impressions": 21,
+      "weightedPos": 177,
+      "days": 17,
       "firstDate": "2026-04-28",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.210526315789474
+      "position": 8.428571428571429
     },
     {
       "query": "termos para el dia del padre",
@@ -35915,13 +35962,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 66,
-      "weightedPos": 422,
-      "days": 46,
+      "impressions": 67,
+      "weightedPos": 433,
+      "days": 47,
       "firstDate": "2026-05-04",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 6.393939393939394
+      "position": 6.462686567164179
     },
     {
       "query": "mejor termo eléctrico para 4 personas",
@@ -37139,13 +37186,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 18,
-      "weightedPos": 202,
-      "days": 15,
+      "impressions": 19,
+      "weightedPos": 214,
+      "days": 16,
       "firstDate": "2026-05-14",
-      "lastDate": "2026-09-10",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 11.222222222222221
+      "position": 11.263157894736842
     },
     {
       "query": "termos gym mujer",
@@ -37530,13 +37577,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 38,
-      "weightedPos": 324,
-      "days": 22,
+      "impressions": 39,
+      "weightedPos": 333,
+      "days": 23,
       "firstDate": "2026-05-18",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.526315789473685
+      "position": 8.538461538461538
     },
     {
       "query": "de que estan hechos los vasos termicos",
@@ -38941,13 +38988,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 6,
-      "weightedPos": 45,
-      "days": 5,
+      "impressions": 7,
+      "weightedPos": 54,
+      "days": 6,
       "firstDate": "2026-05-29",
-      "lastDate": "2026-07-17",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 7.5
+      "position": 7.714285714285714
     },
     {
       "query": "pampero vaso termico",
@@ -40471,13 +40518,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 81,
-      "weightedPos": 401,
-      "days": 58,
+      "impressions": 83,
+      "weightedPos": 403,
+      "days": 59,
       "firstDate": "2026-06-09",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 4.950617283950617
+      "position": 4.855421686746988
     },
     {
       "query": "mejores marcas termo electrico",
@@ -42290,13 +42337,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 27,
-      "weightedPos": 270,
-      "days": 21,
+      "impressions": 28,
+      "weightedPos": 279,
+      "days": 22,
       "firstDate": "2026-07-06",
-      "lastDate": "2026-10-05",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 10
+      "position": 9.964285714285714
     },
     {
       "query": "mejor termo agua fria",
@@ -42596,13 +42643,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 44,
-      "weightedPos": 360,
-      "days": 28,
+      "impressions": 45,
+      "weightedPos": 366,
+      "days": 29,
       "firstDate": "2026-07-10",
-      "lastDate": "2026-10-14",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.181818181818182
+      "position": 8.133333333333333
     },
     {
       "query": "termos electricos mejores marcas",
@@ -43701,13 +43748,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 52,
-      "weightedPos": 276,
-      "days": 35,
+      "impressions": 54,
+      "weightedPos": 288,
+      "days": 36,
       "firstDate": "2026-08-06",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.3076923076923075
+      "position": 5.333333333333333
     },
     {
       "query": "termo de agua de niño",
@@ -44296,13 +44343,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 14,
-      "weightedPos": 128,
-      "days": 9,
+      "impressions": 16,
+      "weightedPos": 145,
+      "days": 10,
       "firstDate": "2026-08-19",
-      "lastDate": "2026-10-08",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.142857142857142
+      "position": 9.0625
     },
     {
       "query": "cual es el mejor termo electrico en chile",
@@ -44585,13 +44632,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 10,
-      "weightedPos": 97,
-      "days": 7,
+      "impressions": 11,
+      "weightedPos": 107,
+      "days": 8,
       "firstDate": "2026-08-26",
-      "lastDate": "2026-10-15",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 9.7
+      "position": 9.727272727272727
     },
     {
       "query": "marcas de termos reconocidas",
@@ -44602,13 +44649,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 26,
-      "weightedPos": 100,
-      "days": 18,
+      "impressions": 28,
+      "weightedPos": 108,
+      "days": 19,
       "firstDate": "2026-08-27",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 3.8461538461538463
+      "position": 3.857142857142857
     },
     {
       "query": "vaso termico nescafe",
@@ -44772,13 +44819,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 6,
-      "weightedPos": 31,
-      "days": 6,
+      "impressions": 7,
+      "weightedPos": 32,
+      "days": 7,
       "firstDate": "2026-08-31",
-      "lastDate": "2026-10-08",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.166666666666667
+      "position": 4.571428571428571
     },
     {
       "query": "botella termica yeti",
@@ -45418,13 +45465,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 6,
-      "weightedPos": 31,
-      "days": 4,
+      "impressions": 8,
+      "weightedPos": 51,
+      "days": 5,
       "firstDate": "2026-09-23",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 5.166666666666667
+      "position": 6.375
     },
     {
       "query": "como limpiar el termo de agua",
@@ -45554,13 +45601,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 13,
-      "weightedPos": 82,
-      "days": 11,
+      "impressions": 14,
+      "weightedPos": 91,
+      "days": 12,
       "firstDate": "2026-09-25",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 6.3076923076923075
+      "position": 6.5
     },
     {
       "query": "su 304 termos",
@@ -45690,13 +45737,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 8,
-      "weightedPos": 67,
-      "days": 7,
+      "impressions": 10,
+      "weightedPos": 88,
+      "days": 8,
       "firstDate": "2026-09-30",
-      "lastDate": "2026-10-12",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 8.375
+      "position": 8.8
     },
     {
       "query": "marcas de termos stanley",
@@ -45860,13 +45907,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 2,
-      "weightedPos": 7,
-      "days": 2,
+      "impressions": 3,
+      "weightedPos": 8,
+      "days": 3,
       "firstDate": "2026-10-11",
-      "lastDate": "2026-10-13",
+      "lastDate": "2026-10-16",
       "ctr": 0,
-      "position": 3.5
+      "position": 2.6666666666666665
     },
     {
       "query": "termos electricos 30 litros",
@@ -46088,6 +46135,74 @@
       "lastDate": "2026-10-15",
       "ctr": 0,
       "position": 1
+    },
+    {
+      "query": "cual es el mejor termo para frio y caliente",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较",
+      "kwId": "VJ-0196",
+      "keyword": "cual es el mejor termo",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 2,
+      "weightedPos": 19,
+      "days": 1,
+      "firstDate": "2026-10-16",
+      "lastDate": "2026-10-16",
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "marcas de termos americanos",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较",
+      "kwId": "VJ-0002",
+      "keyword": "marcas de termos",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 2,
+      "weightedPos": 13,
+      "days": 1,
+      "firstDate": "2026-10-16",
+      "lastDate": "2026-10-16",
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "marcas de termos en paraguay",
+      "groupCode": "VJ-04",
+      "groupName": "选购与比较",
+      "kwId": "VJ-0002",
+      "keyword": "marcas de termos",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 1,
+      "weightedPos": 5,
+      "days": 1,
+      "firstDate": "2026-10-16",
+      "lastDate": "2026-10-16",
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "vaso termico zak",
+      "groupCode": "VJ-01",
+      "groupName": "通用保温饮水容器",
+      "kwId": "VJ-0098",
+      "keyword": "vaso termico",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 1,
+      "weightedPos": 8,
+      "days": 1,
+      "firstDate": "2026-10-16",
+      "lastDate": "2026-10-16",
+      "ctr": 0,
+      "position": 8
     }
   ]
 }
