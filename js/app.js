@@ -46,6 +46,37 @@ const brandMeta={jf:{asOf:'—',oldest:'—'},vj:{asOf:'—',oldest:'—'}};
 const categoryDayMap={jf:new Map(),vj:new Map()};
 const categoryMeta={jf:{asOf:'—',oldest:'—'},vj:{asOf:'—',oldest:'—'}};
 
+// ── 品类 Query 区间重算 ──
+// category-*.json 的 dailyByDate 是按日期索引的稀疏明细：
+//   { "2026-10-01": [[queryIndex, clicks, impressions, position], …] }
+// 前端据此对任意日期区间重新聚合，使明细表与顶部 KPI / 关键词类型表口径一致。
+const catRollupCache=new Map();
+function catRollup(site,start,end){
+ const data=CATEGORY_DATA[site];
+ if(!data||!data.dailyByDate)return null;
+ const key=`${site}|${start}|${end}|${data.asOf||''}`;
+ const hit=catRollupCache.get(key);
+ if(hit)return hit;
+ const acc=new Map();
+ const idx=data.dailyByDate;
+ for(const d of Object.keys(idx)){
+  if(d<start||d>end)continue;
+  const rows=idx[d];
+  for(let k=0;k<rows.length;k++){
+   const row=rows[k],qi=row[0];
+   let e=acc.get(qi);
+   if(!e){e={clicks:0,impressions:0,weightedPos:0,days:0};acc.set(qi,e)}
+   e.clicks+=row[1];
+   e.impressions+=row[2];
+   e.weightedPos+=(row[3]||0)*row[2];
+   e.days++;
+  }
+ }
+ if(catRollupCache.size>24)catRollupCache.clear();  // 只保留少量区间，避免长期累积
+ catRollupCache.set(key,acc);
+ return acc;
+}
+
 function loadBrandData(site,payload){
  BRAND_DATA[site]=payload;
  const m=new Map();
@@ -64,6 +95,10 @@ function loadCategoryData(site,payload){
  }
  categoryDayMap[site]=m;
  categoryMeta[site]={asOf:payload.asOf,oldest:payload.oldest};
+ // 分组改为数据驱动：V2 词库按「关键词类型」分 A–G 组，组数与名称以 category-*.json 的 groupMeta 为准
+ if(payload.groupMeta&&payload.groupMeta.length){
+  SITES[site].groups=payload.groupMeta.map(g=>[g.groupCode,g.groupName]);
+ }
 }
 
 function brandRowsForRange(start,end,site){
@@ -166,7 +201,7 @@ function navigate(p){setPage(p);try{if(location.protocol!=='about:'&&location.ha
 function shell(){const r=range(),page=state.page,heading=page==='overview'?'SEO 搜索表现总览':SITES[page].name+' · SEO 分析',good=['jf','vj'].flatMap(site=>['brand','category'].map(type=>stats(r.start,r.end,site,type))).filter(Boolean).length;return `
  <header class="page-top"><div><h1>${heading}</h1></div><div class="page-meta"><span class="tag" title="品牌词来自GSC Branded Excel，品类词来自GSC API + 755词V1匹配">LIVE</span><button type="button" class="tag status-meta ${good<4?'warn':''}" data-action="status" title="查看数据来源状态">数据截至 ${fdate(META.asOf)}${good<4?` · ${good}/4 数据源`:''}</button></div></header>
  <div class="toolbar"><div class="t-left"><div class="date-group" role="group" aria-label="日期范围">${[['7','近7天'],['28','近28天'],['90','近90天'],['365','近12个月'],['custom','自定义日期']].map(([id,label])=>`<button type="button" class="date-btn ${state.period===id?'active':''}" data-period="${id}" aria-pressed="${state.period===id}">${state.period===id?'✓ ':''}${label}</button>`).join('')}</div><span class="date-summary">${fdate(r.start)} — ${fdate(r.end)}</span></div><div class="t-right"><label class="compare"><input type="checkbox" id="compare" ${state.compare?'checked':''}/> 对比上期</label></div></div>`;}
-function summaryTile(site,type){const r=range(),S=SITES[site],v=stats(r.start,r.end,site,type);return `<article class="card summary-tile"><div class="tile-header"><span class="tile-brand"><b class="square ${site}">${S.short}</b>${S.name}</span><span class="tile-type">${type==='brand'?'官方品牌词':'品类词（GSC + 755词库）'}</span></div><div class="tile-label">搜索点击量</div><div class="tile-number">${v?fnum(v.clicks):'—'}</div>${deltaHtml(site,type,'clicks')}<div class="tile-other"><span>搜索曝光量</span><strong>${v?fnum(v.impressions):'—'}</strong></div><div class="tile-foot"><span>${type==='brand'?'GSC Branded · Excel':'GSC API · 755词库匹配'}</span><button type="button" data-nav="${site}">查看明细 ↗</button></div></article>`;}
+function summaryTile(site,type){const r=range(),S=SITES[site],v=stats(r.start,r.end,site,type),kwN=(CATEGORY_DATA[site]&&CATEGORY_DATA[site].totalKeywordCount)||'—';return `<article class="card summary-tile"><div class="tile-header"><span class="tile-brand"><b class="square ${site}">${S.short}</b>${S.name}</span><span class="tile-type">${type==='brand'?'官方品牌词':`品类词（GSC + ${kwN}词库）`}</span></div><div class="tile-label">搜索点击量</div><div class="tile-number">${v?fnum(v.clicks):'—'}</div>${deltaHtml(site,type,'clicks')}<div class="tile-other"><span>搜索曝光量</span><strong>${v?fnum(v.impressions):'—'}</strong></div><div class="tile-foot"><span>${type==='brand'?'GSC Branded · Excel':`GSC API · ${kwN}词库匹配`}</span><button type="button" data-nav="${site}">查看明细 ↗</button></div></article>`;}
 function typePanel(site,type){const r=range(),v=stats(r.start,r.end,site,type);const m=k=>`<div class="gm gm-${k}"><div class="gm-label">${LABEL[k]}</div><div class="gm-num">${v?fnum(v[k]):'—'}</div>${deltaHtml(site,type,k)}</div>`;return `<button type="button" class="tp ${type}" data-open-detail="${site}|${type}" aria-label="查看${SITES[site].name}${type==='brand'?'品牌词':'品类词'}明细"><span class="tp-head"><span class="tp-tag">${type==='brand'?'品牌词':'品类词'}</span></span><span class="gm-row">${m('clicks')}${m('impressions')}</span><span class="tp-meta">平均点击率 ${v?fpct(v.ctr):'—'}　·　平均排名 ${v?fpos(v.position):'—'}</span></button>`}
 function siteCard(site){const S=SITES[site];return `<article class="card site-card ${site}"><div class="sc-head"><span class="sc-brand"><b class="square ${site}">${S.short}</b>${S.name}</span><button type="button" class="btn-primary" data-nav="${site}">查看明细 →</button></div><div class="tp-grid">${typePanel(site,'brand')}${typePanel(site,'category')}</div></article>`}
 function overviewTrendCard(site){const S=SITES[site],type=state.trendType[site],id=site+'12';return `<section class="card trend-card"><header class="trend-card-head"><span class="sc-brand"><b class="square ${site}">${S.short}</b>${S.name}</span><div class="segment-control" role="group" aria-label="${S.name}趋势类型">${[['brand','品牌词'],['category','品类词']].map(([v,t])=>`<button type="button" data-trend-type="${site}|${v}" class="${type===v?'on':''}" aria-pressed="${type===v}">${t}</button>`).join('')}</div></header>${chartCard(id,type,site,'all',true)}</section>`}
@@ -185,7 +220,7 @@ function detail(site){const S=SITES[site],type=state.detailType[site],g=state.gr
  // 品牌词截止日落后于全局截止日时提示（不新增模块，仅在品牌面板内显示）
  const brandM=brandMeta[site];
  const brandLagWarn=(type==='brand'&&brandM&&brandM.asOf!=='—'&&brandM.asOf<META.asOf&&state.end>brandM.asOf)?`<div class="explain" style="color:#b17625;margin:.4em 0">品牌词数据截至 ${fdate(brandM.asOf)}，落后于 Dashboard 全局截止日 ${fdate(META.asOf)}。所选区间 ${fdate(addDays(brandM.asOf,1))} 至 ${fdate(state.end)} 无品牌词数据（不会以 0 充数），比较口径按实际观测日计算。</div>`:'';
-const panel=type==='brand'?`<section class="card analysis-block" id="brand-panel"><div class="block-head"><div><h2><span class="type-tag brand">品牌词</span>搜索表现</h2></div><span class="source-pill" title="官方 Branded 分类汇总 · Excel">Excel</span></div>${brandLagWarn}${metricRibbon(site,'brand')}${chartCard(site+'b','brand',site,'all',false)}${dimensionPanel(site,'brand')}</section>`:`<section class="card analysis-block" id="category-panel"><div class="block-head"><div><h2><span class="type-tag category">品类词</span>搜索表现</h2></div><span class="source-pill category" title="GSC可见查询 · 每条Query只归属一个搜索需求组">GSC API</span></div>${catRangeWarn}<div class="group-bar">${groups.map(([v,t])=>`<button type="button" class="group-chip ${g===v?'selected':''}" data-group="${site}|${v}" aria-pressed="${g===v}">${esc(t)}</button>`).join('')}</div>${metricRibbon(site,'category',g)}${chartCard(site+'c','category',site,g,false)}${dimensionPanel(site,'category')}</section>`;return `<div class="detail-intro"><div class="square ${site}">${S.short}</div><div><div class="brand-name">${S.name}</div><div class="brand-note">${S.description}</div></div></div><div class="detail-switch segment-control" role="group" aria-label="分析类型">${[['brand','品牌词'],['category','品类词']].map(([v,t])=>`<button type="button" data-detail-type="${site}|${v}" class="${type===v?'on':''}" aria-pressed="${type===v}">${t}</button>`).join('')}</div>${panel}<div class="foot-note">品牌词与品类词口径不同，不能相加。</div>`;}
+const panel=type==='brand'?`<section class="card analysis-block" id="brand-panel"><div class="block-head"><div><h2><span class="type-tag brand">品牌词</span>搜索表现</h2></div><span class="source-pill" title="官方 Branded 分类汇总 · Excel">Excel</span></div>${brandLagWarn}${metricRibbon(site,'brand')}${chartCard(site+'b','brand',site,'all',false)}${dimensionPanel(site,'brand')}</section>`:`<section class="card analysis-block" id="category-panel"><div class="block-head"><div><h2><span class="type-tag category">品类词</span>搜索表现</h2></div><span class="source-pill category" title="GSC可见查询 · 每条Query只归属一个关键词类型">GSC API</span></div>${catRangeWarn}<div class="group-bar">${groups.map(([v,t])=>`<button type="button" class="group-chip ${g===v?'selected':''}" data-group="${site}|${v}" aria-pressed="${g===v}">${esc(t)}</button>`).join('')}</div>${metricRibbon(site,'category',g)}${chartCard(site+'c','category',site,g,false)}${dimensionPanel(site,'category')}</section>`;return `<div class="detail-intro"><div class="square ${site}">${S.short}</div><div><div class="brand-name">${S.name}</div><div class="brand-note">${S.description}</div></div></div><div class="detail-switch segment-control" role="group" aria-label="分析类型">${[['brand','品牌词'],['category','品类词']].map(([v,t])=>`<button type="button" data-detail-type="${site}|${v}" class="${type===v?'on':''}" aria-pressed="${type===v}">${t}</button>`).join('')}</div>${panel}<div class="foot-note">品牌词与品类词口径不同，不能相加。</div>`;}
 function monthStart(s){return s.slice(0,7)+'-01'}
 function monthEnd(s){const d=toUTC(monthStart(s));return fromUTC(new Date(Date.UTC(d.getUTCFullYear(),d.getUTCMonth()+1,0)))}
 function makeBuckets(start,end,grain){if(start>end)return[];const all=[];for(let d=start;d<=end;){let until=d;if(grain==='week'){
@@ -247,14 +282,33 @@ function demoQueries(site,type){
  if(type==='category'){
   const data=CATEGORY_DATA[site];
   if(!data||!data.queries||!data.queries.length)return[];
-  // 按日期范围过滤：聚合 query 的 firstDate/lastDate 用于窗口判断，
-  // 但更准确的是按区间重新读每日数据。这里采用预聚合（全期），按区间过滤 firstDate<=end && lastDate>=start
-  // 并按 state.groups[site] 过滤组
   const r=range(),g=state.groups[site];
-  return data.queries
+  const wantGroup=g==='all'?null:SITES[site].groups[Number(g)][0];
+  const acc=catRollup(site,r.start,r.end);
+  // 兼容旧缓存：没有 dailyByDate 时退回全期聚合，仅按 firstDate/lastDate 判断是否落在窗口内
+  if(!acc){
+   return data.queries
     .filter(q=>q.firstDate<=r.end&&q.lastDate>=r.start)
-    .filter(q=>g==='all'||q.groupCode===SITES[site].groups[Number(g)][0])
-    .map(q=>({query:q.query,group:q.groupName,clicks:q.clicks,impressions:q.impressions,ctr:q.ctr,position:q.position}));
+    .filter(q=>!wantGroup||q.groupCode===wantGroup)
+    .map(q=>({query:q.query,group:q.groupName,clicks:q.clicks,impressions:q.impressions,ctr:q.ctr,position:q.position,
+      keywordCn:q.keywordCn||'',keywordType:q.keywordType||'',intent:q.intent||'',
+      volume:q.volume===undefined?null:q.volume,gscPosition:q.gscPosition===undefined?null:q.gscPosition,
+      opportunity:q.opportunity||'',landing:q.landing||'',keywordSource:q.keywordSource||''}));
+  }
+  // 按所选区间重新聚合：点击/曝光/CTR/平均排名都只用区间内的数据，
+  // 与顶部 KPI、关键词类型表同口径。区间内没出现过的 Query 不列出。
+  const out=[];
+  data.queries.forEach((q,qi)=>{
+   const a=acc.get(qi);
+   if(!a)return;
+   if(wantGroup&&q.groupCode!==wantGroup)return;
+   out.push({query:q.query,group:q.groupName,clicks:a.clicks,impressions:a.impressions,
+    ctr:a.impressions?a.clicks/a.impressions:0,position:a.impressions?a.weightedPos/a.impressions:null,
+    keywordCn:q.keywordCn||'',keywordType:q.keywordType||'',intent:q.intent||'',
+    volume:q.volume===undefined?null:q.volume,gscPosition:q.gscPosition===undefined?null:q.gscPosition,
+    opportunity:q.opportunity||'',landing:q.landing||'',keywordSource:q.keywordSource||''});
+  });
+  return out;
  }
  // 品牌词（仍是演示）：窗口严格按当前 site 的品牌词 asOf/oldest 计算，
  // 不使用全局 META.queryThrough/queryFrom——避免 JF 与 VJ 在不同日期更新 Excel
@@ -276,13 +330,24 @@ function demoQueries(site,type){
 function filteredQueries(site,type){const q=qstate(site,type);return demoQueries(site,type).filter(v=>{
  if(q.search&&!v.query.toLowerCase().includes(q.search.toLowerCase().trim()))return false;
  for(const [name,min,max] of [['clicks','minClicks','maxClicks'],['impressions','minImpressions','maxImpressions'],['position','minPosition','maxPosition']]){
+  if(q[min]===''&&q[max]==='')continue;
+  if(name==='position'&&v.position==null)return false;  // 区间内无有效排名时，排名筛选一律排除
   if(q[min]!==''&&v[name]<Number(q[min]))return false;if(q[max]!==''&&v[name]>Number(q[max]))return false;
  }return true;
- }).sort((a,b)=>{let c=q.sort==='query'?a.query.localeCompare(b.query):a[q.sort]-b[q.sort];return q.desc?-c:c});}
+ }).sort((a,b)=>{
+  if(q.sort==='query')return q.desc?-a.query.localeCompare(b.query):a.query.localeCompare(b.query);
+  const av=a[q.sort],bv=b[q.sort];
+  const an=av===null||av===undefined,bn=bv===null||bv===undefined;
+  if(an&&bn)return 0;
+  if(an)return 1;   // 空值（如仅 GSC 词无 Semrush 搜索量）恒定排在末尾
+  if(bn)return -1;
+  const c=av-bv;return q.desc?-c:c;
+ });}
 function tablePart(site,type){const q=qstate(site,type),data=filteredQueries(site,type),pages=Math.max(1,Math.ceil(data.length/10));q.page=Math.max(1,Math.min(q.page,pages));if(!data.length)return `<div class="empty">没有符合筛选条件的搜索查询。<br/>可尝试清除搜索词或减少数值限制。</div>`;
- const cols=[['query','搜索查询'],...(type==='category'?[['group','搜索需求组']]:[]),['clicks','点击量'],['impressions','曝光量'],['ctr','CTR'],['position','平均排名']];
+ const cols=[['query','搜索查询'],...(type==='category'?[['group','关键词类型'],['volume','月均搜索量（semrush）']]:[]),['clicks','点击量'],['impressions','曝光量'],['ctr','CTR'],['position','平均排名']];
  const head=cols.map(([id,label])=>`<th ${id==='group'?'':'class="sortable" data-sort="'+site+'|'+type+'|'+id+'"'} ${id==='query'?'style="min-width:230px"':''}>${label}${q.sort===id?(q.desc?' ↓':' ↑'):''}</th>`).join('');
- const body=data.slice((q.page-1)*10,q.page*10).map(v=>`<tr><td class="query-cell">${esc(v.query)}</td>${type==='category'?`<td><span class="group-badge">${esc(v.group)}</span></td>`:''}<td>${fnum(v.clicks)}</td><td>${fnum(v.impressions)}</td><td>${fpct(v.ctr)}</td><td>${fpos(v.position)}</td></tr>`).join('');
+ const tip=v=>type!=='category'?'':` title="${esc(`中文：${v.keywordCn||'—'}　意图：${v.intent||'—'}　机会：${v.opportunity||'—'}　承接页：${v.landing||'—'}　GSC参考排名：${v.gscPosition==null?'—':Number(v.gscPosition).toFixed(1)}　词库：${v.keywordSource||'—'}`)}"`;
+ const body=data.slice((q.page-1)*10,q.page*10).map(v=>`<tr><td class="query-cell"${tip(v)}>${esc(v.query)}${type==='category'&&v.keywordCn?`<div style="font-size:11px;color:#8a93a5;margin-top:2px">${esc(v.keywordCn)}</div>`:''}</td>${type==='category'?`<td><span class="group-badge">${esc(v.group)}</span></td><td style="text-align:right">${v.volume==null?'—':fnum(v.volume)}</td>`:''}<td>${fnum(v.clicks)}</td><td>${fnum(v.impressions)}</td><td>${fpct(v.ctr)}</td><td>${fpos(v.position)}</td></tr>`).join('');
  return `<div class="table-scroll"><table class="data-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table></div><div class="table-footer"><span>共 ${data.length} 条</span><span class="page-actions"><button class="small-btn" data-qpage="${site}|${type}|-1" ${q.page===1?'disabled':''}>上一页</button>${q.page} / ${pages}<button class="small-btn" data-qpage="${site}|${type}|1" ${q.page>=pages?'disabled':''}>下一页</button></span></div>`;
 }
 function queryTab(site,type){const q=qstate(site,type),r=range();
@@ -305,8 +370,8 @@ function queryTab(site,type){const q=qstate(site,type),r=range();
  return `<div class="query-toolbar"><div class="ql"><input class="query-search" data-qsearch="${site}|${type}" aria-label="搜索查询词" placeholder="搜索查询词…" value="${esc(q.search)}"/><button type="button" class="small-btn" data-qfilter="${site}|${type}">☷ 指标筛选</button><button type="button" class="small-btn" data-qreset="${site}|${type}">重置</button></div><button type="button" class="small-btn" data-export="${site}|${type}">↓ 导出CSV</button></div><div class="filter-grid ${q.filterOpen?'show':''}" id="filters-${site}-${type}">${f.map(([id,label])=>`<div><label>${label}</label><input type="number" step="${id.toLowerCase().includes('position')?'.1':'1'}" min="0" data-qfield="${site}|${type}|${id}" value="${esc(q[id])}" placeholder="不限"/></div>`).join('')}</div><div id="qtable-${site}-${type}">${tablePart(site,type)}</div>`;
 }
 function groupTab(site){const r=range(),groupRows=SITES[site].groups.map(([id,label],j)=>{
- const v=stats(r.start,r.end,site,'category',String(j));return `<tr><td><button type="button" class="small-btn" style="border:none;background:transparent;text-align:left;color:#376abe" data-group="${site}|${j}">${id} · ${esc(label)} ↗</button></td><td>${fnum(v?.clicks)}</td><td>${fnum(v?.impressions)}</td><td>${fpct(v?.ctr)}</td><td>${fpos(v?.position)}</td></tr>`;
- }).join('');return `<div class="table-scroll"><table class="data-table"><thead><tr><th>搜索需求组</th><th>点击量</th><th>曝光量</th><th>CTR</th><th>平均排名</th></tr></thead><tbody>${groupRows}</tbody></table></div><div class="table-footer"><span>点击组名筛选品类词</span></div>`;}
+ const v=stats(r.start,r.end,site,'category',String(j));return `<tr><td><button type="button" class="small-btn" style="border:none;background:transparent;text-align:left;color:#376abe" data-group="${site}|${j}">${esc(label)} ↗</button></td><td>${fnum(v?.clicks)}</td><td>${fnum(v?.impressions)}</td><td>${fpct(v?.ctr)}</td><td>${fpos(v?.position)}</td></tr>`;
+ }).join('');return `<div class="table-scroll"><table class="data-table"><thead><tr><th>关键词类型</th><th>点击量</th><th>曝光量</th><th>CTR</th><th>平均排名</th></tr></thead><tbody>${groupRows}</tbody></table></div><div class="table-footer"><span>点击关键词类型筛选品类词</span></div>`;}
 function dayTab(site,type){const key=site+type,r=range();
  if(type==='brand'){
   const raw=brandDayList(site,r.start,r.end);if(!raw.length)return '<div class="empty">该日期范围尚无品牌词每日数据。</div>';
@@ -316,10 +381,19 @@ function dayTab(site,type){const key=site+type,r=range();
  }
  const catRows=categoryRowsForRange(r.start,r.end,site);if(!catRows)return '<div class="empty">该日期范围尚无品类词每日数据。</div>';
  const list=catRows.map(day=>{const g=state.groups[site];const v=g==='all'?{clicks:day.clicks,impressions:day.impressions,position:day.position}:(day.groups&&day.groups[Number(g)]);return{date:day.date,...v,ctr:v&&v.impressions?v.clicks/v.impressions:0}}).reverse();const pages=Math.ceil(list.length/20);const cur=state.dayPage[key]=Math.min(Math.max(1,state.dayPage[key]||1),pages);return `<div class="table-scroll"><table class="data-table"><thead><tr><th>日期（PT）</th><th>点击量</th><th>曝光量</th><th>CTR</th><th>平均排名</th></tr></thead><tbody>${list.slice((cur-1)*20,cur*20).map(v=>`<tr><td class="query-cell">${fdate(v.date)}</td><td>${fnum(v.clicks)}</td><td>${fnum(v.impressions)}</td><td>${fpct(v.ctr)}</td><td>${fpos(v.position)}</td></tr>`).join('')}</tbody></table></div><div class="table-footer"><span>共 ${list.length} 天</span><span class="page-actions"><button type="button" class="small-btn" data-dpage="${key}|-1" ${cur===1?'disabled':''}>上一页</button>${cur} / ${pages}<button type="button" class="small-btn" data-dpage="${key}|1" ${cur>=pages?'disabled':''}>下一页</button></span></div>`;}
-function dimensionPanel(site,type){const key=site+type,tabs=type==='brand'?[['query','搜索查询'],['day','日期']]:[['query','搜索查询'],['group','搜索需求组'],['day','日期']],tab=state.dimension[key]||'query';let content=tab==='query'?queryTab(site,type):tab==='group'?groupTab(site):dayTab(site,type);
- const note=type==='brand'?'辅助品牌Query采用自定义匹配，与官方Branded KPI不要求加总一致。':'品类Query来自GSC API可见查询，按已确认的4个搜索需求组归类。';return `<div class="dimensions"><div class="dimension-tabs" role="tablist" aria-label="明细维度">${tabs.map(([id,label])=>`<button type="button" class="dim-tab ${tab===id?'on':''}" role="tab" aria-selected="${tab===id}" data-dimension="${key}|${id}">${label}</button>`).join('')}</div><div class="dim-body">${content}</div></div>`;}
+function dimensionPanel(site,type){const key=site+type,tabs=type==='brand'?[['query','搜索查询'],['day','日期']]:[['query','搜索查询'],['group','关键词类型'],['day','日期']],tab=state.dimension[key]||'query';let content=tab==='query'?queryTab(site,type):tab==='group'?groupTab(site):dayTab(site,type);
+ const grpN=(SITES[site].groups||[]).length;
+ const note=type==='brand'?'辅助品牌Query采用自定义匹配，与官方Branded KPI不要求加总一致。':`品类Query来自GSC API可见查询，按词库的 ${grpN} 类「关键词类型」归类，每条Query只归属一类；明细表的点击/曝光/CTR/排名均按当前所选日期区间重新计算。`;return `<div class="dimensions"><div class="dimension-tabs" role="tablist" aria-label="明细维度">${tabs.map(([id,label])=>`<button type="button" class="dim-tab ${tab===id?'on':''}" role="tab" aria-selected="${tab===id}" data-dimension="${key}|${id}">${label}</button>`).join('')}</div><div class="dim-body">${content}</div></div>`;}
 function exportCSV(site,type){const data=filteredQueries(site,type);if(!data.length){notify('当前没有可导出的Query');return}
- const rows=[['Query','Group','Clicks','Impressions','CTR','Average Position'],...data.map(v=>[v.query,v.group,v.clicks,v.impressions,v.ctr.toFixed(5),v.position.toFixed(2)])];const safe=v=>{let s=String(v);if(/^[=+\-@\t\r]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'};
+ const isCat=type==='category';
+ // 品类词导出带上词库全部业务字段（中文对应/关键词类型/意图/月均搜索量/GSC参考排名/机会标记/自然承接页/词库来源）
+ const header=isCat
+  ?['Query','中文对应','关键词类型','意图','月均搜索量(Semrush)','GSC参考排名','机会标记','自然承接页','词库来源','Clicks','Impressions','CTR','Average Position']
+  :['Query','Group','Clicks','Impressions','CTR','Average Position'];
+ const nullish=v=>v===null||v===undefined?'':v;
+ const rows=[header,...data.map(v=>isCat
+  ?[v.query,v.keywordCn,v.group,v.intent,nullish(v.volume),nullish(v.gscPosition),v.opportunity,v.landing,v.keywordSource,v.clicks,v.impressions,v.ctr.toFixed(5),v.position.toFixed(2)]
+  :[v.query,v.group,v.clicks,v.impressions,v.ctr.toFixed(5),v.position.toFixed(2)])];const safe=v=>{let s=String(v);if(/^[=+\-@\t\r]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'};
  const csv='\ufeff'+rows.map(row=>row.map(safe).join(',')).join('\r\n'),blob=new Blob([csv],{type:'text/csv;charset=utf-8'}),url=URL.createObjectURL(blob),anchor=document.createElement('a');anchor.href=url;anchor.download=`${site}_${type}_${state.start}_${state.end}.csv`;document.body.appendChild(anchor);anchor.click();anchor.remove();setTimeout(()=>URL.revokeObjectURL(url),500);notify(`已导出 ${type==='brand'?'品牌词':'品类词'} Query CSV`);}
 function redrawTable(site,type){const node=document.getElementById(`qtable-${site}-${type}`);if(node)node.innerHTML=tablePart(site,type)}
 function render(resetScroll=false){const y=window.scrollY;Object.keys(chartStore).forEach(k=>delete chartStore[k]);$('#view').innerHTML=shell()+(state.page==='overview'?overview():detail(state.page));document.querySelectorAll('.nav-btn[data-nav]').forEach(el=>el.classList.toggle('on',el.dataset.nav===state.page));if(resetScroll)window.scrollTo(0,0);else window.scrollTo(0,y)}
