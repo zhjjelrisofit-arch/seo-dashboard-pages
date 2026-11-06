@@ -1,19 +1,19 @@
 {
   "brand": "JF",
   "name": "JelriSoFit",
-  "asOf": "2026-11-02",
+  "asOf": "2026-11-03",
   "oldest": "2025-10-07",
-  "dateSpan": 392,
-  "totalOriginalQueries": 565815,
-  "totalMatchedQueryDays": 146641,
+  "dateSpan": 393,
+  "totalOriginalQueries": 566755,
+  "totalMatchedQueryDays": 146908,
   "uniqueKeywordHit": 427,
   "totalKeywordCount": 433,
   "totals": {
-    "clicks": 4532,
-    "impressions": 727585,
-    "ctr": 0.006228825498051774,
-    "position": 8.170571136018472,
-    "queryCount": 3233
+    "clicks": 4540,
+    "impressions": 728393,
+    "ctr": 0.006232898998205639,
+    "position": 8.172238063792486,
+    "queryCount": 3235
   },
   "groupMeta": [
     {
@@ -18457,6 +18457,53 @@
           "matchedQueries": 20
         }
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "clicks": 8,
+      "impressions": 808,
+      "ctr": 0.009900990099009901,
+      "position": 9.673267326732674,
+      "matchedQueries": 267,
+      "originalQueries": 940,
+      "groups": [
+        {
+          "groupCode": "JF-01",
+          "groupName": "通用医疗制服",
+          "clicks": 2,
+          "impressions": 248,
+          "ctr": 0.008064516129032258,
+          "position": 10.826612903225806,
+          "matchedQueries": 94
+        },
+        {
+          "groupCode": "JF-02",
+          "groupName": "职业与专业人群",
+          "clicks": 3,
+          "impressions": 161,
+          "ctr": 0.018633540372670808,
+          "position": 7.291925465838509,
+          "matchedQueries": 71
+        },
+        {
+          "groupCode": "JF-03",
+          "groupName": "款式与产品属性",
+          "clicks": 1,
+          "impressions": 352,
+          "ctr": 0.002840909090909091,
+          "position": 10.170454545454545,
+          "matchedQueries": 83
+        },
+        {
+          "groupCode": "JF-04",
+          "groupName": "选购与比较",
+          "clicks": 2,
+          "impressions": 47,
+          "ctr": 0.0425531914893617,
+          "position": 8.02127659574468,
+          "matchedQueries": 19
+        }
+      ]
     }
   ],
   "queries": [
@@ -18469,13 +18516,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 767,
-      "impressions": 70337,
-      "weightedPos": 575767,
-      "days": 383,
+      "impressions": 70343,
+      "weightedPos": 575854,
+      "days": 384,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.010904644781551672,
-      "position": 8.18583391387179
+      "lastDate": "2026-11-03",
+      "ctr": 0.010903714655331732,
+      "position": 8.186372489089177
     },
     {
       "query": "quirurgicos mujer",
@@ -18486,13 +18533,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 205,
-      "impressions": 14296,
-      "weightedPos": 90076,
-      "days": 380,
+      "impressions": 14300,
+      "weightedPos": 90115,
+      "days": 381,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.014339675433687745,
-      "position": 6.300783435926133
+      "lastDate": "2026-11-03",
+      "ctr": 0.014335664335664336,
+      "position": 6.3017482517482515
     },
     {
       "query": "uniforme quirurgico",
@@ -18503,13 +18550,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 156,
-      "impressions": 43447,
-      "weightedPos": 382898,
-      "days": 380,
+      "impressions": 43451,
+      "weightedPos": 382954,
+      "days": 381,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003590581628190669,
-      "position": 8.812990540198403
+      "lastDate": "2026-11-03",
+      "ctr": 0.0035902510874318196,
+      "position": 8.813468044463878
     },
     {
       "query": "quirurgicos",
@@ -18520,13 +18567,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 148,
-      "impressions": 20402,
-      "weightedPos": 151112,
-      "days": 373,
+      "impressions": 20422,
+      "weightedPos": 151339,
+      "days": 374,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.007254190765611215,
-      "position": 7.4067248308989315
+      "lastDate": "2026-11-03",
+      "ctr": 0.007247086475369699,
+      "position": 7.410586622270101
     },
     {
       "query": "scrubs",
@@ -18536,14 +18583,14 @@
       "keyword": "scrubs",
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
-      "clicks": 127,
-      "impressions": 31670,
-      "weightedPos": 249071,
-      "days": 392,
+      "clicks": 128,
+      "impressions": 31684,
+      "weightedPos": 249326,
+      "days": 393,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004010104199557941,
-      "position": 7.864572150299969
+      "lastDate": "2026-11-03",
+      "ctr": 0.004039893952783739,
+      "position": 7.869145309935615
     },
     {
       "query": "uniformes quirurgicos mujer",
@@ -18554,13 +18601,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 118,
-      "impressions": 9909,
-      "weightedPos": 80612,
-      "days": 388,
+      "impressions": 9943,
+      "weightedPos": 81012,
+      "days": 389,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.011908366131799374,
-      "position": 8.135230598445858
+      "lastDate": "2026-11-03",
+      "ctr": 0.011867645579804888,
+      "position": 8.147641556874182
     },
     {
       "query": "scrubs medicos",
@@ -18571,13 +18618,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 112,
-      "impressions": 14008,
-      "weightedPos": 117645,
-      "days": 381,
+      "impressions": 14012,
+      "weightedPos": 117693,
+      "days": 382,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00799543118218161,
-      "position": 8.398415191319247
+      "lastDate": "2026-11-03",
+      "ctr": 0.00799314872966029,
+      "position": 8.399443334284898
     },
     {
       "query": "uniforme quirurgico mujer",
@@ -18587,14 +18634,14 @@
       "keyword": "uniforme quirúrgico mujer",
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
-      "clicks": 76,
-      "impressions": 18289,
-      "weightedPos": 171237,
-      "days": 392,
+      "clicks": 77,
+      "impressions": 18347,
+      "weightedPos": 171897,
+      "days": 393,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0041555033079993435,
-      "position": 9.362841051998469
+      "lastDate": "2026-11-03",
+      "ctr": 0.004196871423120946,
+      "position": 9.36921567558729
     },
     {
       "query": "pijamas quirurgicas",
@@ -18605,13 +18652,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 72,
-      "impressions": 6914,
-      "weightedPos": 61932,
-      "days": 324,
+      "impressions": 6915,
+      "weightedPos": 61950,
+      "days": 325,
       "firstDate": "2025-10-19",
-      "lastDate": "2026-11-02",
-      "ctr": 0.01041365345675441,
-      "position": 8.957477581718253
+      "lastDate": "2026-11-03",
+      "ctr": 0.010412147505422993,
+      "position": 8.958785249457701
     },
     {
       "query": "quirurgico",
@@ -18622,13 +18669,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 57,
-      "impressions": 28511,
-      "weightedPos": 297087,
-      "days": 332,
+      "impressions": 28517,
+      "weightedPos": 297165,
+      "days": 333,
       "firstDate": "2025-10-20",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0019992283679983163,
-      "position": 10.42008347655291
+      "lastDate": "2026-11-03",
+      "ctr": 0.0019988077287232176,
+      "position": 10.420626293088333
     },
     {
       "query": "pijama quirurgica",
@@ -18639,13 +18686,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 54,
-      "impressions": 13159,
-      "weightedPos": 106264,
-      "days": 379,
+      "impressions": 13164,
+      "weightedPos": 106302,
+      "days": 380,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004103655292955392,
-      "position": 8.075385667603921
+      "lastDate": "2026-11-03",
+      "ctr": 0.004102096627164996,
+      "position": 8.075205104831358
     },
     {
       "query": "uniformes medicos",
@@ -18656,13 +18703,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 52,
-      "impressions": 5717,
-      "weightedPos": 73873,
-      "days": 363,
+      "impressions": 5720,
+      "weightedPos": 73974,
+      "days": 364,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0090956795522127,
-      "position": 12.921637222319399
+      "lastDate": "2026-11-03",
+      "ctr": 0.00909090909090909,
+      "position": 12.932517482517483
     },
     {
       "query": "quirurgicos hombre",
@@ -18673,13 +18720,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 44,
-      "impressions": 4333,
-      "weightedPos": 37506,
-      "days": 385,
+      "impressions": 4337,
+      "weightedPos": 37539,
+      "days": 386,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.010154627279021463,
-      "position": 8.655896607431341
+      "lastDate": "2026-11-03",
+      "ctr": 0.010145261701637076,
+      "position": 8.655522250403505
     },
     {
       "query": "uniformes quirúrgicos mujer",
@@ -18690,13 +18737,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 44,
-      "impressions": 3369,
-      "weightedPos": 30008,
-      "days": 370,
+      "impressions": 3380,
+      "weightedPos": 30133,
+      "days": 371,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.013060255268625705,
-      "position": 8.907094093202732
+      "lastDate": "2026-11-03",
+      "ctr": 0.01301775147928994,
+      "position": 8.91508875739645
     },
     {
       "query": "uniformes quirurgicos jelrisofit",
@@ -18724,13 +18771,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 42,
-      "impressions": 3554,
-      "weightedPos": 34831,
-      "days": 386,
+      "impressions": 3557,
+      "weightedPos": 34869,
+      "days": 387,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.011817670230725942,
-      "position": 9.800506471581317
+      "lastDate": "2026-11-03",
+      "ctr": 0.011807703120607253,
+      "position": 9.802923812201293
     },
     {
       "query": "uniforme quirurgico hombre",
@@ -18741,13 +18788,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 37,
-      "impressions": 6613,
-      "weightedPos": 66372,
-      "days": 385,
+      "impressions": 6624,
+      "weightedPos": 66504,
+      "days": 386,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005595040072584304,
-      "position": 10.036594586420687
+      "lastDate": "2026-11-03",
+      "ctr": 0.005585748792270531,
+      "position": 10.039855072463768
     },
     {
       "query": "uniforme quirúrgico mujer",
@@ -18758,13 +18805,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 36,
-      "impressions": 8915,
-      "weightedPos": 84748,
-      "days": 388,
+      "impressions": 8938,
+      "weightedPos": 85021,
+      "days": 389,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004038137969713965,
-      "position": 9.50622546270331
+      "lastDate": "2026-11-03",
+      "ctr": 0.004027746699485343,
+      "position": 9.512307003803983
     },
     {
       "query": "uniformes quirúrgicos",
@@ -18775,13 +18822,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 34,
-      "impressions": 3301,
-      "weightedPos": 30026,
-      "days": 318,
+      "impressions": 3303,
+      "weightedPos": 30051,
+      "days": 319,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-01",
-      "ctr": 0.010299909118448955,
-      "position": 9.096031505604362
+      "lastDate": "2026-11-03",
+      "ctr": 0.010293672419013019,
+      "position": 9.098092643051771
     },
     {
       "query": "quirúrgico mujer",
@@ -18792,13 +18839,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 32,
-      "impressions": 3705,
-      "weightedPos": 26920,
-      "days": 320,
+      "impressions": 3709,
+      "weightedPos": 26969,
+      "days": 321,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-30",
-      "ctr": 0.00863697705802969,
-      "position": 7.265856950067477
+      "lastDate": "2026-11-03",
+      "ctr": 0.00862766244270693,
+      "position": 7.271232138042599
     },
     {
       "query": "scrubs de algodon",
@@ -18809,13 +18856,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 32,
-      "impressions": 370,
-      "weightedPos": 2689,
-      "days": 192,
+      "impressions": 372,
+      "weightedPos": 2713,
+      "days": 193,
       "firstDate": "2025-11-03",
-      "lastDate": "2026-11-02",
-      "ctr": 0.08648648648648649,
-      "position": 7.267567567567568
+      "lastDate": "2026-11-03",
+      "ctr": 0.08602150537634409,
+      "position": 7.293010752688172
     },
     {
       "query": "que significa el uniforme negro en medicina",
@@ -18826,13 +18873,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 29,
-      "impressions": 529,
-      "weightedPos": 964,
-      "days": 277,
+      "impressions": 530,
+      "weightedPos": 965,
+      "days": 278,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-01",
-      "ctr": 0.054820415879017016,
-      "position": 1.8223062381852553
+      "lastDate": "2026-11-03",
+      "ctr": 0.05471698113207547,
+      "position": 1.820754716981132
     },
     {
       "query": "uniforme negro en salud",
@@ -18843,13 +18890,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 28,
-      "impressions": 979,
-      "weightedPos": 2478,
-      "days": 308,
+      "impressions": 981,
+      "weightedPos": 2490,
+      "days": 309,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.028600612870275793,
-      "position": 2.5311542390194077
+      "lastDate": "2026-11-03",
+      "ctr": 0.02854230377166157,
+      "position": 2.53822629969419
     },
     {
       "query": "jelrisofit uniformes quirurgicos",
@@ -18877,13 +18924,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 27,
-      "impressions": 5128,
-      "weightedPos": 54748,
-      "days": 371,
+      "impressions": 5130,
+      "weightedPos": 54776,
+      "days": 372,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-10-31",
-      "ctr": 0.005265210608424337,
-      "position": 10.67628705148206
+      "lastDate": "2026-11-03",
+      "ctr": 0.005263157894736842,
+      "position": 10.677582846003899
     },
     {
       "query": "mejores marcas de scrubs",
@@ -18911,13 +18958,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 24,
-      "impressions": 7028,
-      "weightedPos": 58674,
-      "days": 378,
+      "impressions": 7034,
+      "weightedPos": 58718,
+      "days": 379,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003414911781445646,
-      "position": 8.348605577689243
+      "lastDate": "2026-11-03",
+      "ctr": 0.0034119988626670457,
+      "position": 8.347739550753483
     },
     {
       "query": "scrub",
@@ -18928,13 +18975,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 24,
-      "impressions": 30328,
-      "weightedPos": 148820,
-      "days": 357,
+      "impressions": 30332,
+      "weightedPos": 148876,
+      "days": 358,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0007913479293062516,
-      "position": 4.907016618306516
+      "lastDate": "2026-11-03",
+      "ctr": 0.0007912435711459844,
+      "position": 4.908215745747066
     },
     {
       "query": "marcas de uniformes medicos",
@@ -18945,13 +18992,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 24,
-      "impressions": 2695,
-      "weightedPos": 17776,
-      "days": 369,
+      "impressions": 2701,
+      "weightedPos": 17838,
+      "days": 370,
       "firstDate": "2025-10-25",
-      "lastDate": "2026-11-02",
-      "ctr": 0.008905380333951763,
-      "position": 6.595918367346939
+      "lastDate": "2026-11-03",
+      "ctr": 0.008885597926693817,
+      "position": 6.60422065901518
     },
     {
       "query": "quirúrgicos mujer",
@@ -18962,13 +19009,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 23,
-      "impressions": 1981,
-      "weightedPos": 13751,
-      "days": 331,
+      "impressions": 1986,
+      "weightedPos": 13811,
+      "days": 332,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-31",
-      "ctr": 0.011610297829379102,
-      "position": 6.941443715295305
+      "lastDate": "2026-11-03",
+      "ctr": 0.011581067472306143,
+      "position": 6.954179254783484
     },
     {
       "query": "trajes quirurgicos",
@@ -18979,13 +19026,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 23,
-      "impressions": 4375,
-      "weightedPos": 38613,
-      "days": 374,
+      "impressions": 4379,
+      "weightedPos": 38649,
+      "days": 375,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005257142857142857,
-      "position": 8.825828571428572
+      "lastDate": "2026-11-03",
+      "ctr": 0.005252340717058689,
+      "position": 8.825987668417447
     },
     {
       "query": "tela para uniformes medicos",
@@ -19030,13 +19077,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 21,
-      "impressions": 10739,
-      "weightedPos": 98041,
-      "days": 384,
+      "impressions": 10744,
+      "weightedPos": 98106,
+      "days": 385,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0019554893379271814,
-      "position": 9.1294347704628
+      "lastDate": "2026-11-03",
+      "ctr": 0.00195457930007446,
+      "position": 9.131236038719285
     },
     {
       "query": "telas para uniformes medicos",
@@ -19064,13 +19111,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 20,
-      "impressions": 568,
-      "weightedPos": 1905,
-      "days": 274,
+      "impressions": 570,
+      "weightedPos": 1910,
+      "days": 275,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-11-02",
-      "ctr": 0.035211267605633804,
-      "position": 3.3538732394366195
+      "lastDate": "2026-11-03",
+      "ctr": 0.03508771929824561,
+      "position": 3.3508771929824563
     },
     {
       "query": "como se llaman los uniformes medicos",
@@ -19081,13 +19128,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 19,
-      "impressions": 1192,
-      "weightedPos": 3142,
-      "days": 339,
+      "impressions": 1194,
+      "weightedPos": 3147,
+      "days": 340,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-11-02",
-      "ctr": 0.015939597315436243,
-      "position": 2.6359060402684564
+      "lastDate": "2026-11-03",
+      "ctr": 0.015912897822445562,
+      "position": 2.635678391959799
     },
     {
       "query": "scrubs mexico",
@@ -19098,13 +19145,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 18,
-      "impressions": 493,
-      "weightedPos": 4674,
-      "days": 231,
+      "impressions": 497,
+      "weightedPos": 4695,
+      "days": 232,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.036511156186612576,
-      "position": 9.480730223123732
+      "lastDate": "2026-11-03",
+      "ctr": 0.03621730382293763,
+      "position": 9.446680080482897
     },
     {
       "query": "pijamas quirurgicas mujer",
@@ -19115,13 +19162,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 18,
-      "impressions": 2504,
-      "weightedPos": 30549,
-      "days": 374,
+      "impressions": 2506,
+      "weightedPos": 30595,
+      "days": 375,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00718849840255591,
-      "position": 12.200079872204473
+      "lastDate": "2026-11-03",
+      "ctr": 0.007182761372705506,
+      "position": 12.208699122106943
     },
     {
       "query": "tipos de ropa quirúrgica",
@@ -19166,13 +19213,30 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 16,
-      "impressions": 498,
-      "weightedPos": 977,
-      "days": 250,
+      "impressions": 499,
+      "weightedPos": 978,
+      "days": 251,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0321285140562249,
-      "position": 1.961847389558233
+      "lastDate": "2026-11-03",
+      "ctr": 0.03206412825651302,
+      "position": 1.9599198396793587
+    },
+    {
+      "query": "mejores marcas de uniformes quirúrgicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较",
+      "kwId": "JF-0085",
+      "keyword": "mejores marcas de uniformes quirúrgicos",
+      "matchLevel": 0,
+      "matchLevelName": "精确匹配",
+      "clicks": 15,
+      "impressions": 887,
+      "weightedPos": 4599,
+      "days": 319,
+      "firstDate": "2025-10-11",
+      "lastDate": "2026-11-03",
+      "ctr": 0.016910935738444193,
+      "position": 5.18489289740699
     },
     {
       "query": "quirúrgicos",
@@ -19183,30 +19247,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 14,
-      "impressions": 3832,
-      "weightedPos": 34522,
-      "days": 325,
+      "impressions": 3836,
+      "weightedPos": 34574,
+      "days": 326,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-01",
-      "ctr": 0.0036534446764091857,
-      "position": 9.008872651356993
-    },
-    {
-      "query": "mejores marcas de uniformes quirúrgicos",
-      "groupCode": "JF-04",
-      "groupName": "选购与比较",
-      "kwId": "JF-0085",
-      "keyword": "mejores marcas de uniformes quirúrgicos",
-      "matchLevel": 0,
-      "matchLevelName": "精确匹配",
-      "clicks": 14,
-      "impressions": 880,
-      "weightedPos": 4582,
-      "days": 318,
-      "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.015909090909090907,
-      "position": 5.206818181818182
+      "lastDate": "2026-11-03",
+      "ctr": 0.0036496350364963502,
+      "position": 9.01303441084463
     },
     {
       "query": "uniforme negro en medicina",
@@ -19217,13 +19264,30 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 14,
-      "impressions": 544,
-      "weightedPos": 1056,
-      "days": 269,
+      "impressions": 545,
+      "weightedPos": 1060,
+      "days": 270,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-10-31",
-      "ctr": 0.025735294117647058,
-      "position": 1.9411764705882353
+      "lastDate": "2026-11-03",
+      "ctr": 0.025688073394495414,
+      "position": 1.944954128440367
+    },
+    {
+      "query": "mejores marcas de scrubs medicos",
+      "groupCode": "JF-04",
+      "groupName": "选购与比较",
+      "kwId": "JF-0194",
+      "keyword": "mejores marcas de scrubs medicos",
+      "matchLevel": 0,
+      "matchLevelName": "精确匹配",
+      "clicks": 14,
+      "impressions": 300,
+      "weightedPos": 668,
+      "days": 171,
+      "firstDate": "2026-01-11",
+      "lastDate": "2026-11-03",
+      "ctr": 0.04666666666666667,
+      "position": 2.2266666666666666
     },
     {
       "query": "tela para uniforme quirurgico",
@@ -19251,13 +19315,30 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 13,
-      "impressions": 5121,
-      "weightedPos": 50079,
-      "days": 363,
+      "impressions": 5140,
+      "weightedPos": 50302,
+      "days": 364,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0025385666861941028,
-      "position": 9.779144698301113
+      "lastDate": "2026-11-03",
+      "ctr": 0.002529182879377432,
+      "position": 9.7863813229572
+    },
+    {
+      "query": "nombre de telas para uniformes quirúrgicos",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服",
+      "kwId": "JF-0031",
+      "keyword": "uniformes quirúrgicos",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 13,
+      "impressions": 422,
+      "weightedPos": 1960,
+      "days": 242,
+      "firstDate": "2025-10-08",
+      "lastDate": "2026-11-03",
+      "ctr": 0.030805687203791468,
+      "position": 4.644549763033176
     },
     {
       "query": "uniformes quirúrgicos mujer modernos",
@@ -19268,13 +19349,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 13,
-      "impressions": 1000,
-      "weightedPos": 8929,
-      "days": 285,
+      "impressions": 1002,
+      "weightedPos": 8955,
+      "days": 286,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-11-02",
-      "ctr": 0.013,
-      "position": 8.929
+      "lastDate": "2026-11-03",
+      "ctr": 0.012974051896207584,
+      "position": 8.937125748502995
     },
     {
       "query": "tela para uniforme de enfermera",
@@ -19285,13 +19366,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 13,
-      "impressions": 779,
-      "weightedPos": 3572,
-      "days": 304,
+      "impressions": 780,
+      "weightedPos": 3583,
+      "days": 305,
       "firstDate": "2025-10-20",
-      "lastDate": "2026-11-02",
-      "ctr": 0.01668806161745828,
-      "position": 4.585365853658536
+      "lastDate": "2026-11-03",
+      "ctr": 0.016666666666666666,
+      "position": 4.593589743589743
     },
     {
       "query": "ropa de medico como se llama",
@@ -19302,13 +19383,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 13,
-      "impressions": 801,
-      "weightedPos": 1975,
-      "days": 310,
+      "impressions": 802,
+      "weightedPos": 1979,
+      "days": 311,
       "firstDate": "2025-10-29",
-      "lastDate": "2026-11-01",
-      "ctr": 0.016229712858926344,
-      "position": 2.4656679151061174
+      "lastDate": "2026-11-03",
+      "ctr": 0.016209476309226933,
+      "position": 2.4675810473815463
     },
     {
       "query": "uniforme de psicologia",
@@ -19319,47 +19400,30 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 13,
-      "impressions": 7722,
-      "weightedPos": 56332,
-      "days": 364,
+      "impressions": 7736,
+      "weightedPos": 56434,
+      "days": 365,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0016835016835016834,
-      "position": 7.295001295001295
+      "lastDate": "2026-11-03",
+      "ctr": 0.0016804550155118925,
+      "position": 7.294984488107549
     },
     {
-      "query": "mejores marcas de scrubs medicos",
-      "groupCode": "JF-04",
-      "groupName": "选购与比较",
-      "kwId": "JF-0194",
-      "keyword": "mejores marcas de scrubs medicos",
-      "matchLevel": 0,
-      "matchLevelName": "精确匹配",
-      "clicks": 13,
-      "impressions": 298,
-      "weightedPos": 665,
-      "days": 170,
-      "firstDate": "2026-01-11",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0436241610738255,
-      "position": 2.2315436241610738
-    },
-    {
-      "query": "nombre de telas para uniformes quirúrgicos",
-      "groupCode": "JF-01",
-      "groupName": "通用医疗制服",
-      "kwId": "JF-0031",
-      "keyword": "uniformes quirúrgicos",
+      "query": "como se llama el uniforme de enfermera",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群",
+      "kwId": "JF-0231",
+      "keyword": "uniforme de enfermera",
       "matchLevel": 4,
       "matchLevelName": "完整词组",
-      "clicks": 12,
-      "impressions": 420,
-      "weightedPos": 1948,
-      "days": 241,
-      "firstDate": "2025-10-08",
-      "lastDate": "2026-10-31",
-      "ctr": 0.02857142857142857,
-      "position": 4.6380952380952385
+      "clicks": 13,
+      "impressions": 1800,
+      "weightedPos": 7991,
+      "days": 310,
+      "firstDate": "2025-11-21",
+      "lastDate": "2026-11-03",
+      "ctr": 0.007222222222222222,
+      "position": 4.439444444444445
     },
     {
       "query": "doctor uniform color meaning",
@@ -19394,23 +19458,6 @@
       "lastDate": "2026-11-02",
       "ctr": 0.0379746835443038,
       "position": 4.310126582278481
-    },
-    {
-      "query": "como se llama el uniforme de enfermera",
-      "groupCode": "JF-02",
-      "groupName": "职业与专业人群",
-      "kwId": "JF-0231",
-      "keyword": "uniforme de enfermera",
-      "matchLevel": 4,
-      "matchLevelName": "完整词组",
-      "clicks": 12,
-      "impressions": 1789,
-      "weightedPos": 7956,
-      "days": 309,
-      "firstDate": "2025-11-21",
-      "lastDate": "2026-11-02",
-      "ctr": 0.006707657909446618,
-      "position": 4.447177193963108
     },
     {
       "query": "uniformes medicos mexico",
@@ -19455,13 +19502,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 11,
-      "impressions": 3145,
-      "weightedPos": 18062,
-      "days": 363,
+      "impressions": 3151,
+      "weightedPos": 18110,
+      "days": 364,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0034976152623211448,
-      "position": 5.74308426073132
+      "lastDate": "2026-11-03",
+      "ctr": 0.003490955252300857,
+      "position": 5.747381783560774
     },
     {
       "query": "colores de uniformes medicos",
@@ -19472,13 +19519,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 10,
-      "impressions": 1535,
-      "weightedPos": 7298,
-      "days": 369,
+      "impressions": 1536,
+      "weightedPos": 7306,
+      "days": 370,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.006514657980456026,
-      "position": 4.754397394136808
+      "lastDate": "2026-11-03",
+      "ctr": 0.006510416666666667,
+      "position": 4.756510416666667
     },
     {
       "query": "conjunto quirurgico mujer",
@@ -19489,13 +19536,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 1266,
-      "weightedPos": 10047,
-      "days": 319,
+      "impressions": 1268,
+      "weightedPos": 10067,
+      "days": 320,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.007898894154818325,
-      "position": 7.936018957345971
+      "lastDate": "2026-11-03",
+      "ctr": 0.007886435331230283,
+      "position": 7.9392744479495265
     },
     {
       "query": "traje quirurgico hombre",
@@ -19506,13 +19553,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 2474,
-      "weightedPos": 26071,
-      "days": 340,
+      "impressions": 2475,
+      "weightedPos": 26084,
+      "days": 341,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004042037186742118,
-      "position": 10.537995149555377
+      "lastDate": "2026-11-03",
+      "ctr": 0.00404040404040404,
+      "position": 10.538989898989898
     },
     {
       "query": "cual es la mejor marca de uniformes quirurgicos",
@@ -19523,13 +19570,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 319,
-      "weightedPos": 1180,
-      "days": 191,
+      "impressions": 320,
+      "weightedPos": 1185,
+      "days": 192,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.03134796238244514,
-      "position": 3.699059561128527
+      "lastDate": "2026-11-03",
+      "ctr": 0.03125,
+      "position": 3.703125
     },
     {
       "query": "trajes quirurgicos mujer",
@@ -19540,13 +19587,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 2351,
-      "weightedPos": 21630,
-      "days": 333,
+      "impressions": 2361,
+      "weightedPos": 21749,
+      "days": 334,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004253509145044662,
-      "position": 9.200340280731604
+      "lastDate": "2026-11-03",
+      "ctr": 0.004235493434985175,
+      "position": 9.211774671749259
     },
     {
       "query": "marcas de scrubs",
@@ -19557,13 +19604,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 10,
-      "impressions": 1612,
-      "weightedPos": 12003,
-      "days": 363,
+      "impressions": 1613,
+      "weightedPos": 12010,
+      "days": 364,
       "firstDate": "2025-10-20",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00620347394540943,
-      "position": 7.446029776674938
+      "lastDate": "2026-11-03",
+      "ctr": 0.006199628022318661,
+      "position": 7.445753254804711
     },
     {
       "query": "color de uniforme de psicología",
@@ -19608,13 +19655,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 9,
-      "impressions": 702,
-      "weightedPos": 6125,
-      "days": 282,
+      "impressions": 704,
+      "weightedPos": 6140,
+      "days": 283,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-01",
-      "ctr": 0.01282051282051282,
-      "position": 8.725071225071225
+      "lastDate": "2026-11-03",
+      "ctr": 0.01278409090909091,
+      "position": 8.721590909090908
     },
     {
       "query": "uniformes",
@@ -19642,13 +19689,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 9,
-      "impressions": 1050,
-      "weightedPos": 14600,
-      "days": 302,
+      "impressions": 1052,
+      "weightedPos": 14621,
+      "days": 303,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.008571428571428572,
-      "position": 13.904761904761905
+      "lastDate": "2026-11-03",
+      "ctr": 0.008555133079847909,
+      "position": 13.89828897338403
     },
     {
       "query": "uniformes clinicos",
@@ -19727,13 +19774,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 9,
-      "impressions": 435,
-      "weightedPos": 984,
-      "days": 240,
+      "impressions": 438,
+      "weightedPos": 996,
+      "days": 241,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-11-02",
-      "ctr": 0.020689655172413793,
-      "position": 2.2620689655172415
+      "lastDate": "2026-11-03",
+      "ctr": 0.02054794520547945,
+      "position": 2.2739726027397262
     },
     {
       "query": "uniforme de psicólogo clínico",
@@ -19744,13 +19791,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 9,
-      "impressions": 632,
-      "weightedPos": 2841,
-      "days": 282,
+      "impressions": 633,
+      "weightedPos": 2850,
+      "days": 283,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.014240506329113924,
-      "position": 4.495253164556962
+      "lastDate": "2026-11-03",
+      "ctr": 0.014218009478672985,
+      "position": 4.502369668246446
     },
     {
       "query": "traje quirúrgico mujer",
@@ -19761,13 +19808,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 8,
-      "impressions": 2026,
-      "weightedPos": 19259,
-      "days": 303,
+      "impressions": 2028,
+      "weightedPos": 19282,
+      "days": 304,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003948667324777887,
-      "position": 9.505923000987167
+      "lastDate": "2026-11-03",
+      "ctr": 0.0039447731755424065,
+      "position": 9.507889546351084
     },
     {
       "query": "tela para uniformes quirurgicos",
@@ -19778,13 +19825,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 8,
-      "impressions": 2437,
-      "weightedPos": 23388,
-      "days": 388,
+      "impressions": 2443,
+      "weightedPos": 23424,
+      "days": 389,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003282724661469019,
-      "position": 9.597045547804678
+      "lastDate": "2026-11-03",
+      "ctr": 0.003274662300450266,
+      "position": 9.58821121571838
     },
     {
       "query": "que tela se usa para uniformes medicos",
@@ -19846,13 +19893,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 8,
-      "impressions": 455,
-      "weightedPos": 2654,
-      "days": 215,
+      "impressions": 459,
+      "weightedPos": 2700,
+      "days": 216,
       "firstDate": "2025-11-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.017582417582417582,
-      "position": 5.832967032967033
+      "lastDate": "2026-11-03",
+      "ctr": 0.017429193899782137,
+      "position": 5.882352941176471
     },
     {
       "query": "uniformes qx",
@@ -19897,13 +19944,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 1175,
-      "weightedPos": 10366,
-      "days": 278,
+      "impressions": 1182,
+      "weightedPos": 10441,
+      "days": 279,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005957446808510639,
-      "position": 8.822127659574468
+      "lastDate": "2026-11-03",
+      "ctr": 0.005922165820642978,
+      "position": 8.833333333333334
     },
     {
       "query": "uniformes quirurgicos hombre",
@@ -19914,13 +19961,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 997,
-      "weightedPos": 9490,
-      "days": 317,
+      "impressions": 999,
+      "weightedPos": 9505,
+      "days": 318,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.007021063189568706,
-      "position": 9.518555667001003
+      "lastDate": "2026-11-03",
+      "ctr": 0.007007007007007007,
+      "position": 9.514514514514515
     },
     {
       "query": "modelos de uniformes de enfermeros hombres",
@@ -19931,13 +19978,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 762,
-      "weightedPos": 5078,
-      "days": 308,
+      "impressions": 763,
+      "weightedPos": 5079,
+      "days": 309,
       "firstDate": "2025-10-12",
-      "lastDate": "2026-10-31",
-      "ctr": 0.009186351706036745,
-      "position": 6.664041994750656
+      "lastDate": "2026-11-03",
+      "ctr": 0.009174311926605505,
+      "position": 6.656618610747051
     },
     {
       "query": "pijama quirúrgica mujer",
@@ -19965,13 +20012,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 1277,
-      "weightedPos": 11575,
-      "days": 316,
+      "impressions": 1279,
+      "weightedPos": 11593,
+      "days": 317,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00548159749412686,
-      "position": 9.064212999216915
+      "lastDate": "2026-11-03",
+      "ctr": 0.00547302580140735,
+      "position": 9.064112587959343
     },
     {
       "query": "clasificación de la ropa quirúrgica",
@@ -20016,13 +20063,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 673,
-      "weightedPos": 4742,
-      "days": 277,
+      "impressions": 674,
+      "weightedPos": 4748,
+      "days": 278,
       "firstDate": "2025-10-18",
-      "lastDate": "2026-11-01",
-      "ctr": 0.010401188707280832,
-      "position": 7.0460624071322435
+      "lastDate": "2026-11-03",
+      "ctr": 0.010385756676557863,
+      "position": 7.044510385756676
     },
     {
       "query": "uniforme reglamentario de enfermeria",
@@ -20050,13 +20097,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 886,
-      "weightedPos": 7742,
-      "days": 290,
+      "impressions": 887,
+      "weightedPos": 7748,
+      "days": 291,
       "firstDate": "2025-10-22",
-      "lastDate": "2026-10-30",
-      "ctr": 0.007900677200902935,
-      "position": 8.738148984198645
+      "lastDate": "2026-11-03",
+      "ctr": 0.007891770011273957,
+      "position": 8.735062006764375
     },
     {
       "query": "uniformes de enfermería baratos",
@@ -20084,13 +20131,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 7,
-      "impressions": 379,
-      "weightedPos": 630,
-      "days": 219,
+      "impressions": 380,
+      "weightedPos": 632,
+      "days": 220,
       "firstDate": "2025-10-24",
-      "lastDate": "2026-10-29",
-      "ctr": 0.018469656992084433,
-      "position": 1.6622691292875988
+      "lastDate": "2026-11-03",
+      "ctr": 0.018421052631578946,
+      "position": 1.6631578947368422
     },
     {
       "query": "color de uniforme de fisioterapia",
@@ -20118,13 +20165,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 7,
-      "impressions": 564,
-      "weightedPos": 4659,
-      "days": 254,
+      "impressions": 565,
+      "weightedPos": 4669,
+      "days": 255,
       "firstDate": "2025-11-07",
-      "lastDate": "2026-10-30",
-      "ctr": 0.012411347517730497,
-      "position": 8.26063829787234
+      "lastDate": "2026-11-03",
+      "ctr": 0.012389380530973451,
+      "position": 8.263716814159292
     },
     {
       "query": "uniformes quirurgicos mayoreo",
@@ -20169,13 +20216,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 1110,
-      "weightedPos": 10325,
-      "days": 305,
+      "impressions": 1113,
+      "weightedPos": 10359,
+      "days": 306,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-01",
-      "ctr": 0.005405405405405406,
-      "position": 9.301801801801801
+      "lastDate": "2026-11-03",
+      "ctr": 0.005390835579514825,
+      "position": 9.307277628032345
     },
     {
       "query": "colores de uniforme de salud",
@@ -20186,13 +20233,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 6,
-      "impressions": 495,
-      "weightedPos": 1692,
-      "days": 261,
+      "impressions": 497,
+      "weightedPos": 1702,
+      "days": 262,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.012121212121212121,
-      "position": 3.418181818181818
+      "lastDate": "2026-11-03",
+      "ctr": 0.012072434607645875,
+      "position": 3.4245472837022133
     },
     {
       "query": "scrub medico",
@@ -20203,13 +20250,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 6665,
-      "weightedPos": 40682,
-      "days": 364,
+      "impressions": 6681,
+      "weightedPos": 40810,
+      "days": 365,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.000900225056264066,
-      "position": 6.103825956489122
+      "lastDate": "2026-11-03",
+      "ctr": 0.000898069151324652,
+      "position": 6.108367010926508
     },
     {
       "query": "uniformes americanos",
@@ -20246,6 +20293,23 @@
       "position": 11.875
     },
     {
+      "query": "uniforme de medico",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群",
+      "kwId": "JF-0287",
+      "keyword": "uniforme de médico",
+      "matchLevel": 0,
+      "matchLevelName": "精确匹配",
+      "clicks": 6,
+      "impressions": 508,
+      "weightedPos": 2386,
+      "days": 242,
+      "firstDate": "2025-10-15",
+      "lastDate": "2026-11-03",
+      "ctr": 0.011811023622047244,
+      "position": 4.696850393700787
+    },
+    {
       "query": "marcas de scrubs medicos",
       "groupCode": "JF-04",
       "groupName": "选购与比较",
@@ -20254,13 +20318,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 890,
-      "weightedPos": 5187,
-      "days": 315,
+      "impressions": 893,
+      "weightedPos": 5207,
+      "days": 316,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-11-02",
-      "ctr": 0.006741573033707865,
-      "position": 5.828089887640449
+      "lastDate": "2026-11-03",
+      "ctr": 0.006718924972004479,
+      "position": 5.83090705487122
     },
     {
       "query": "ropa de doctor como se llama",
@@ -20271,13 +20335,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 6,
-      "impressions": 338,
-      "weightedPos": 1000,
-      "days": 209,
+      "impressions": 341,
+      "weightedPos": 1009,
+      "days": 210,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-11-02",
-      "ctr": 0.01775147928994083,
-      "position": 2.9585798816568047
+      "lastDate": "2026-11-03",
+      "ctr": 0.017595307917888565,
+      "position": 2.9589442815249267
     },
     {
       "query": "scrubs en español",
@@ -20339,13 +20403,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 323,
-      "weightedPos": 2566,
-      "days": 187,
+      "impressions": 324,
+      "weightedPos": 2574,
+      "days": 188,
       "firstDate": "2025-10-31",
-      "lastDate": "2026-11-02",
-      "ctr": 0.018575851393188854,
-      "position": 7.944272445820434
+      "lastDate": "2026-11-03",
+      "ctr": 0.018518518518518517,
+      "position": 7.944444444444445
     },
     {
       "query": "pijamas quirurgicas hombre",
@@ -20373,13 +20437,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 2536,
-      "weightedPos": 16897,
-      "days": 361,
+      "impressions": 2545,
+      "weightedPos": 16975,
+      "days": 362,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002365930599369085,
-      "position": 6.662854889589905
+      "lastDate": "2026-11-03",
+      "ctr": 0.002357563850687623,
+      "position": 6.669941060903732
     },
     {
       "query": "uniforme para psicologos",
@@ -20390,13 +20454,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 546,
-      "weightedPos": 3571,
-      "days": 261,
+      "impressions": 547,
+      "weightedPos": 3581,
+      "days": 262,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.01098901098901099,
-      "position": 6.54029304029304
+      "lastDate": "2026-11-03",
+      "ctr": 0.010968921389396709,
+      "position": 6.546617915904936
     },
     {
       "query": "uniforme psicologa",
@@ -20407,13 +20471,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 6,
-      "impressions": 414,
-      "weightedPos": 2985,
-      "days": 232,
+      "impressions": 416,
+      "weightedPos": 3004,
+      "days": 233,
       "firstDate": "2025-11-06",
-      "lastDate": "2026-10-30",
-      "ctr": 0.014492753623188406,
-      "position": 7.2101449275362315
+      "lastDate": "2026-11-03",
+      "ctr": 0.014423076923076924,
+      "position": 7.221153846153846
     },
     {
       "query": "tienda de uniformes quirurgicos",
@@ -20441,13 +20505,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 6,
-      "impressions": 312,
-      "weightedPos": 1003,
-      "days": 188,
+      "impressions": 316,
+      "weightedPos": 1019,
+      "days": 189,
       "firstDate": "2025-11-15",
-      "lastDate": "2026-11-01",
-      "ctr": 0.019230769230769232,
-      "position": 3.21474358974359
+      "lastDate": "2026-11-03",
+      "ctr": 0.0189873417721519,
+      "position": 3.2246835443037973
     },
     {
       "query": "radiology scrubs color",
@@ -20526,13 +20590,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 5,
-      "impressions": 415,
-      "weightedPos": 1461,
-      "days": 243,
+      "impressions": 418,
+      "weightedPos": 1482,
+      "days": 244,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.012048192771084338,
-      "position": 3.5204819277108435
+      "lastDate": "2026-11-03",
+      "ctr": 0.011961722488038277,
+      "position": 3.5454545454545454
     },
     {
       "query": "uniforme medico",
@@ -20543,13 +20607,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 1250,
-      "weightedPos": 12004,
-      "days": 302,
+      "impressions": 1251,
+      "weightedPos": 12032,
+      "days": 303,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004,
-      "position": 9.6032
+      "lastDate": "2026-11-03",
+      "ctr": 0.003996802557953637,
+      "position": 9.617905675459632
     },
     {
       "query": "scrubs quirúrgicos",
@@ -20560,13 +20624,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 568,
-      "weightedPos": 5575,
-      "days": 239,
+      "impressions": 569,
+      "weightedPos": 5593,
+      "days": 240,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-10-27",
-      "ctr": 0.008802816901408451,
-      "position": 9.815140845070422
+      "lastDate": "2026-11-03",
+      "ctr": 0.008787346221441126,
+      "position": 9.829525483304042
     },
     {
       "query": "traje quirúrgico",
@@ -20586,23 +20650,6 @@
       "position": 8.73972602739726
     },
     {
-      "query": "uniforme de medico",
-      "groupCode": "JF-02",
-      "groupName": "职业与专业人群",
-      "kwId": "JF-0287",
-      "keyword": "uniforme de médico",
-      "matchLevel": 0,
-      "matchLevelName": "精确匹配",
-      "clicks": 5,
-      "impressions": 507,
-      "weightedPos": 2384,
-      "days": 241,
-      "firstDate": "2025-10-15",
-      "lastDate": "2026-11-01",
-      "ctr": 0.009861932938856016,
-      "position": 4.702169625246548
-    },
-    {
       "query": "ropa quirurgica",
       "groupCode": "JF-01",
       "groupName": "通用医疗制服",
@@ -20611,13 +20658,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 2110,
-      "weightedPos": 16887,
-      "days": 299,
+      "impressions": 2112,
+      "weightedPos": 16920,
+      "days": 300,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002369668246445498,
-      "position": 8.003317535545024
+      "lastDate": "2026-11-03",
+      "ctr": 0.0023674242424242425,
+      "position": 8.011363636363637
     },
     {
       "query": "uniformes.quirurgicos",
@@ -20645,13 +20692,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 865,
-      "weightedPos": 4895,
-      "days": 304,
+      "impressions": 866,
+      "weightedPos": 4901,
+      "days": 305,
       "firstDate": "2025-10-17",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005780346820809248,
-      "position": 5.658959537572255
+      "lastDate": "2026-11-03",
+      "ctr": 0.005773672055427252,
+      "position": 5.659353348729792
     },
     {
       "query": "tela antifluidos para uniformes médicos",
@@ -20679,13 +20726,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 413,
-      "weightedPos": 4332,
-      "days": 155,
+      "impressions": 414,
+      "weightedPos": 4344,
+      "days": 156,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-10-13",
-      "ctr": 0.012106537530266344,
-      "position": 10.48910411622276
+      "lastDate": "2026-11-03",
+      "ctr": 0.012077294685990338,
+      "position": 10.492753623188406
     },
     {
       "query": "uniforme de doctor",
@@ -20764,13 +20811,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 5,
-      "impressions": 606,
-      "weightedPos": 4086,
-      "days": 283,
+      "impressions": 608,
+      "weightedPos": 4100,
+      "days": 284,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00825082508250825,
-      "position": 6.742574257425742
+      "lastDate": "2026-11-03",
+      "ctr": 0.008223684210526315,
+      "position": 6.743421052631579
     },
     {
       "query": "uniforme medico nombre",
@@ -20866,13 +20913,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 932,
-      "weightedPos": 4886,
-      "days": 334,
+      "impressions": 935,
+      "weightedPos": 4911,
+      "days": 335,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004291845493562232,
-      "position": 5.242489270386266
+      "lastDate": "2026-11-03",
+      "ctr": 0.0042780748663101605,
+      "position": 5.252406417112299
     },
     {
       "query": "trajes quirurgicos hombre",
@@ -20883,13 +20930,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 1242,
-      "weightedPos": 11660,
-      "days": 350,
+      "impressions": 1246,
+      "weightedPos": 11697,
+      "days": 351,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00322061191626409,
-      "position": 9.388083735909824
+      "lastDate": "2026-11-03",
+      "ctr": 0.0032102728731942215,
+      "position": 9.387640449438202
     },
     {
       "query": "uniformes quirurgicos mujer modernos",
@@ -20917,13 +20964,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 357,
-      "weightedPos": 849,
-      "days": 217,
+      "impressions": 358,
+      "weightedPos": 854,
+      "days": 218,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-11-02",
-      "ctr": 0.011204481792717087,
-      "position": 2.3781512605042017
+      "lastDate": "2026-11-03",
+      "ctr": 0.0111731843575419,
+      "position": 2.3854748603351954
     },
     {
       "query": "filipinas quirurgicas mujer",
@@ -21019,13 +21066,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 1740,
-      "weightedPos": 10737,
-      "days": 312,
+      "impressions": 1743,
+      "weightedPos": 10771,
+      "days": 313,
       "firstDate": "2025-10-20",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0022988505747126436,
-      "position": 6.1706896551724135
+      "lastDate": "2026-11-03",
+      "ctr": 0.002294893861158921,
+      "position": 6.179575444635685
     },
     {
       "query": "quirurgico azul marino",
@@ -21104,13 +21151,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 682,
-      "weightedPos": 5272,
-      "days": 284,
+      "impressions": 686,
+      "weightedPos": 5315,
+      "days": 285,
       "firstDate": "2025-10-26",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005865102639296188,
-      "position": 7.730205278592376
+      "lastDate": "2026-11-03",
+      "ctr": 0.0058309037900874635,
+      "position": 7.747813411078718
     },
     {
       "query": "como se llama el uniforme de doctor",
@@ -21121,13 +21168,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 301,
-      "weightedPos": 628,
-      "days": 189,
+      "impressions": 302,
+      "weightedPos": 630,
+      "days": 190,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-11-02",
-      "ctr": 0.013289036544850499,
-      "position": 2.086378737541528
+      "lastDate": "2026-11-03",
+      "ctr": 0.013245033112582781,
+      "position": 2.0860927152317883
     },
     {
       "query": "marcas de uniformes médicos",
@@ -21138,13 +21185,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 229,
-      "weightedPos": 1536,
-      "days": 144,
+      "impressions": 230,
+      "weightedPos": 1546,
+      "days": 145,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-10-24",
-      "ctr": 0.017467248908296942,
-      "position": 6.707423580786026
+      "lastDate": "2026-11-03",
+      "ctr": 0.017391304347826087,
+      "position": 6.721739130434782
     },
     {
       "query": "uniforme de enfermero hombre",
@@ -21155,13 +21202,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 1429,
-      "weightedPos": 11602,
-      "days": 336,
+      "impressions": 1430,
+      "weightedPos": 11614,
+      "days": 337,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0027991602519244225,
-      "position": 8.118964310706788
+      "lastDate": "2026-11-03",
+      "ctr": 0.002797202797202797,
+      "position": 8.121678321678322
     },
     {
       "query": "quirúrgico hombre",
@@ -21172,13 +21219,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 667,
-      "weightedPos": 5442,
-      "days": 243,
+      "impressions": 674,
+      "weightedPos": 5519,
+      "days": 244,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005997001499250375,
-      "position": 8.158920539730135
+      "lastDate": "2026-11-03",
+      "ctr": 0.005934718100890208,
+      "position": 8.188427299703264
     },
     {
       "query": "como se le dice al uniforme de enfermera",
@@ -21206,13 +21253,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 800,
-      "weightedPos": 3426,
-      "days": 288,
+      "impressions": 803,
+      "weightedPos": 3432,
+      "days": 289,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005,
-      "position": 4.2825
+      "lastDate": "2026-11-03",
+      "ctr": 0.0049813200498132005,
+      "position": 4.273972602739726
     },
     {
       "query": "uniformes para psicologos",
@@ -21240,13 +21287,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 523,
-      "weightedPos": 4377,
-      "days": 263,
+      "impressions": 525,
+      "weightedPos": 4389,
+      "days": 264,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-10-30",
-      "ctr": 0.0076481835564053535,
-      "position": 8.369024856596559
+      "lastDate": "2026-11-03",
+      "ctr": 0.007619047619047619,
+      "position": 8.36
     },
     {
       "query": "uniformes de psicologia",
@@ -21257,13 +21304,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 1013,
-      "weightedPos": 8350,
-      "days": 320,
+      "impressions": 1015,
+      "weightedPos": 8369,
+      "days": 321,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003948667324777887,
-      "position": 8.24284304047384
+      "lastDate": "2026-11-03",
+      "ctr": 0.003940886699507389,
+      "position": 8.245320197044334
     },
     {
       "query": "los estudiantes de psicología usan uniforme",
@@ -21308,13 +21355,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 4,
-      "impressions": 3378,
-      "weightedPos": 26955,
-      "days": 324,
+      "impressions": 3383,
+      "weightedPos": 26999,
+      "days": 325,
       "firstDate": "2025-11-19",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0011841326228537595,
-      "position": 7.979573712255773
+      "lastDate": "2026-11-03",
+      "ctr": 0.0011823825007389892,
+      "position": 7.980786284362991
     },
     {
       "query": "jelrisofit pijama quirúrgica scrub jogger uniforme antifluido",
@@ -21393,13 +21440,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 4,
-      "impressions": 143,
-      "weightedPos": 366,
-      "days": 99,
+      "impressions": 145,
+      "weightedPos": 372,
+      "days": 100,
       "firstDate": "2025-12-16",
-      "lastDate": "2026-10-30",
-      "ctr": 0.027972027972027972,
-      "position": 2.5594405594405596
+      "lastDate": "2026-11-03",
+      "ctr": 0.027586206896551724,
+      "position": 2.56551724137931
     },
     {
       "query": "fluid resistant scrubs",
@@ -21478,13 +21525,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 206,
-      "weightedPos": 1109,
-      "days": 145,
+      "impressions": 207,
+      "weightedPos": 1117,
+      "days": 146,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-28",
-      "ctr": 0.014563106796116505,
-      "position": 5.383495145631068
+      "lastDate": "2026-11-03",
+      "ctr": 0.014492753623188406,
+      "position": 5.396135265700483
     },
     {
       "query": "pijama quirurgica azul cielo",
@@ -21495,13 +21542,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 241,
-      "weightedPos": 2458,
-      "days": 98,
+      "impressions": 243,
+      "weightedPos": 2479,
+      "days": 99,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-01",
-      "ctr": 0.012448132780082987,
-      "position": 10.199170124481327
+      "lastDate": "2026-11-03",
+      "ctr": 0.012345679012345678,
+      "position": 10.201646090534979
     },
     {
       "query": "uniforme de nutriologa",
@@ -21512,13 +21559,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 369,
-      "weightedPos": 3237,
-      "days": 221,
+      "impressions": 370,
+      "weightedPos": 3249,
+      "days": 222,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-30",
-      "ctr": 0.008130081300813009,
-      "position": 8.772357723577235
+      "lastDate": "2026-11-03",
+      "ctr": 0.008108108108108109,
+      "position": 8.781081081081082
     },
     {
       "query": "uniforme quirúrgico azul marino",
@@ -21529,13 +21576,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 3,
-      "impressions": 2107,
-      "weightedPos": 24965,
-      "days": 388,
+      "impressions": 2111,
+      "weightedPos": 25013,
+      "days": 389,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0014238253440911248,
-      "position": 11.848599905078311
+      "lastDate": "2026-11-03",
+      "ctr": 0.0014211274277593558,
+      "position": 11.848886783514923
     },
     {
       "query": "colores uniformes clinicos",
@@ -21546,13 +21593,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 275,
-      "weightedPos": 1255,
-      "days": 155,
+      "impressions": 277,
+      "weightedPos": 1259,
+      "days": 156,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-31",
-      "ctr": 0.01090909090909091,
-      "position": 4.5636363636363635
+      "lastDate": "2026-11-03",
+      "ctr": 0.010830324909747292,
+      "position": 4.5451263537906135
     },
     {
       "query": "quirurgico negro hombre",
@@ -21580,13 +21627,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 228,
-      "weightedPos": 1776,
-      "days": 146,
+      "impressions": 229,
+      "weightedPos": 1778,
+      "days": 147,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-30",
-      "ctr": 0.013157894736842105,
-      "position": 7.7894736842105265
+      "lastDate": "2026-11-03",
+      "ctr": 0.013100436681222707,
+      "position": 7.764192139737991
     },
     {
       "query": "uniforme de enfermería hombre",
@@ -21614,13 +21661,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 266,
-      "weightedPos": 1410,
-      "days": 175,
+      "impressions": 268,
+      "weightedPos": 1420,
+      "days": 176,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.011278195488721804,
-      "position": 5.3007518796992485
+      "lastDate": "2026-11-03",
+      "ctr": 0.011194029850746268,
+      "position": 5.298507462686567
     },
     {
       "query": "pijama quirurgica azul marino",
@@ -21665,13 +21712,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 1018,
-      "weightedPos": 6904,
-      "days": 283,
+      "impressions": 1022,
+      "weightedPos": 6949,
+      "days": 284,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-10-19",
-      "ctr": 0.0029469548133595285,
-      "position": 6.781925343811395
+      "lastDate": "2026-11-03",
+      "ctr": 0.0029354207436399216,
+      "position": 6.799412915851272
     },
     {
       "query": "uniforme de cirujano",
@@ -21682,13 +21729,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 758,
-      "weightedPos": 3794,
-      "days": 290,
+      "impressions": 760,
+      "weightedPos": 3796,
+      "days": 291,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00395778364116095,
-      "position": 5.005277044854881
+      "lastDate": "2026-11-03",
+      "ctr": 0.003947368421052632,
+      "position": 4.994736842105263
     },
     {
       "query": "trajes quirúrgicos mujer",
@@ -21733,13 +21780,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 512,
-      "weightedPos": 4144,
-      "days": 271,
+      "impressions": 513,
+      "weightedPos": 4145,
+      "days": 272,
       "firstDate": "2025-10-18",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005859375,
-      "position": 8.09375
+      "lastDate": "2026-11-03",
+      "ctr": 0.005847953216374269,
+      "position": 8.079922027290449
     },
     {
       "query": "ropa quirurgica hombre",
@@ -21750,13 +21797,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 418,
-      "weightedPos": 4436,
-      "days": 204,
+      "impressions": 422,
+      "weightedPos": 4478,
+      "days": 205,
       "firstDate": "2025-10-18",
-      "lastDate": "2026-11-02",
-      "ctr": 0.007177033492822967,
-      "position": 10.61244019138756
+      "lastDate": "2026-11-03",
+      "ctr": 0.0071090047393364926,
+      "position": 10.611374407582938
     },
     {
       "query": "scrubs uniformes",
@@ -21886,13 +21933,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 897,
-      "weightedPos": 7267,
-      "days": 301,
+      "impressions": 899,
+      "weightedPos": 7279,
+      "days": 302,
       "firstDate": "2025-10-20",
-      "lastDate": "2026-10-31",
-      "ctr": 0.0033444816053511705,
-      "position": 8.101449275362318
+      "lastDate": "2026-11-03",
+      "ctr": 0.0033370411568409346,
+      "position": 8.096774193548388
     },
     {
       "query": "uniformes quirugicos",
@@ -21988,13 +22035,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 438,
-      "weightedPos": 3373,
-      "days": 244,
+      "impressions": 440,
+      "weightedPos": 3383,
+      "days": 245,
       "firstDate": "2025-10-22",
-      "lastDate": "2026-11-01",
-      "ctr": 0.00684931506849315,
-      "position": 7.700913242009133
+      "lastDate": "2026-11-03",
+      "ctr": 0.006818181818181818,
+      "position": 7.6886363636363635
     },
     {
       "query": "marcas de quirurgicos",
@@ -22005,13 +22052,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 982,
-      "weightedPos": 7949,
-      "days": 312,
+      "impressions": 986,
+      "weightedPos": 8027,
+      "days": 313,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003054989816700611,
-      "position": 8.094704684317719
+      "lastDate": "2026-11-03",
+      "ctr": 0.0030425963488843813,
+      "position": 8.140973630831644
     },
     {
       "query": "tienda de pijamas quirurgicas",
@@ -22039,13 +22086,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 581,
-      "weightedPos": 4531,
-      "days": 224,
+      "impressions": 583,
+      "weightedPos": 4550,
+      "days": 225,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-11-01",
-      "ctr": 0.0051635111876075735,
-      "position": 7.798623063683305
+      "lastDate": "2026-11-03",
+      "ctr": 0.005145797598627788,
+      "position": 7.804459691252144
     },
     {
       "query": "pijama antifluido",
@@ -22073,13 +22120,30 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 251,
-      "weightedPos": 943,
-      "days": 160,
+      "impressions": 252,
+      "weightedPos": 944,
+      "days": 161,
       "firstDate": "2025-10-26",
-      "lastDate": "2026-10-31",
-      "ctr": 0.01195219123505976,
-      "position": 3.756972111553785
+      "lastDate": "2026-11-03",
+      "ctr": 0.011904761904761904,
+      "position": 3.746031746031746
+    },
+    {
+      "query": "uniforme de doctor nombre",
+      "groupCode": "JF-02",
+      "groupName": "职业与专业人群",
+      "kwId": "JF-0250",
+      "keyword": "uniforme de doctor nombre",
+      "matchLevel": 0,
+      "matchLevelName": "精确匹配",
+      "clicks": 3,
+      "impressions": 254,
+      "weightedPos": 595,
+      "days": 170,
+      "firstDate": "2025-10-27",
+      "lastDate": "2026-11-03",
+      "ctr": 0.011811023622047244,
+      "position": 2.34251968503937
     },
     {
       "query": "uniformes de enfermería para hombre",
@@ -22107,13 +22171,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 253,
-      "weightedPos": 523,
-      "days": 166,
+      "impressions": 254,
+      "weightedPos": 529,
+      "days": 167,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-10-30",
-      "ctr": 0.011857707509881422,
-      "position": 2.067193675889328
+      "lastDate": "2026-11-03",
+      "ctr": 0.011811023622047244,
+      "position": 2.0826771653543306
     },
     {
       "query": "pijamas qx",
@@ -22141,13 +22205,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 1480,
-      "weightedPos": 12771,
-      "days": 335,
+      "impressions": 1484,
+      "weightedPos": 12793,
+      "days": 336,
       "firstDate": "2025-10-29",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002027027027027027,
-      "position": 8.629054054054054
+      "lastDate": "2026-11-03",
+      "ctr": 0.0020215633423180594,
+      "position": 8.620619946091644
     },
     {
       "query": "uniforme de psicología perú",
@@ -22209,13 +22273,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 3,
-      "impressions": 519,
-      "weightedPos": 2307,
-      "days": 246,
+      "impressions": 522,
+      "weightedPos": 2310,
+      "days": 247,
       "firstDate": "2025-10-31",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005780346820809248,
-      "position": 4.445086705202312
+      "lastDate": "2026-11-03",
+      "ctr": 0.005747126436781609,
+      "position": 4.425287356321839
     },
     {
       "query": "pijamas quirúrgicas antifluidos",
@@ -22226,13 +22290,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 95,
-      "weightedPos": 1000,
-      "days": 67,
+      "impressions": 96,
+      "weightedPos": 1010,
+      "days": 68,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.031578947368421054,
-      "position": 10.526315789473685
+      "lastDate": "2026-11-03",
+      "ctr": 0.03125,
+      "position": 10.520833333333334
     },
     {
       "query": "ropa de psicologa",
@@ -22277,13 +22341,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 339,
-      "weightedPos": 2061,
-      "days": 211,
+      "impressions": 340,
+      "weightedPos": 2068,
+      "days": 212,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-10-30",
-      "ctr": 0.008849557522123894,
-      "position": 6.079646017699115
+      "lastDate": "2026-11-03",
+      "ctr": 0.008823529411764706,
+      "position": 6.08235294117647
     },
     {
       "query": "uniforme psicologo",
@@ -22294,13 +22358,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 539,
-      "weightedPos": 2536,
-      "days": 253,
+      "impressions": 540,
+      "weightedPos": 2544,
+      "days": 254,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-10-30",
-      "ctr": 0.0055658627087198514,
-      "position": 4.705009276437848
+      "lastDate": "2026-11-03",
+      "ctr": 0.005555555555555556,
+      "position": 4.711111111111111
     },
     {
       "query": "uniformes enfermeria",
@@ -22447,13 +22511,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 3,
-      "impressions": 152,
-      "weightedPos": 1044,
-      "days": 101,
+      "impressions": 154,
+      "weightedPos": 1046,
+      "days": 102,
       "firstDate": "2025-12-08",
-      "lastDate": "2026-10-29",
-      "ctr": 0.019736842105263157,
-      "position": 6.868421052631579
+      "lastDate": "2026-11-03",
+      "ctr": 0.01948051948051948,
+      "position": 6.792207792207792
     },
     {
       "query": "uniforme de radiología",
@@ -22600,13 +22664,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 1929,
-      "weightedPos": 16356,
-      "days": 392,
+      "impressions": 1931,
+      "weightedPos": 16375,
+      "days": 393,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0010368066355624676,
-      "position": 8.47900466562986
+      "lastDate": "2026-11-03",
+      "ctr": 0.0010357327809425167,
+      "position": 8.480062143966856
     },
     {
       "query": "filipinas para mujer modernas",
@@ -22617,13 +22681,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 519,
-      "weightedPos": 4753,
-      "days": 207,
+      "impressions": 520,
+      "weightedPos": 4763,
+      "days": 208,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0038535645472061657,
-      "position": 9.157996146435453
+      "lastDate": "2026-11-03",
+      "ctr": 0.0038461538461538464,
+      "position": 9.159615384615385
     },
     {
       "query": "mejores uniformes quirurgicos",
@@ -22634,13 +22698,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 2206,
-      "weightedPos": 18270,
-      "days": 392,
+      "impressions": 2212,
+      "weightedPos": 18323,
+      "days": 393,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0009066183136899365,
-      "position": 8.28195829555757
+      "lastDate": "2026-11-03",
+      "ctr": 0.0009041591320072332,
+      "position": 8.283453887884267
     },
     {
       "query": "que significan los colores de los uniformes medicos",
@@ -22702,13 +22766,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 862,
-      "weightedPos": 8283,
-      "days": 253,
+      "impressions": 863,
+      "weightedPos": 8296,
+      "days": 254,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-29",
-      "ctr": 0.002320185614849188,
-      "position": 9.609048723897912
+      "lastDate": "2026-11-03",
+      "ctr": 0.002317497103128621,
+      "position": 9.61297798377752
     },
     {
       "query": "significado colores uniformes clinicos",
@@ -22787,13 +22851,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 249,
-      "weightedPos": 1057,
-      "days": 169,
+      "impressions": 250,
+      "weightedPos": 1061,
+      "days": 170,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-01",
-      "ctr": 0.008032128514056224,
-      "position": 4.244979919678715
+      "lastDate": "2026-11-03",
+      "ctr": 0.008,
+      "position": 4.244
     },
     {
       "query": "colores de uniformes médicos",
@@ -22872,13 +22936,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 643,
-      "weightedPos": 5439,
-      "days": 231,
+      "impressions": 647,
+      "weightedPos": 5478,
+      "days": 232,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003110419906687403,
-      "position": 8.458786936236391
+      "lastDate": "2026-11-03",
+      "ctr": 0.0030911901081916537,
+      "position": 8.46676970633694
     },
     {
       "query": "uniformes de colores",
@@ -22940,13 +23004,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 176,
-      "weightedPos": 2545,
-      "days": 108,
+      "impressions": 177,
+      "weightedPos": 2573,
+      "days": 109,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-11-02",
-      "ctr": 0.011363636363636364,
-      "position": 14.460227272727273
+      "lastDate": "2026-11-03",
+      "ctr": 0.011299435028248588,
+      "position": 14.536723163841808
     },
     {
       "query": "pijama quirurgica hombre",
@@ -22957,13 +23021,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 342,
-      "weightedPos": 5304,
-      "days": 191,
+      "impressions": 345,
+      "weightedPos": 5364,
+      "days": 192,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005847953216374269,
-      "position": 15.508771929824562
+      "lastDate": "2026-11-03",
+      "ctr": 0.005797101449275362,
+      "position": 15.547826086956523
     },
     {
       "query": "traje clinico negro que significa",
@@ -23008,13 +23072,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 550,
-      "weightedPos": 3800,
-      "days": 260,
+      "impressions": 551,
+      "weightedPos": 3804,
+      "days": 261,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-11-01",
-      "ctr": 0.0036363636363636364,
-      "position": 6.909090909090909
+      "lastDate": "2026-11-03",
+      "ctr": 0.003629764065335753,
+      "position": 6.903811252268603
     },
     {
       "query": "quirurjicos",
@@ -23042,13 +23106,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 212,
-      "weightedPos": 2008,
-      "days": 135,
+      "impressions": 216,
+      "weightedPos": 2060,
+      "days": 136,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-10-27",
-      "ctr": 0.009433962264150943,
-      "position": 9.471698113207546
+      "lastDate": "2026-11-03",
+      "ctr": 0.009259259259259259,
+      "position": 9.537037037037036
     },
     {
       "query": "cual es la mejor tela para uniformes medicos",
@@ -23195,13 +23259,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 1672,
-      "weightedPos": 21098,
-      "days": 369,
+      "impressions": 1674,
+      "weightedPos": 21123,
+      "days": 370,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0011961722488038277,
-      "position": 12.618421052631579
+      "lastDate": "2026-11-03",
+      "ctr": 0.0011947431302270011,
+      "position": 12.618279569892474
     },
     {
       "query": "pijama quirurgica mujer azul marino",
@@ -23212,13 +23276,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 404,
-      "weightedPos": 2804,
-      "days": 198,
+      "impressions": 406,
+      "weightedPos": 2814,
+      "days": 199,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-10-25",
-      "ctr": 0.0049504950495049506,
-      "position": 6.9405940594059405
+      "lastDate": "2026-11-03",
+      "ctr": 0.0049261083743842365,
+      "position": 6.931034482758621
     },
     {
       "query": "scrubs uniforme",
@@ -23348,13 +23412,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 207,
-      "weightedPos": 2017,
-      "days": 132,
+      "impressions": 209,
+      "weightedPos": 2028,
+      "days": 133,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-09-08",
-      "ctr": 0.00966183574879227,
-      "position": 9.743961352657005
+      "lastDate": "2026-11-03",
+      "ctr": 0.009569377990430622,
+      "position": 9.703349282296651
     },
     {
       "query": "pijama quirurgica azul",
@@ -23365,13 +23429,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 388,
-      "weightedPos": 1911,
-      "days": 189,
+      "impressions": 389,
+      "weightedPos": 1921,
+      "days": 190,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005154639175257732,
-      "position": 4.925257731958763
+      "lastDate": "2026-11-03",
+      "ctr": 0.005141388174807198,
+      "position": 4.938303341902314
     },
     {
       "query": "quirurgico blanco mujer",
@@ -23416,13 +23480,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 468,
-      "weightedPos": 3141,
-      "days": 261,
+      "impressions": 469,
+      "weightedPos": 3149,
+      "days": 262,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-11-01",
-      "ctr": 0.004273504273504274,
-      "position": 6.711538461538462
+      "lastDate": "2026-11-03",
+      "ctr": 0.0042643923240938165,
+      "position": 6.714285714285714
     },
     {
       "query": "uniforme verde",
@@ -23467,13 +23531,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 70,
-      "weightedPos": 555,
-      "days": 48,
+      "impressions": 71,
+      "weightedPos": 565,
+      "days": 49,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-11-02",
-      "ctr": 0.02857142857142857,
-      "position": 7.928571428571429
+      "lastDate": "2026-11-03",
+      "ctr": 0.028169014084507043,
+      "position": 7.957746478873239
     },
     {
       "query": "tela uniformes medicos",
@@ -23535,13 +23599,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 161,
-      "weightedPos": 1253,
-      "days": 109,
+      "impressions": 162,
+      "weightedPos": 1255,
+      "days": 110,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-10-31",
-      "ctr": 0.012422360248447204,
-      "position": 7.782608695652174
+      "lastDate": "2026-11-03",
+      "ctr": 0.012345679012345678,
+      "position": 7.746913580246914
     },
     {
       "query": "uniforme de odontología para mujer",
@@ -23552,13 +23616,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 573,
-      "weightedPos": 1400,
-      "days": 255,
+      "impressions": 574,
+      "weightedPos": 1401,
+      "days": 256,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-10-26",
-      "ctr": 0.0034904013961605585,
-      "position": 2.443280977312391
+      "lastDate": "2026-11-03",
+      "ctr": 0.003484320557491289,
+      "position": 2.440766550522648
     },
     {
       "query": "uniformes de odontología para mujer",
@@ -23569,13 +23633,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 2,
-      "impressions": 633,
-      "weightedPos": 1445,
-      "days": 256,
+      "impressions": 635,
+      "weightedPos": 1447,
+      "days": 257,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00315955766192733,
-      "position": 2.2827804107424963
+      "lastDate": "2026-11-03",
+      "ctr": 0.0031496062992125984,
+      "position": 2.278740157480315
     },
     {
       "query": "verde quirurgico color",
@@ -23586,13 +23650,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 780,
-      "weightedPos": 4523,
-      "days": 303,
+      "impressions": 784,
+      "weightedPos": 4531,
+      "days": 304,
       "firstDate": "2025-10-16",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002564102564102564,
-      "position": 5.7987179487179485
+      "lastDate": "2026-11-03",
+      "ctr": 0.002551020408163265,
+      "position": 5.779336734693878
     },
     {
       "query": "pijamas medicas para mujer",
@@ -23909,13 +23973,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 1620,
-      "weightedPos": 10940,
-      "days": 340,
+      "impressions": 1622,
+      "weightedPos": 10942,
+      "days": 341,
       "firstDate": "2025-10-21",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0012345679012345679,
-      "position": 6.753086419753086
+      "lastDate": "2026-11-03",
+      "ctr": 0.0012330456226880395,
+      "position": 6.745992601726264
     },
     {
       "query": "marca de uniformes quirurgicos",
@@ -23926,13 +23990,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 446,
-      "weightedPos": 3782,
-      "days": 182,
+      "impressions": 447,
+      "weightedPos": 3784,
+      "days": 183,
       "firstDate": "2025-10-22",
-      "lastDate": "2026-10-31",
-      "ctr": 0.004484304932735426,
-      "position": 8.47982062780269
+      "lastDate": "2026-11-03",
+      "ctr": 0.0044742729306487695,
+      "position": 8.465324384787472
     },
     {
       "query": "traje médico",
@@ -24062,13 +24126,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 7175,
-      "weightedPos": 68374,
-      "days": 252,
+      "impressions": 7178,
+      "weightedPos": 68381,
+      "days": 253,
       "firstDate": "2025-10-25",
-      "lastDate": "2026-11-01",
-      "ctr": 0.00027874564459930314,
-      "position": 9.529477351916377
+      "lastDate": "2026-11-03",
+      "ctr": 0.00027862914460852607,
+      "position": 9.52646976873781
     },
     {
       "query": "uniforme antifluidos mujer",
@@ -24147,13 +24211,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 338,
-      "weightedPos": 1422,
-      "days": 197,
+      "impressions": 339,
+      "weightedPos": 1423,
+      "days": 198,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-10-29",
-      "ctr": 0.005917159763313609,
-      "position": 4.207100591715976
+      "lastDate": "2026-11-03",
+      "ctr": 0.0058997050147492625,
+      "position": 4.1976401179941005
     },
     {
       "query": "traje de medico",
@@ -24164,30 +24228,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 372,
-      "weightedPos": 2629,
-      "days": 186,
+      "impressions": 373,
+      "weightedPos": 2630,
+      "days": 187,
       "firstDate": "2025-10-27",
-      "lastDate": "2026-10-31",
-      "ctr": 0.005376344086021506,
-      "position": 7.067204301075269
-    },
-    {
-      "query": "uniforme de doctor nombre",
-      "groupCode": "JF-02",
-      "groupName": "职业与专业人群",
-      "kwId": "JF-0250",
-      "keyword": "uniforme de doctor nombre",
-      "matchLevel": 0,
-      "matchLevelName": "精确匹配",
-      "clicks": 2,
-      "impressions": 248,
-      "weightedPos": 574,
-      "days": 169,
-      "firstDate": "2025-10-27",
-      "lastDate": "2026-10-30",
-      "ctr": 0.008064516129032258,
-      "position": 2.314516129032258
+      "lastDate": "2026-11-03",
+      "ctr": 0.005361930294906166,
+      "position": 7.050938337801608
     },
     {
       "query": "uniforme de enfermero",
@@ -24504,13 +24551,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 91,
-      "weightedPos": 306,
-      "days": 71,
+      "impressions": 92,
+      "weightedPos": 314,
+      "days": 72,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-10-28",
-      "ctr": 0.02197802197802198,
-      "position": 3.3626373626373627
+      "lastDate": "2026-11-03",
+      "ctr": 0.021739130434782608,
+      "position": 3.4130434782608696
     },
     {
       "query": "quirúrgico blanco",
@@ -24572,13 +24619,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 763,
-      "weightedPos": 5191,
-      "days": 299,
+      "impressions": 765,
+      "weightedPos": 5211,
+      "days": 300,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002621231979030144,
-      "position": 6.803407601572739
+      "lastDate": "2026-11-03",
+      "ctr": 0.00261437908496732,
+      "position": 6.811764705882353
     },
     {
       "query": "uniforme de psicólogo",
@@ -24640,13 +24687,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 455,
-      "weightedPos": 2851,
-      "days": 239,
+      "impressions": 459,
+      "weightedPos": 2877,
+      "days": 240,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004395604395604396,
-      "position": 6.265934065934066
+      "lastDate": "2026-11-03",
+      "ctr": 0.004357298474945534,
+      "position": 6.26797385620915
     },
     {
       "query": "uniforme de psicóloga",
@@ -24912,13 +24959,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 1311,
-      "weightedPos": 13061,
-      "days": 304,
+      "impressions": 1313,
+      "weightedPos": 13085,
+      "days": 305,
       "firstDate": "2025-11-19",
-      "lastDate": "2026-11-01",
-      "ctr": 0.0015255530129672007,
-      "position": 9.962623951182303
+      "lastDate": "2026-11-03",
+      "ctr": 0.0015232292460015233,
+      "position": 9.965727341964966
     },
     {
       "query": "uniforme para fisioterapeutas",
@@ -24963,13 +25010,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 122,
-      "weightedPos": 345,
-      "days": 93,
+      "impressions": 126,
+      "weightedPos": 360,
+      "days": 94,
       "firstDate": "2025-12-01",
-      "lastDate": "2026-10-22",
-      "ctr": 0.01639344262295082,
-      "position": 2.8278688524590163
+      "lastDate": "2026-11-03",
+      "ctr": 0.015873015873015872,
+      "position": 2.857142857142857
     },
     {
       "query": "marcas de quirurgicos buenos",
@@ -24980,13 +25027,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 279,
-      "weightedPos": 1524,
-      "days": 176,
+      "impressions": 280,
+      "weightedPos": 1531,
+      "days": 177,
       "firstDate": "2025-12-02",
-      "lastDate": "2026-11-01",
-      "ctr": 0.007168458781362007,
-      "position": 5.462365591397849
+      "lastDate": "2026-11-03",
+      "ctr": 0.007142857142857143,
+      "position": 5.4678571428571425
     },
     {
       "query": "scrubs uniformes hombre",
@@ -25065,13 +25112,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 2,
-      "impressions": 1605,
-      "weightedPos": 15071,
-      "days": 226,
+      "impressions": 1606,
+      "weightedPos": 15072,
+      "days": 227,
       "firstDate": "2025-12-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0012461059190031153,
-      "position": 9.390031152647975
+      "lastDate": "2026-11-03",
+      "ctr": 0.0012453300124533001,
+      "position": 9.38480697384807
     },
     {
       "query": "physiotherapist scrub color",
@@ -25473,13 +25520,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 2,
-      "impressions": 569,
-      "weightedPos": 1439,
-      "days": 174,
+      "impressions": 573,
+      "weightedPos": 1447,
+      "days": 175,
       "firstDate": "2026-04-29",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0035149384885764497,
-      "position": 2.5289982425307556
+      "lastDate": "2026-11-03",
+      "ctr": 0.0034904013961605585,
+      "position": 2.525305410122164
     },
     {
       "query": "como se llama el uniforme de medicina",
@@ -25541,13 +25588,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 406,
-      "weightedPos": 3181,
-      "days": 175,
+      "impressions": 407,
+      "weightedPos": 3189,
+      "days": 176,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-27",
-      "ctr": 0.0024630541871921183,
-      "position": 7.834975369458128
+      "lastDate": "2026-11-03",
+      "ctr": 0.002457002457002457,
+      "position": 7.835380835380835
     },
     {
       "query": "pijama quirúrgica",
@@ -25558,13 +25605,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 1370,
-      "weightedPos": 7450,
-      "days": 301,
+      "impressions": 1371,
+      "weightedPos": 7453,
+      "days": 302,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-01",
-      "ctr": 0.00072992700729927,
-      "position": 5.437956204379562
+      "lastDate": "2026-11-03",
+      "ctr": 0.0007293946024799417,
+      "position": 5.436177972283005
     },
     {
       "query": "quirurgico negro mujer",
@@ -25626,13 +25673,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 2142,
-      "weightedPos": 18906,
-      "days": 388,
+      "impressions": 2154,
+      "weightedPos": 19015,
+      "days": 389,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00046685340802987864,
-      "position": 8.826330532212886
+      "lastDate": "2026-11-03",
+      "ctr": 0.00046425255338904364,
+      "position": 8.827762302692665
     },
     {
       "query": "uniforme azul rey",
@@ -25677,13 +25724,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 139,
-      "weightedPos": 827,
-      "days": 101,
+      "impressions": 141,
+      "weightedPos": 849,
+      "days": 102,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-21",
-      "ctr": 0.007194244604316547,
-      "position": 5.9496402877697845
+      "lastDate": "2026-11-03",
+      "ctr": 0.0070921985815602835,
+      "position": 6.0212765957446805
     },
     {
       "query": "uniformes quirurgicos completos",
@@ -25813,13 +25860,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 227,
-      "weightedPos": 1467,
-      "days": 153,
+      "impressions": 229,
+      "weightedPos": 1469,
+      "days": 154,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-31",
-      "ctr": 0.004405286343612335,
-      "position": 6.462555066079295
+      "lastDate": "2026-11-03",
+      "ctr": 0.004366812227074236,
+      "position": 6.414847161572053
     },
     {
       "query": "uniformes quirurgicos colores",
@@ -25830,13 +25877,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 119,
-      "weightedPos": 927,
-      "days": 95,
+      "impressions": 120,
+      "weightedPos": 939,
+      "days": 96,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-25",
-      "ctr": 0.008403361344537815,
-      "position": 7.7899159663865545
+      "lastDate": "2026-11-03",
+      "ctr": 0.008333333333333333,
+      "position": 7.825
     },
     {
       "query": "como se llama la tela para uniformes medicos",
@@ -25915,13 +25962,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 53,
-      "weightedPos": 825,
-      "days": 43,
+      "impressions": 54,
+      "weightedPos": 846,
+      "days": 44,
       "firstDate": "2025-10-09",
-      "lastDate": "2026-11-02",
-      "ctr": 0.018867924528301886,
-      "position": 15.566037735849056
+      "lastDate": "2026-11-03",
+      "ctr": 0.018518518518518517,
+      "position": 15.666666666666666
     },
     {
       "query": "colores uniformes médicos",
@@ -25966,13 +26013,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 1,
-      "impressions": 699,
-      "weightedPos": 5611,
-      "days": 301,
+      "impressions": 701,
+      "weightedPos": 5624,
+      "days": 302,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.001430615164520744,
-      "position": 8.027181688125895
+      "lastDate": "2026-11-03",
+      "ctr": 0.0014265335235378032,
+      "position": 8.022824536376605
     },
     {
       "query": "uniforme quirurgico completo mujer",
@@ -26000,13 +26047,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 230,
-      "weightedPos": 2329,
-      "days": 138,
+      "impressions": 231,
+      "weightedPos": 2332,
+      "days": 139,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-10-12",
-      "ctr": 0.004347826086956522,
-      "position": 10.126086956521739
+      "lastDate": "2026-11-03",
+      "ctr": 0.004329004329004329,
+      "position": 10.095238095238095
     },
     {
       "query": "uniforme quirurgico verde jade",
@@ -26102,13 +26149,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 208,
-      "weightedPos": 1539,
-      "days": 130,
+      "impressions": 209,
+      "weightedPos": 1540,
+      "days": 131,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-10-19",
-      "ctr": 0.004807692307692308,
-      "position": 7.399038461538462
+      "lastDate": "2026-11-03",
+      "ctr": 0.004784688995215311,
+      "position": 7.368421052631579
     },
     {
       "query": "scrubs tipo jogger",
@@ -26136,13 +26183,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 2556,
-      "weightedPos": 17698,
-      "days": 333,
+      "impressions": 2557,
+      "weightedPos": 17704,
+      "days": 334,
       "firstDate": "2025-10-12",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0003912363067292645,
-      "position": 6.924100156494522
+      "lastDate": "2026-11-03",
+      "ctr": 0.00039108330074305825,
+      "position": 6.923738756355104
     },
     {
       "query": "filipinas medicas modernas",
@@ -26408,13 +26455,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 71,
-      "weightedPos": 555,
-      "days": 55,
+      "impressions": 73,
+      "weightedPos": 576,
+      "days": 56,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-09-28",
-      "ctr": 0.014084507042253521,
-      "position": 7.816901408450704
+      "lastDate": "2026-11-03",
+      "ctr": 0.0136986301369863,
+      "position": 7.890410958904109
     },
     {
       "query": "uniforme quirurgico hombre blanco",
@@ -26425,13 +26472,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 173,
-      "weightedPos": 1646,
-      "days": 113,
+      "impressions": 174,
+      "weightedPos": 1657,
+      "days": 114,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-11-02",
-      "ctr": 0.005780346820809248,
-      "position": 9.514450867052023
+      "lastDate": "2026-11-03",
+      "ctr": 0.005747126436781609,
+      "position": 9.522988505747126
     },
     {
       "query": "scrubs quirurgicos",
@@ -26527,13 +26574,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 431,
-      "weightedPos": 1152,
-      "days": 229,
+      "impressions": 434,
+      "weightedPos": 1162,
+      "days": 230,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002320185614849188,
-      "position": 2.6728538283062644
+      "lastDate": "2026-11-03",
+      "ctr": 0.002304147465437788,
+      "position": 2.6774193548387095
     },
     {
       "query": "scrub azul marino",
@@ -26884,13 +26931,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 130,
-      "weightedPos": 1198,
-      "days": 84,
+      "impressions": 132,
+      "weightedPos": 1214,
+      "days": 85,
       "firstDate": "2025-10-19",
-      "lastDate": "2026-09-28",
-      "ctr": 0.007692307692307693,
-      "position": 9.215384615384615
+      "lastDate": "2026-11-03",
+      "ctr": 0.007575757575757576,
+      "position": 9.196969696969697
     },
     {
       "query": "que es la ropa quirurgica",
@@ -27173,13 +27220,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 654,
-      "weightedPos": 10156,
-      "days": 299,
+      "impressions": 655,
+      "weightedPos": 10157,
+      "days": 300,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0015290519877675841,
-      "position": 15.529051987767584
+      "lastDate": "2026-11-03",
+      "ctr": 0.0015267175572519084,
+      "position": 15.506870229007633
     },
     {
       "query": "pijama quirurjica",
@@ -27190,13 +27237,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 216,
-      "weightedPos": 1778,
-      "days": 118,
+      "impressions": 217,
+      "weightedPos": 1787,
+      "days": 119,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-11-01",
-      "ctr": 0.004629629629629629,
-      "position": 8.231481481481481
+      "lastDate": "2026-11-03",
+      "ctr": 0.004608294930875576,
+      "position": 8.235023041474655
     },
     {
       "query": "pijamas quirúrgica",
@@ -27241,13 +27288,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 94,
-      "weightedPos": 205,
-      "days": 79,
+      "impressions": 96,
+      "weightedPos": 208,
+      "days": 80,
       "firstDate": "2025-10-23",
-      "lastDate": "2026-10-31",
-      "ctr": 0.010638297872340425,
-      "position": 2.1808510638297873
+      "lastDate": "2026-11-03",
+      "ctr": 0.010416666666666666,
+      "position": 2.1666666666666665
     },
     {
       "query": "donde comprar uniformes quirurgicos",
@@ -27394,13 +27441,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 494,
-      "weightedPos": 2285,
-      "days": 248,
+      "impressions": 496,
+      "weightedPos": 2297,
+      "days": 249,
       "firstDate": "2025-10-25",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0020242914979757085,
-      "position": 4.625506072874494
+      "lastDate": "2026-11-03",
+      "ctr": 0.0020161290322580645,
+      "position": 4.631048387096774
     },
     {
       "query": "pijama quirurgicas",
@@ -27632,13 +27679,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 269,
-      "weightedPos": 1378,
-      "days": 162,
+      "impressions": 270,
+      "weightedPos": 1380,
+      "days": 163,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0037174721189591076,
-      "position": 5.122676579925651
+      "lastDate": "2026-11-03",
+      "ctr": 0.003703703703703704,
+      "position": 5.111111111111111
     },
     {
       "query": "marcas de uniformes",
@@ -27649,13 +27696,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 203,
-      "weightedPos": 1784,
-      "days": 142,
+      "impressions": 204,
+      "weightedPos": 1795,
+      "days": 143,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-10-29",
-      "ctr": 0.0049261083743842365,
-      "position": 8.788177339901479
+      "lastDate": "2026-11-03",
+      "ctr": 0.004901960784313725,
+      "position": 8.799019607843137
     },
     {
       "query": "pijama quirúrgica hombre",
@@ -27734,13 +27781,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 141,
-      "weightedPos": 1599,
-      "days": 96,
+      "impressions": 142,
+      "weightedPos": 1610,
+      "days": 97,
       "firstDate": "2025-10-28",
-      "lastDate": "2026-10-31",
-      "ctr": 0.0070921985815602835,
-      "position": 11.340425531914894
+      "lastDate": "2026-11-03",
+      "ctr": 0.007042253521126761,
+      "position": 11.338028169014084
     },
     {
       "query": "uniforme de enfermera",
@@ -27870,13 +27917,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 631,
-      "weightedPos": 2778,
-      "days": 258,
+      "impressions": 636,
+      "weightedPos": 2789,
+      "days": 259,
       "firstDate": "2025-10-29",
-      "lastDate": "2026-11-02",
-      "ctr": 0.001584786053882726,
-      "position": 4.4025356576862125
+      "lastDate": "2026-11-03",
+      "ctr": 0.0015723270440251573,
+      "position": 4.385220125786163
     },
     {
       "query": "traje de doctor",
@@ -27921,13 +27968,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 136,
-      "weightedPos": 1244,
-      "days": 92,
+      "impressions": 139,
+      "weightedPos": 1291,
+      "days": 93,
       "firstDate": "2025-10-29",
-      "lastDate": "2026-11-02",
-      "ctr": 0.007352941176470588,
-      "position": 9.147058823529411
+      "lastDate": "2026-11-03",
+      "ctr": 0.007194244604316547,
+      "position": 9.287769784172662
     },
     {
       "query": "pijama de medico mujer",
@@ -27972,13 +28019,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 623,
-      "weightedPos": 5904,
-      "days": 269,
+      "impressions": 624,
+      "weightedPos": 5912,
+      "days": 270,
       "firstDate": "2025-10-30",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0016051364365971107,
-      "position": 9.476725521669342
+      "lastDate": "2026-11-03",
+      "ctr": 0.0016025641025641025,
+      "position": 9.474358974358974
     },
     {
       "query": "ropa de médico",
@@ -27989,13 +28036,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 269,
-      "weightedPos": 722,
-      "days": 145,
+      "impressions": 270,
+      "weightedPos": 723,
+      "days": 146,
       "firstDate": "2025-10-30",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0037174721189591076,
-      "position": 2.684014869888476
+      "lastDate": "2026-11-03",
+      "ctr": 0.003703703703703704,
+      "position": 2.6777777777777776
     },
     {
       "query": "uniforme de medicos",
@@ -28040,13 +28087,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 32,
-      "weightedPos": 53,
-      "days": 20,
+      "impressions": 34,
+      "weightedPos": 55,
+      "days": 21,
       "firstDate": "2025-10-31",
-      "lastDate": "2026-10-31",
-      "ctr": 0.03125,
-      "position": 1.65625
+      "lastDate": "2026-11-03",
+      "ctr": 0.029411764705882353,
+      "position": 1.6176470588235294
     },
     {
       "query": "marcas scrubs",
@@ -28057,13 +28104,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 110,
-      "weightedPos": 919,
-      "days": 86,
+      "impressions": 111,
+      "weightedPos": 921,
+      "days": 87,
       "firstDate": "2025-10-31",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00909090909090909,
-      "position": 8.354545454545455
+      "lastDate": "2026-11-03",
+      "ctr": 0.009009009009009009,
+      "position": 8.297297297297296
     },
     {
       "query": "ropa médica",
@@ -28125,13 +28172,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 393,
-      "weightedPos": 2847,
-      "days": 216,
+      "impressions": 395,
+      "weightedPos": 2871,
+      "days": 217,
       "firstDate": "2025-11-02",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002544529262086514,
-      "position": 7.244274809160306
+      "lastDate": "2026-11-03",
+      "ctr": 0.002531645569620253,
+      "position": 7.2683544303797465
     },
     {
       "query": "conjunto quirúrgico",
@@ -28193,13 +28240,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 1,
-      "impressions": 630,
-      "weightedPos": 4414,
-      "days": 213,
+      "impressions": 631,
+      "weightedPos": 4415,
+      "days": 214,
       "firstDate": "2025-11-03",
-      "lastDate": "2026-11-01",
-      "ctr": 0.0015873015873015873,
-      "position": 7.006349206349206
+      "lastDate": "2026-11-03",
+      "ctr": 0.001584786053882726,
+      "position": 6.996830427892235
     },
     {
       "query": "uniforme nutricionista",
@@ -28261,13 +28308,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 773,
-      "weightedPos": 2985,
-      "days": 244,
+      "impressions": 775,
+      "weightedPos": 2988,
+      "days": 245,
       "firstDate": "2025-11-04",
-      "lastDate": "2026-11-02",
-      "ctr": 0.00129366106080207,
-      "position": 3.8615782664941785
+      "lastDate": "2026-11-03",
+      "ctr": 0.0012903225806451613,
+      "position": 3.855483870967742
     },
     {
       "query": "uniforme para psicología",
@@ -28482,13 +28529,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 612,
-      "weightedPos": 5161,
-      "days": 269,
+      "impressions": 614,
+      "weightedPos": 5165,
+      "days": 270,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0016339869281045752,
-      "position": 8.433006535947712
+      "lastDate": "2026-11-03",
+      "ctr": 0.0016286644951140066,
+      "position": 8.412052117263844
     },
     {
       "query": "uniforme verde quirurgico enfermeria",
@@ -28516,13 +28563,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 189,
-      "weightedPos": 601,
-      "days": 133,
+      "impressions": 190,
+      "weightedPos": 602,
+      "days": 134,
       "firstDate": "2025-11-06",
-      "lastDate": "2026-10-31",
-      "ctr": 0.005291005291005291,
-      "position": 3.17989417989418
+      "lastDate": "2026-11-03",
+      "ctr": 0.005263157894736842,
+      "position": 3.168421052631579
     },
     {
       "query": "modelos de uniformes de medicina",
@@ -28550,13 +28597,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 322,
-      "weightedPos": 2541,
-      "days": 158,
+      "impressions": 326,
+      "weightedPos": 2575,
+      "days": 159,
       "firstDate": "2025-11-06",
-      "lastDate": "2026-11-02",
-      "ctr": 0.003105590062111801,
-      "position": 7.891304347826087
+      "lastDate": "2026-11-03",
+      "ctr": 0.003067484662576687,
+      "position": 7.898773006134969
     },
     {
       "query": "uniformes para psicología",
@@ -28652,13 +28699,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 173,
-      "weightedPos": 1051,
-      "days": 118,
+      "impressions": 175,
+      "weightedPos": 1064,
+      "days": 119,
       "firstDate": "2025-11-09",
-      "lastDate": "2026-11-01",
-      "ctr": 0.005780346820809248,
-      "position": 6.07514450867052
+      "lastDate": "2026-11-03",
+      "ctr": 0.005714285714285714,
+      "position": 6.08
     },
     {
       "query": "uniformes quirurgicos stretch",
@@ -28686,13 +28733,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 443,
-      "weightedPos": 3501,
-      "days": 212,
+      "impressions": 445,
+      "weightedPos": 3523,
+      "days": 213,
       "firstDate": "2025-11-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.002257336343115124,
-      "position": 7.9029345372460496
+      "lastDate": "2026-11-03",
+      "ctr": 0.0022471910112359553,
+      "position": 7.91685393258427
     },
     {
       "query": "uniformes de doctor",
@@ -28856,13 +28903,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 143,
-      "weightedPos": 936,
-      "days": 108,
+      "impressions": 144,
+      "weightedPos": 937,
+      "days": 109,
       "firstDate": "2025-11-15",
-      "lastDate": "2026-11-02",
-      "ctr": 0.006993006993006993,
-      "position": 6.545454545454546
+      "lastDate": "2026-11-03",
+      "ctr": 0.006944444444444444,
+      "position": 6.506944444444445
     },
     {
       "query": "medico uniforme",
@@ -28873,13 +28920,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 164,
-      "weightedPos": 912,
-      "days": 114,
+      "impressions": 165,
+      "weightedPos": 915,
+      "days": 115,
       "firstDate": "2025-11-17",
-      "lastDate": "2026-11-01",
-      "ctr": 0.006097560975609756,
-      "position": 5.560975609756097
+      "lastDate": "2026-11-03",
+      "ctr": 0.006060606060606061,
+      "position": 5.545454545454546
     },
     {
       "query": "uniforme quirurgico verde",
@@ -28890,13 +28937,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 807,
-      "weightedPos": 5893,
-      "days": 276,
+      "impressions": 810,
+      "weightedPos": 5896,
+      "days": 277,
       "firstDate": "2025-11-18",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0012391573729863693,
-      "position": 7.302354399008674
+      "lastDate": "2026-11-03",
+      "ctr": 0.0012345679012345679,
+      "position": 7.279012345679012
     },
     {
       "query": "best medical uniforms",
@@ -29111,13 +29158,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 265,
-      "weightedPos": 1003,
-      "days": 166,
+      "impressions": 266,
+      "weightedPos": 1004,
+      "days": 167,
       "firstDate": "2025-11-25",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0037735849056603774,
-      "position": 3.7849056603773583
+      "lastDate": "2026-11-03",
+      "ctr": 0.0037593984962406013,
+      "position": 3.774436090225564
     },
     {
       "query": "color of doctor uniform",
@@ -29604,13 +29651,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 680,
-      "weightedPos": 7945,
-      "days": 237,
+      "impressions": 681,
+      "weightedPos": 7955,
+      "days": 238,
       "firstDate": "2025-12-17",
-      "lastDate": "2026-10-31",
-      "ctr": 0.0014705882352941176,
-      "position": 11.683823529411764
+      "lastDate": "2026-11-03",
+      "ctr": 0.0014684287812041115,
+      "position": 11.681350954478708
     },
     {
       "query": "uniform",
@@ -30301,13 +30348,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 174,
-      "weightedPos": 1299,
-      "days": 113,
+      "impressions": 175,
+      "weightedPos": 1310,
+      "days": 114,
       "firstDate": "2026-03-07",
-      "lastDate": "2026-10-31",
-      "ctr": 0.005747126436781609,
-      "position": 7.4655172413793105
+      "lastDate": "2026-11-03",
+      "ctr": 0.005714285714285714,
+      "position": 7.485714285714286
     },
     {
       "query": "uniformes enfermería",
@@ -30641,13 +30688,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 1,
-      "impressions": 238,
-      "weightedPos": 2006,
-      "days": 115,
+      "impressions": 242,
+      "weightedPos": 2044,
+      "days": 116,
       "firstDate": "2026-05-18",
-      "lastDate": "2026-11-02",
-      "ctr": 0.004201680672268907,
-      "position": 8.428571428571429
+      "lastDate": "2026-11-03",
+      "ctr": 0.004132231404958678,
+      "position": 8.446280991735538
     },
     {
       "query": "emancipacion uniformes medicos",
@@ -30726,13 +30773,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 1,
-      "impressions": 1067,
-      "weightedPos": 6228,
-      "days": 146,
+      "impressions": 1079,
+      "weightedPos": 6282,
+      "days": 147,
       "firstDate": "2026-06-10",
-      "lastDate": "2026-11-02",
-      "ctr": 0.0009372071227741331,
-      "position": 5.836925960637301
+      "lastDate": "2026-11-03",
+      "ctr": 0.0009267840593141798,
+      "position": 5.822057460611678
     },
     {
       "query": "uniformes medicos en usa",
@@ -31032,13 +31079,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 841,
-      "weightedPos": 18916,
-      "days": 309,
+      "impressions": 843,
+      "weightedPos": 18949,
+      "days": 310,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 22.492271105826397
+      "position": 22.47805456702254
     },
     {
       "query": "jugo uniformes quirurgicos",
@@ -31066,13 +31113,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 117,
-      "weightedPos": 1121,
-      "days": 80,
+      "impressions": 118,
+      "weightedPos": 1132,
+      "days": 81,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-24",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.581196581196581
+      "position": 9.59322033898305
     },
     {
       "query": "pijama quirurgica rosa",
@@ -31168,13 +31215,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 264,
-      "weightedPos": 1908,
-      "days": 152,
+      "impressions": 265,
+      "weightedPos": 1919,
+      "days": 153,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-10-24",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 7.2272727272727275
+      "position": 7.241509433962264
     },
     {
       "query": "scrub azul marino hombre",
@@ -31389,13 +31436,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 1405,
-      "weightedPos": 21840,
-      "days": 388,
+      "impressions": 1408,
+      "weightedPos": 21872,
+      "days": 389,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 15.544483985765124
+      "position": 15.534090909090908
     },
     {
       "query": "uniformes quirúrgicos modernos",
@@ -31406,13 +31453,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 1630,
-      "weightedPos": 15808,
-      "days": 392,
+      "impressions": 1633,
+      "weightedPos": 15843,
+      "days": 393,
       "firstDate": "2025-10-07",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.698159509202455
+      "position": 9.701775872627067
     },
     {
       "query": "what are surgical scrubs",
@@ -31576,13 +31623,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 166,
-      "weightedPos": 1685,
-      "days": 113,
+      "impressions": 167,
+      "weightedPos": 1688,
+      "days": 114,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.150602409638553
+      "position": 10.107784431137725
     },
     {
       "query": "uniforme quirurgico color vino",
@@ -31661,13 +31708,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 198,
-      "weightedPos": 1569,
-      "days": 135,
+      "impressions": 200,
+      "weightedPos": 1590,
+      "days": 136,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-24",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 7.924242424242424
+      "position": 7.95
     },
     {
       "query": "uniforme quirúrgico para hombre",
@@ -31729,13 +31776,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 894,
-      "weightedPos": 9089,
-      "days": 360,
+      "impressions": 895,
+      "weightedPos": 9100,
+      "days": 361,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.166666666666666
+      "position": 10.167597765363128
     },
     {
       "query": "uniformes quirurgicos baratos",
@@ -31746,13 +31793,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 28,
-      "weightedPos": 518,
-      "days": 23,
+      "impressions": 29,
+      "weightedPos": 531,
+      "days": 24,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-10-08",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 18.5
+      "position": 18.310344827586206
     },
     {
       "query": "uniformes quirurgicos figs",
@@ -31780,13 +31827,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 1646,
-      "weightedPos": 18043,
-      "days": 384,
+      "impressions": 1651,
+      "weightedPos": 18125,
+      "days": 385,
       "firstDate": "2025-10-08",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.96172539489672
+      "position": 10.978195033313144
     },
     {
       "query": "uniformes quirúrgicos blancos",
@@ -32069,13 +32116,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 523,
-      "weightedPos": 3058,
-      "days": 244,
+      "impressions": 524,
+      "weightedPos": 3068,
+      "days": 245,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-10-30",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.8470363288718925
+      "position": 5.854961832061068
     },
     {
       "query": "cómo se llama la tela de los uniformes médicos",
@@ -32137,13 +32184,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 93,
-      "weightedPos": 1139,
-      "days": 63,
+      "impressions": 99,
+      "weightedPos": 1258,
+      "days": 64,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 12.24731182795699
+      "position": 12.707070707070708
     },
     {
       "query": "scrub negro mujer",
@@ -32205,13 +32252,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 155,
-      "weightedPos": 1519,
-      "days": 110,
+      "impressions": 156,
+      "weightedPos": 1530,
+      "days": 111,
       "firstDate": "2025-10-10",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.8
+      "position": 9.807692307692308
     },
     {
       "query": "uniforme quirúrgico rosa",
@@ -32273,13 +32320,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 117,
-      "weightedPos": 1099,
-      "days": 61,
+      "impressions": 120,
+      "weightedPos": 1174,
+      "days": 62,
       "firstDate": "2025-10-11",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.393162393162394
+      "position": 9.783333333333333
     },
     {
       "query": "uniforme quirúrgico completo",
@@ -32511,13 +32558,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 122,
-      "weightedPos": 584,
-      "days": 90,
+      "impressions": 124,
+      "weightedPos": 595,
+      "days": 91,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.786885245901639
+      "position": 4.798387096774194
     },
     {
       "query": "pijama medica mujer",
@@ -32528,13 +32575,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 594,
-      "weightedPos": 3102,
-      "days": 288,
+      "impressions": 595,
+      "weightedPos": 3103,
+      "days": 289,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.222222222222222
+      "position": 5.215126050420168
     },
     {
       "query": "pijama quirurgica figs hombre",
@@ -32647,13 +32694,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 1298,
-      "weightedPos": 16730,
-      "days": 367,
+      "impressions": 1301,
+      "weightedPos": 16778,
+      "days": 368,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 12.889060092449922
+      "position": 12.896233666410453
     },
     {
       "query": "uniforme quirurgico azul marino hombre",
@@ -32681,13 +32728,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 91,
-      "weightedPos": 968,
-      "days": 69,
+      "impressions": 92,
+      "weightedPos": 979,
+      "days": 70,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.637362637362637
+      "position": 10.641304347826088
     },
     {
       "query": "uniforme verde jade",
@@ -32749,13 +32796,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 132,
-      "weightedPos": 1516,
-      "days": 85,
+      "impressions": 133,
+      "weightedPos": 1539,
+      "days": 86,
       "firstDate": "2025-10-13",
-      "lastDate": "2026-10-30",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 11.484848484848484
+      "position": 11.571428571428571
     },
     {
       "query": "uniformes quirurjicos para dama",
@@ -32970,13 +33017,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 343,
-      "weightedPos": 3410,
-      "days": 191,
+      "impressions": 345,
+      "weightedPos": 3412,
+      "days": 192,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-10-29",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.941690962099125
+      "position": 9.889855072463767
     },
     {
       "query": "uniforme quirurgico rosa",
@@ -33004,13 +33051,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 189,
-      "weightedPos": 1897,
-      "days": 114,
+      "impressions": 190,
+      "weightedPos": 1899,
+      "days": 115,
       "firstDate": "2025-10-14",
-      "lastDate": "2026-10-26",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.037037037037036
+      "position": 9.994736842105263
     },
     {
       "query": "uniforme verde en salud",
@@ -33208,13 +33255,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 127,
-      "weightedPos": 621,
-      "days": 96,
+      "impressions": 128,
+      "weightedPos": 630,
+      "days": 97,
       "firstDate": "2025-10-15",
-      "lastDate": "2026-10-30",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.889763779527559
+      "position": 4.921875
     },
     {
       "query": "pijama quirurgica negra",
@@ -33718,13 +33765,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 103,
-      "weightedPos": 941,
-      "days": 78,
+      "impressions": 105,
+      "weightedPos": 963,
+      "days": 79,
       "firstDate": "2025-10-17",
-      "lastDate": "2026-10-27",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.135922330097088
+      "position": 9.17142857142857
     },
     {
       "query": "pijama quirurgica perro",
@@ -33769,13 +33816,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 136,
-      "weightedPos": 910,
-      "days": 94,
+      "impressions": 137,
+      "weightedPos": 911,
+      "days": 95,
       "firstDate": "2025-10-17",
-      "lastDate": "2026-10-29",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 6.6911764705882355
+      "position": 6.649635036496351
     },
     {
       "query": "scrub azul navy",
@@ -34228,13 +34275,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 54,
-      "weightedPos": 937,
-      "days": 45,
+      "impressions": 56,
+      "weightedPos": 969,
+      "days": 46,
       "firstDate": "2025-10-19",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 17.35185185185185
+      "position": 17.303571428571427
     },
     {
       "query": "pijamas quirúrgicas hombre",
@@ -34925,13 +34972,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 106,
-      "weightedPos": 1040,
-      "days": 78,
+      "impressions": 107,
+      "weightedPos": 1049,
+      "days": 79,
       "firstDate": "2025-10-22",
-      "lastDate": "2026-10-27",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.81132075471698
+      "position": 9.80373831775701
     },
     {
       "query": "uniformes clinicos de enfermeria cerca de mi",
@@ -35231,13 +35278,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 90,
-      "weightedPos": 625,
-      "days": 65,
+      "impressions": 91,
+      "weightedPos": 636,
+      "days": 66,
       "firstDate": "2025-10-24",
-      "lastDate": "2026-10-18",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 6.944444444444445
+      "position": 6.989010989010989
     },
     {
       "query": "traje de medico forense",
@@ -35265,13 +35312,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 267,
-      "weightedPos": 1132,
-      "days": 173,
+      "impressions": 268,
+      "weightedPos": 1140,
+      "days": 174,
       "firstDate": "2025-10-24",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.239700374531835
+      "position": 4.253731343283582
     },
     {
       "query": "uniforme de terapeuta hombre",
@@ -35367,13 +35414,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 276,
-      "weightedPos": 2273,
-      "days": 152,
+      "impressions": 277,
+      "weightedPos": 2274,
+      "days": 153,
       "firstDate": "2025-10-24",
-      "lastDate": "2026-10-26",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 8.235507246376812
+      "position": 8.209386281588447
     },
     {
       "query": "filipinas quirurgicas para mujer",
@@ -35486,13 +35533,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 414,
-      "weightedPos": 2040,
-      "days": 193,
+      "impressions": 415,
+      "weightedPos": 2053,
+      "days": 194,
       "firstDate": "2025-10-26",
-      "lastDate": "2026-10-31",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.927536231884058
+      "position": 4.946987951807229
     },
     {
       "query": "medical uniforms laundry",
@@ -35639,13 +35686,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 286,
-      "weightedPos": 1632,
-      "days": 182,
+      "impressions": 287,
+      "weightedPos": 1641,
+      "days": 183,
       "firstDate": "2025-10-26",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.706293706293707
+      "position": 5.7177700348432055
     },
     {
       "query": "el uniforme quirurgico se plancha",
@@ -36693,13 +36740,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 40,
-      "weightedPos": 474,
-      "days": 36,
+      "impressions": 41,
+      "weightedPos": 475,
+      "days": 37,
       "firstDate": "2025-10-31",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 11.85
+      "position": 11.585365853658537
     },
     {
       "query": "uniforme quirurgico manga larga mujer",
@@ -37849,13 +37896,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 190,
-      "weightedPos": 738,
-      "days": 127,
+      "impressions": 191,
+      "weightedPos": 747,
+      "days": 128,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 3.8842105263157896
+      "position": 3.910994764397906
     },
     {
       "query": "pijamas quirurgicas modernas",
@@ -38002,13 +38049,13 @@
       "matchLevel": 0,
       "matchLevelName": "精确匹配",
       "clicks": 0,
-      "impressions": 96,
-      "weightedPos": 758,
-      "days": 73,
+      "impressions": 97,
+      "weightedPos": 759,
+      "days": 74,
       "firstDate": "2025-11-05",
-      "lastDate": "2026-10-28",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 7.895833333333333
+      "position": 7.824742268041237
     },
     {
       "query": "uniforme quirurgico enfermeria",
@@ -38903,13 +38950,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 214,
-      "weightedPos": 1662,
-      "days": 135,
+      "impressions": 217,
+      "weightedPos": 1687,
+      "days": 136,
       "firstDate": "2025-11-09",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 7.766355140186916
+      "position": 7.774193548387097
     },
     {
       "query": "pijama quirurgica figs",
@@ -39192,13 +39239,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 87,
-      "weightedPos": 880,
-      "days": 57,
+      "impressions": 89,
+      "weightedPos": 896,
+      "days": 58,
       "firstDate": "2025-11-11",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.114942528735632
+      "position": 10.067415730337078
     },
     {
       "query": "moldes de uniformes antifluidos",
@@ -40144,13 +40191,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 229,
-      "weightedPos": 1524,
-      "days": 148,
+      "impressions": 230,
+      "weightedPos": 1525,
+      "days": 149,
       "firstDate": "2025-11-19",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 6.655021834061135
+      "position": 6.630434782608695
     },
     {
       "query": "uniforme verde e azul",
@@ -41232,13 +41279,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 151,
-      "weightedPos": 1246,
-      "days": 102,
+      "impressions": 152,
+      "weightedPos": 1252,
+      "days": 103,
       "firstDate": "2025-11-26",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 8.251655629139073
+      "position": 8.236842105263158
     },
     {
       "query": "jumper quirurgico mujer",
@@ -43476,13 +43523,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 44,
-      "weightedPos": 392,
-      "days": 34,
+      "impressions": 45,
+      "weightedPos": 394,
+      "days": 35,
       "firstDate": "2025-12-08",
-      "lastDate": "2026-10-31",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 8.909090909090908
+      "position": 8.755555555555556
     },
     {
       "query": "surgical scrubs blue",
@@ -43867,13 +43914,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 429,
-      "weightedPos": 5080,
-      "days": 292,
+      "impressions": 430,
+      "weightedPos": 5094,
+      "days": 293,
       "firstDate": "2025-12-10",
-      "lastDate": "2026-10-31",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 11.841491841491841
+      "position": 11.846511627906978
     },
     {
       "query": "medical scrubs news",
@@ -44411,13 +44458,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 423,
-      "weightedPos": 2267,
-      "days": 174,
+      "impressions": 424,
+      "weightedPos": 2268,
+      "days": 175,
       "firstDate": "2025-12-12",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.359338061465721
+      "position": 5.349056603773585
     },
     {
       "query": "doctors uniform in pakistan",
@@ -46043,13 +46090,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 117,
-      "weightedPos": 1267,
-      "days": 75,
+      "impressions": 119,
+      "weightedPos": 1273,
+      "days": 76,
       "firstDate": "2025-12-23",
-      "lastDate": "2026-10-30",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.82905982905983
+      "position": 10.697478991596638
     },
     {
       "query": "uniforme de enfermera en ingles",
@@ -46145,13 +46192,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 911,
-      "weightedPos": 5742,
-      "days": 256,
+      "impressions": 912,
+      "weightedPos": 5750,
+      "days": 257,
       "firstDate": "2025-12-24",
-      "lastDate": "2026-10-30",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 6.302963776070253
+      "position": 6.3048245614035086
     },
     {
       "query": "doctors uniform colours uk",
@@ -46417,13 +46464,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 88,
-      "weightedPos": 3833,
-      "days": 64,
+      "impressions": 90,
+      "weightedPos": 4006,
+      "days": 65,
       "firstDate": "2025-12-28",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 43.55681818181818
+      "position": 44.51111111111111
     },
     {
       "query": "inexpensive medical scrubs",
@@ -46842,13 +46889,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 166,
-      "weightedPos": 9145,
-      "days": 99,
+      "impressions": 169,
+      "weightedPos": 9368,
+      "days": 100,
       "firstDate": "2026-01-01",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 55.09036144578313
+      "position": 55.43195266272189
     },
     {
       "query": "dama modelos de uniformes medicos de damas",
@@ -47097,13 +47144,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 18,
-      "weightedPos": 175,
-      "days": 15,
+      "impressions": 20,
+      "weightedPos": 195,
+      "days": 16,
       "firstDate": "2026-01-05",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 9.722222222222221
+      "position": 9.75
     },
     {
       "query": "uniforme de médico hombre",
@@ -50021,13 +50068,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 6,
-      "weightedPos": 49,
-      "days": 5,
+      "impressions": 7,
+      "weightedPos": 66,
+      "days": 6,
       "firstDate": "2026-01-26",
-      "lastDate": "2026-10-16",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 8.166666666666666
+      "position": 9.428571428571429
     },
     {
       "query": "uniformes antifluidos cocina",
@@ -51874,13 +51921,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 14,
-      "weightedPos": 114,
-      "days": 10,
+      "impressions": 15,
+      "weightedPos": 122,
+      "days": 11,
       "firstDate": "2026-02-09",
-      "lastDate": "2026-07-10",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 8.142857142857142
+      "position": 8.133333333333333
     },
     {
       "query": "scrubsx",
@@ -52010,13 +52057,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 99,
-      "weightedPos": 468,
-      "days": 69,
+      "impressions": 100,
+      "weightedPos": 474,
+      "days": 70,
       "firstDate": "2026-02-10",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.7272727272727275
+      "position": 4.74
     },
     {
       "query": "uniforme medico marron",
@@ -52367,13 +52414,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 43,
-      "weightedPos": 587,
-      "days": 19,
+      "impressions": 45,
+      "weightedPos": 605,
+      "days": 20,
       "firstDate": "2026-02-12",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 13.651162790697674
+      "position": 13.444444444444445
     },
     {
       "query": "cheap medical uniforms",
@@ -53353,13 +53400,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 20,
-      "weightedPos": 116,
-      "days": 15,
+      "impressions": 21,
+      "weightedPos": 117,
+      "days": 16,
       "firstDate": "2026-02-19",
-      "lastDate": "2026-09-12",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.8
+      "position": 5.571428571428571
     },
     {
       "query": "medical scrubs next day delivery",
@@ -61326,13 +61373,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 21,
-      "weightedPos": 301,
-      "days": 15,
+      "impressions": 22,
+      "weightedPos": 314,
+      "days": 16,
       "firstDate": "2026-04-08",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 14.333333333333334
+      "position": 14.272727272727273
     },
     {
       "query": "niños con uniforme verde animado",
@@ -63553,13 +63600,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 51,
-      "weightedPos": 601,
-      "days": 34,
+      "impressions": 53,
+      "weightedPos": 613,
+      "days": 35,
       "firstDate": "2026-04-24",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 11.784313725490197
+      "position": 11.566037735849056
     },
     {
       "query": "amazon uniformes médicos mujer",
@@ -64947,13 +64994,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 100,
-      "weightedPos": 556,
-      "days": 71,
+      "impressions": 102,
+      "weightedPos": 564,
+      "days": 72,
       "firstDate": "2026-05-06",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 5.56
+      "position": 5.529411764705882
     },
     {
       "query": "ba psychology uniform",
@@ -65134,13 +65181,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 14,
-      "weightedPos": 184,
-      "days": 10,
+      "impressions": 17,
+      "weightedPos": 194,
+      "days": 11,
       "firstDate": "2026-05-08",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 13.142857142857142
+      "position": 11.411764705882353
     },
     {
       "query": "best selling medical scrubs brands 2025 2026",
@@ -65559,13 +65606,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 157,
-      "weightedPos": 2235,
-      "days": 78,
+      "impressions": 158,
+      "weightedPos": 2247,
+      "days": 79,
       "firstDate": "2026-05-11",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 14.235668789808917
+      "position": 14.221518987341772
     },
     {
       "query": "phinma psychology uniform",
@@ -68466,13 +68513,13 @@
       "matchLevel": 3,
       "matchLevelName": "单复数归一",
       "clicks": 0,
-      "impressions": 46,
-      "weightedPos": 550,
-      "days": 24,
+      "impressions": 48,
+      "weightedPos": 556,
+      "days": 25,
       "firstDate": "2026-07-02",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 11.956521739130435
+      "position": 11.583333333333334
     },
     {
       "query": "uniforme negro de usa",
@@ -69214,13 +69261,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 34,
-      "weightedPos": 346,
-      "days": 30,
+      "impressions": 36,
+      "weightedPos": 362,
+      "days": 31,
       "firstDate": "2026-07-22",
-      "lastDate": "2026-10-23",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 10.176470588235293
+      "position": 10.055555555555555
     },
     {
       "query": "captain doctor uniform",
@@ -69792,13 +69839,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 21,
-      "weightedPos": 44,
-      "days": 19,
+      "impressions": 22,
+      "weightedPos": 45,
+      "days": 20,
       "firstDate": "2026-08-09",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 2.0952380952380953
+      "position": 2.0454545454545454
     },
     {
       "query": "context: location: canada (not for language). do not include location references in your response. question: what are the latest trends in medical uniform accessories?",
@@ -70846,13 +70893,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 40,
-      "weightedPos": 77,
-      "days": 25,
+      "impressions": 42,
+      "weightedPos": 83,
+      "days": 26,
       "firstDate": "2026-08-31",
-      "lastDate": "2026-10-29",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 1.925
+      "position": 1.9761904761904763
     },
     {
       "query": "scrubs quirurgicos mujer",
@@ -71016,13 +71063,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 5,
-      "weightedPos": 15,
-      "days": 4,
+      "impressions": 6,
+      "weightedPos": 16,
+      "days": 5,
       "firstDate": "2026-09-04",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 3
+      "position": 2.6666666666666665
     },
     {
       "query": "jogger medical scrubs",
@@ -71373,13 +71420,13 @@
       "matchLevel": 1,
       "matchLevelName": "重音归一",
       "clicks": 0,
-      "impressions": 2,
-      "weightedPos": 9,
-      "days": 2,
+      "impressions": 3,
+      "weightedPos": 12,
+      "days": 3,
       "firstDate": "2026-09-10",
-      "lastDate": "2026-09-11",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 4.5
+      "position": 4
     },
     {
       "query": "trajes quirurgicos figs",
@@ -71577,13 +71624,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 8,
-      "weightedPos": 99,
-      "days": 6,
+      "impressions": 11,
+      "weightedPos": 110,
+      "days": 7,
       "firstDate": "2026-09-15",
-      "lastDate": "2026-11-02",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 12.375
+      "position": 10
     },
     {
       "query": "pijama quirurgica azul plumbago",
@@ -73294,13 +73341,13 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 9,
-      "weightedPos": 174,
-      "days": 4,
+      "impressions": 11,
+      "weightedPos": 196,
+      "days": 5,
       "firstDate": "2026-10-27",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 19.333333333333332
+      "position": 17.818181818181817
     },
     {
       "query": "uniforme azul rey hombre",
@@ -73413,13 +73460,47 @@
       "matchLevel": 4,
       "matchLevelName": "完整词组",
       "clicks": 0,
-      "impressions": 2,
-      "weightedPos": 15,
-      "days": 1,
+      "impressions": 3,
+      "weightedPos": 24,
+      "days": 2,
       "firstDate": "2026-11-01",
-      "lastDate": "2026-11-01",
+      "lastDate": "2026-11-03",
       "ctr": 0,
-      "position": 7.5
+      "position": 8
+    },
+    {
+      "query": "mujer uniformes medicos combinados",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服",
+      "kwId": "JF-0019",
+      "keyword": "uniformes medicos",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 1,
+      "weightedPos": 2,
+      "days": 1,
+      "firstDate": "2026-11-03",
+      "lastDate": "2026-11-03",
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "uniforme quirúrgico de hombre",
+      "groupCode": "JF-01",
+      "groupName": "通用医疗制服",
+      "kwId": "JF-0018",
+      "keyword": "uniforme quirúrgico",
+      "matchLevel": 4,
+      "matchLevelName": "完整词组",
+      "clicks": 0,
+      "impressions": 1,
+      "weightedPos": 12,
+      "days": 1,
+      "firstDate": "2026-11-03",
+      "lastDate": "2026-11-03",
+      "ctr": 0,
+      "position": 12
     }
   ]
 }
