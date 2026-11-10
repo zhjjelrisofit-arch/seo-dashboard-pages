@@ -143,3 +143,11 @@ small,.side-label,.sb-note,.tag,.date-summary,.source-desc,.rightnote,.foot-note
 @media(max-width:1100px){.trend-grid{grid-template-columns:1fr}}
 @media(max-width:810px){.date-group{overflow:auto;max-width:100%}.trend-card-head{align-items:flex-start;flex-wrap:wrap}.graph-actions{width:100%;justify-content:space-between}.detail-switch{width:100%}.detail-switch button{flex:1}}
 @media(max-width:560px){.trend-card{padding:14px 12px}.trend-card .graph{height:235px}.metric-chips{justify-content:flex-start}.metric-chip{padding:7px 9px}.segment-control{width:100%}.segment-control button{flex:1;padding:7px 10px}.tp{grid-template-columns:1fr}.tp-head{flex-direction:row;align-items:center;justify-content:space-between}.tp-meta{grid-column:1;white-space:normal}.gm-row{width:100%}.date-btn{flex:0 0 auto}.graph-note{width:100%;margin:4px 0 0}.data-table{font-size:12px}}
+
+/* 门控按钮状态：禁用态必须有可见差异，否则看起来可点、实际无响应，用户无从判断。 */
+.gate-enter{cursor:pointer;transition:background .15s,opacity .15s}
+.gate-enter:disabled{cursor:not-allowed;background:#93aee9;color:#fff;opacity:1}
+.gate-enter.loading{background:#4b7fe8;cursor:progress;color:#fff;box-shadow:0 0 0 3px #dbe7ff}
+.gate-enter.loading::after{content:"";display:inline-block;width:11px;height:11px;margin-left:8px;border:2px solid #ffffff66;border-top-color:#fff;border-radius:50%;vertical-align:-1px;animation:gate-spin .7s linear infinite}
+@keyframes gate-spin{to{transform:rotate(360deg)}}
+
